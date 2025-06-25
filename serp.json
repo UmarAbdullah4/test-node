@@ -1,0 +1,467 @@
+{
+  "search_metadata": {
+    "id": "685a663f919dfaa193879084",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/15d5058d86263a51/685a663f919dfaa193879084.json",
+    "created_at": "2025-06-24 08:47:59 UTC",
+    "processed_at": "2025-06-24 08:47:59 UTC",
+    "youtube_url": "https://www.youtube.com/results?search_query=tr%C3%A4d&gl=ch&hl=sv",
+    "raw_html_file": "https://serpapi.com/searches/15d5058d86263a51/685a663f919dfaa193879084.html",
+    "total_time_taken": 3.41
+  },
+  "search_parameters": {
+    "engine": "youtube",
+    "search_query": "träd",
+    "gl": "ch",
+    "hl": "sv"
+  },
+  "search_information": {
+    "total_results": 15006581,
+    "video_results_state": "Results for exact spelling"
+  },
+  "video_results": [
+    {
+      "position_on_page": 1,
+      "title": "10 TRÄD FÖR ALLA TRÄDGÅRDAR - Trädgårdsdesignerns 10 FAVORITER!",
+      "link": "https://www.youtube.com/watch?v=n2xUWY_sl5A",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=ch&hl=sv&v=n2xUWY_sl5A",
+      "channel": {
+        "name": "Cavallins vardag deluxe",
+        "link": "https://www.youtube.com/@cavallinsvardagdeluxe",
+        "thumbnail": "https://yt3.ggpht.com/KHX7yScJRPfZh5xg6W5olEVWOwi8eAeDOFNrxH-0SaxtwgO0PY3nUW-1vwbsnY0BBNvw1YFGFpU=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "för 1 år sedan",
+      "views": 4172,
+      "length": "8:44",
+      "description": "I denna videon tipsar jag om prydnadsträd för alla trädgårdar (nästan). Jag visar mina favoriter i trädgården och berättar om var de ...",
+      "extensions": [
+        "Undertexter"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/n2xUWY_sl5A/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwOkEkePy2rnARsFVaHe0_AWMAlQ",
+        "rich": "https://i.ytimg.com/an_webp/n2xUWY_sl5A/mqdefault_6s.webp?du=3000&sqp=COCv6cIG&rs=AOn4CLDr438z6DVlnwM3csTDJGIpe0FFSA"
+      }
+    },
+    {
+      "position_on_page": 2,
+      "title": "Det bästa med Ben Rangel från Tripp, Trapp, Träd",
+      "link": "https://www.youtube.com/watch?v=4JeXKyynLG8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=ch&hl=sv&v=4JeXKyynLG8",
+      "channel": {
+        "name": "UR Barn",
+        "link": "https://www.youtube.com/@URBarn-et6wy",
+        "thumbnail": "https://yt3.ggpht.com/1aEf10oH-TpnRUHBA_m2qYFf_wxF_ijFHfPeC84dtpK05nkVsXKv3Mz19HTCsYzeYpRGajWS=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "för 5 månader sedan",
+      "views": 73282,
+      "length": "37:36",
+      "description": "Följ med vår älskade Ben Rangel från Tripp, Trapp, Träd när han på ett lekfullt och pedagogiskt sätt utforskar frågor som väcker ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/4JeXKyynLG8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDs_e7G-u4oWsG5ht-1C_qYQwClXQ",
+        "rich": "https://i.ytimg.com/an_webp/4JeXKyynLG8/mqdefault_6s.webp?du=3000&sqp=CIXK6cIG&rs=AOn4CLB5G34dH3K9ILZxI1fghg9rYiaPTw"
+      }
+    },
+    {
+      "position_on_page": 3,
+      "title": "Livets Träd ✧ Guidad Meditation ✧ Ljuskoder (STARK)",
+      "link": "https://www.youtube.com/watch?v=hArMY8q2nrA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=ch&hl=sv&v=hArMY8q2nrA",
+      "channel": {
+        "name": "Simon Rose",
+        "link": "https://www.youtube.com/@simonrose260",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_m21bbFKIu5XUWH3Y0yWMP6V4eCssZF7qy6rtkQl5MC7g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "för 4 år sedan",
+      "views": 21763,
+      "length": "26:55",
+      "description": "En kraftfull guidad meditation för dig att connecta med ditt sanna jag, livets träd inom dig. Innehåller ljuskoder genom ljusspråk, ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/hArMY8q2nrA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPlN6XLz4fNnhsD2FvVXs5XLDXbA"
+      }
+    },
+    {
+      "position_on_page": 4,
+      "title": "Hur man känner igen våra vanligaste träd",
+      "link": "https://www.youtube.com/watch?v=ZhPixufa8N0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=ch&hl=sv&v=ZhPixufa8N0",
+      "channel": {
+        "name": "Safari Sverige",
+        "link": "https://www.youtube.com/@safarisverige",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nmrWOD9WjSFcDtI-HPnv-wxVE64OaX3k9R1-uCcbQQ9ds=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "för 1 år sedan",
+      "views": 2233,
+      "length": "2:46",
+      "description": "Miljöjägarna utbildar ungdomar och äldre (65+) för att producera film om miljöprojekt runt om i Sverige. Ta reda på mer på ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/ZhPixufa8N0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfpn5mmvTQI6_T3EgB3UYMRrNk5g",
+        "rich": "https://i.ytimg.com/an_webp/ZhPixufa8N0/mqdefault_6s.webp?du=3000&sqp=CNjJ6cIG&rs=AOn4CLCBsn9kMTv1TEl4do5xJuoo6cxhKw"
+      }
+    },
+    {
+      "position_on_page": 5,
+      "title": "Från frö till träd (Biologi) - www.binogi.se",
+      "link": "https://www.youtube.com/watch?v=XBnG5Ty6VT8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=ch&hl=sv&v=XBnG5Ty6VT8",
+      "channel": {
+        "name": "Binogi Sverige",
+        "link": "https://www.youtube.com/@BinogiSverige",
+        "thumbnail": "https://yt3.ggpht.com/RfcRYjeYwkONci-rxUxKTDpBidXAKWptwC51cvOyjjWwuw_--NAEQzdxx_DBGaYWi826sz4g=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "för 9 år sedan",
+      "views": 138660,
+      "length": "3:38",
+      "description": "Testa och lär mer genom att skapa ett gratis konto på www.binogi.se Binogi (fd Studi) Digitalt läromedel Multimodalt och ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/XBnG5Ty6VT8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYWRHa5iiAKKwiNGqbTcE3JbyPjg",
+        "rich": "https://i.ytimg.com/an_webp/XBnG5Ty6VT8/mqdefault_6s.webp?du=3000&sqp=CI-56cIG&rs=AOn4CLDoWRcbLTAgKH8xGjBw-TIFkxlc7w"
+      }
+    },
+    {
+      "position_on_page": 6,
+      "title": "Fällning av stora, ännu större och svårfällda träd",
+      "link": "https://www.youtube.com/watch?v=Bzc0FGoeE3g",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=ch&hl=sv&v=Bzc0FGoeE3g",
+      "channel": {
+        "name": "Oslättfors Trädfällning",
+        "link": "https://www.youtube.com/@oslattforstradfallning3302",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lllrOk8CpIvyFzXA7M8JhPI8p6n0iGy1dWXnr0bU21AIw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "för 9 månader sedan",
+      "views": 32584,
+      "length": "35:20",
+      "description": "Träd en mysig. Bra hög i själva som ni ser där uppe det får ju bli i man får såga brösthöjd för att få ner dem Ja och så den tur var ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Bzc0FGoeE3g/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhiIGUoSDAP&rs=AOn4CLBpDnNb7xLkK3Q5PhPxv3trhvisXA",
+        "rich": "https://i.ytimg.com/an_webp/Bzc0FGoeE3g/mqdefault_6s.webp?du=3000&sqp=COCv6cIG&rs=AOn4CLDrJXA4NwBAdtSLY8xIlc0hahQM0g"
+      }
+    },
+    {
+      "position_on_page": 7,
+      "title": "Hur du fäller ett träd.",
+      "link": "https://www.youtube.com/watch?v=hIORtjsknyA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=ch&hl=sv&v=hIORtjsknyA",
+      "channel": {
+        "name": "Trädgårdstips",
+        "link": "https://www.youtube.com/@tradgardstips5597",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nlHzeuE5CTGu3-EF3RUfFGS5BG1zqzzEvdkh-naRIiCA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "för 6 år sedan",
+      "views": 150990,
+      "length": "3:13",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/hIORtjsknyA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAm4H1l8q_BDPEZT6VNBrX7uoDG2Q",
+        "rich": "https://i.ytimg.com/an_webp/hIORtjsknyA/mqdefault_6s.webp?du=3000&sqp=COC46cIG&rs=AOn4CLBDJbR6uPYjCdDpJdlt6NLo5JvgnQ"
+      }
+    },
+    {
+      "position_on_page": 8,
+      "title": "Fem små kor sitter i ett träd - Svenska barnsånger",
+      "link": "https://www.youtube.com/watch?v=EU8RgYX5iio",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=ch&hl=sv&v=EU8RgYX5iio",
+      "channel": {
+        "name": "Pudding-TV Sverige",
+        "link": "https://www.youtube.com/@PuddingTVSE",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/sN-K9nLaG7lzVI4T5l_HkkqPJCbfsX0-bPK46R0YVrzwSyQn6v1C8hbfmK-KgJQVv_mrIwgn=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "för 6 år sedan",
+      "views": 2086880,
+      "length": "1:56",
+      "description": "Pudding-TV är en YouTube-kanal med barnsånger på svenska. Tanken bakom är att barn kan lära och samtidigt ha roligt genom ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/EU8RgYX5iio/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChPxza5YDKAWn3o33c_LaGbziiNQ",
+        "rich": "https://i.ytimg.com/an_webp/EU8RgYX5iio/mqdefault_6s.webp?du=3000&sqp=CMLC6cIG&rs=AOn4CLDq9nb9OeiaWbPv8J6LQNl5jT9ejQ"
+      }
+    },
+    {
+      "position_on_page": 9,
+      "title": "tripp trapp träd",
+      "link": "https://www.youtube.com/watch?v=Pc17_uy_74c",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=ch&hl=sv&v=Pc17_uy_74c",
+      "channel": {
+        "name": "Maksymilian Labuda",
+        "link": "https://www.youtube.com/@MaksymilianLabuda",
+        "thumbnail": "https://yt3.ggpht.com/73xXN9PLbJy3oDFXfWBSh22mK4EkEqKkwO3D9zYQUYynMREV3BaFSBWmGr_dE76vS2-XT2tPiQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "för 1 år sedan",
+      "views": 11415,
+      "length": "4:25",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Pc17_uy_74c/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDKUVMl0ZEaXlEyizFzz1Msnj2Bg",
+        "rich": "https://i.ytimg.com/an_webp/Pc17_uy_74c/mqdefault_6s.webp?du=3000&sqp=CNbD6cIG&rs=AOn4CLDo2Cf1FiAVLpJQVqlnsdk6CjqJ3w"
+      }
+    },
+    {
+      "position_on_page": 10,
+      "title": "Barken på vanliga träd och buskar: 32 arter",
+      "link": "https://www.youtube.com/watch?v=MgQV4hRjqWo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=ch&hl=sv&v=MgQV4hRjqWo",
+      "channel": {
+        "name": "Svenska vilda växter och svampar",
+        "link": "https://www.youtube.com/@UsefulPlantsOfSweden",
+        "thumbnail": "https://yt3.ggpht.com/3HRIXiWhQtZrHJBnVhc8aOY3teEPaehhsxECW82BUREUV-VGqiIO_e5CHXEHf3bOySLWRFGm=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "för 1 år sedan",
+      "views": 638,
+      "length": "4:18",
+      "description": "1. Gran 2. Tall 3. Björk 4. Ek 5. Sälg 6. Brakved 7. Asp 8. Rönn 9. Körsbär 10. En 11. Lönn 12. Tysklönn 13. Oxel 14. Alm 15.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/MgQV4hRjqWo/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIF4oVDAP&rs=AOn4CLD-AayScPXNvmr5ijgtet4qCnUeLQ",
+        "rich": "https://i.ytimg.com/an_webp/MgQV4hRjqWo/mqdefault_6s.webp?du=3000&sqp=CMi26cIG&rs=AOn4CLBY0CyHJ-0AvOhpBeGaoDnh0lujGA"
+      }
+    },
+    {
+      "position_on_page": 11,
+      "title": "a clever idea to cutting down this HUGE tree 😱 #tree #short #shorts #shortvideo #shortsvideo #fypシ",
+      "link": "https://www.youtube.com/watch?v=TrqzbcnNq_8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=ch&hl=sv&v=TrqzbcnNq_8",
+      "channel": {
+        "name": "MyTacticalPromos",
+        "link": "https://www.youtube.com/@mytacticalpromos",
+        "thumbnail": "https://yt3.ggpht.com/rjJ2jkqys_ZT1GyGIo-CNpEdVqeBQYoDBSnWYr25EBm2lzFXHJoo4rh6rJw9vSd7oMOWZdv8=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "för 1 år sedan",
+      "views": 10641408,
+      "length": "0:16",
+      "description": "a clever idea to cutting down this HUGE tree.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/TrqzbcnNq_8/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAApQJigIMCAAQARhlIGUoZTAP&rs=AOn4CLAR6dn_HBJcImZ7olCM1N8Ij9xK2Q",
+        "rich": "https://i.ytimg.com/an_webp/TrqzbcnNq_8/mqdefault_6s.webp?du=3000&sqp=CP-u6cIG&rs=AOn4CLD-7oqfy7nup5Df_FbrePvgDYZuZg"
+      }
+    },
+    {
+      "position_on_page": 12,
+      "title": "Fälla TRÄD på 2 olika sätt och vis! Ett gammalt och ett modernt sätt! Vilket tycker du är bäst?",
+      "link": "https://www.youtube.com/watch?v=nnXqG0ju4Aw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=ch&hl=sv&v=nnXqG0ju4Aw",
+      "channel": {
+        "name": "BJÖRKARPS GÅRDEN",
+        "link": "https://www.youtube.com/@bjorkarpsgard",
+        "thumbnail": "https://yt3.ggpht.com/bzQYVo8Yccpyy4K0V6gmJbVmewJmRM9ddCi-iXDhP8bVxwEaU2e4DqsANdfcODEQw8UbEv2HbQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "för 1 år sedan",
+      "views": 170264,
+      "length": "15:09",
+      "description": "Markus visar hur han brukar fälla träd! Utrustning som han använder: Motorsåg (Husqvarna och Cramer) Kil Slagjärn Och givetvis ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/nnXqG0ju4Aw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQkzFtxC6C_Njhf_R3yQDC8HIOYw",
+        "rich": "https://i.ytimg.com/an_webp/nnXqG0ju4Aw/mqdefault_6s.webp?du=3000&sqp=CMCf6cIG&rs=AOn4CLDZtrTS9U0fOJdEkiqFUBeo5HH2hQ"
+      }
+    },
+    {
+      "position_on_page": 13,
+      "title": "How To Draw A Tree",
+      "link": "https://www.youtube.com/watch?v=gExU54kVM0o",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=ch&hl=sv&v=gExU54kVM0o",
+      "channel": {
+        "name": "Art for Kids Hub",
+        "link": "https://www.youtube.com/@artforkidshub",
+        "verified": true,
+        "thumbnail": "https://yt3.ggpht.com/2v2xIGZEuGhqBC5wVyqgal0UMtyClFzVVOw7brPTSPtR_Sii_k1BehSxI-e5X_FiKu7nkF36IR4=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "för 8 år sedan",
+      "views": 1712637,
+      "length": "8:20",
+      "description": "Learn how to draw a tree by following along with us. This is a great activity to celebrate Earth Day! Become an Art Club member ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/gExU54kVM0o/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjl5G4oQ0cuJ5cHlqlpZ5E4aJUJQ",
+        "rich": "https://i.ytimg.com/an_webp/gExU54kVM0o/mqdefault_6s.webp?du=3000&sqp=CPKh6cIG&rs=AOn4CLADXEmcz_nWyCEs5PKZTKx6VbUEfw"
+      }
+    },
+    {
+      "position_on_page": 14,
+      "title": "Vi lär oss om: Sveriges träd Trailer (Sol7529)",
+      "link": "https://www.youtube.com/watch?v=9ifHXwQEMx8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=ch&hl=sv&v=9ifHXwQEMx8",
+      "channel": {
+        "name": "Solfilm Media",
+        "link": "https://www.youtube.com/@solfilmmedia7205",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nz4VC8rDYpov9bzWkS72R9xE-ETgbYg8sfOGlHwVSKiQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "för 4 år sedan",
+      "views": 3787,
+      "length": "1:28",
+      "description": "Träd finns överallt runt omkring oss. I den här filmen ska vi gå igenom vad ett träd är för något och samtidigt lär vi oss om några av ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/9ifHXwQEMx8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDub15hUq8d_kTlk9kM3z3-11Zcw",
+        "rich": "https://i.ytimg.com/an_webp/9ifHXwQEMx8/mqdefault_6s.webp?du=3000&sqp=CN2D6cIG&rs=AOn4CLDiw4ZcVp27NgKnzJoM-nb0WVwvBw"
+      }
+    },
+    {
+      "position_on_page": 15,
+      "title": "Motorsåg C-kurs Lumpning , Nedtagning av ruttet träd på säkert sätt med motorsåg!",
+      "link": "https://www.youtube.com/watch?v=rd0p4XW_Fyc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=ch&hl=sv&v=rd0p4XW_Fyc",
+      "channel": {
+        "name": "urban ”Skogsubbe” Klingenberg",
+        "link": "https://www.youtube.com/@Skogsubbe",
+        "thumbnail": "https://yt3.ggpht.com/8qRE1k6JCp-IjhqZCtPYSiuhC7ypAC5ManLDCR_fIkPbprFTwjOhwsrB9MvGGJ31T4KBzPkw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "för 7 månader sedan",
+      "views": 20788,
+      "length": "4:38",
+      "description": "Urban \"skogsubbe\" Klingenberg av Säker Skog utbildad motorsågs instruktör/examinator lägger upp korta filmer om real case i ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/rd0p4XW_Fyc/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIF4oTzAP&rs=AOn4CLCRyaBLN44ZatGlk48LWLT-f7CLcQ",
+        "rich": "https://i.ytimg.com/an_webp/rd0p4XW_Fyc/mqdefault_6s.webp?du=3000&sqp=CIa06cIG&rs=AOn4CLDLyvjczaft7TTWzC68CtdhXkXN9g"
+      }
+    },
+    {
+      "position_on_page": 16,
+      "title": "Så planterar du ett träd",
+      "link": "https://www.youtube.com/watch?v=jjnS1h3eq2s",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=ch&hl=sv&v=jjnS1h3eq2s",
+      "channel": {
+        "name": "HasselforsGarden",
+        "link": "https://www.youtube.com/@HasselforsGarden",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_klJfIxg7-41yTqGfxbRaOTFddBCvGoeMxOn06dE-OPbQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "för 1 år sedan",
+      "views": 523,
+      "length": "7:40",
+      "description": "Häng med när Pia planterar ett träd. Följ med i hela processen från att gräva en grop, välja rätt jord samt stabilisera trädet efteråt.",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/jjnS1h3eq2s/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhWIGUoKzAP&rs=AOn4CLC2d6jh84DYxELaJDlVYHkm6fIr6w",
+        "rich": "https://i.ytimg.com/an_webp/jjnS1h3eq2s/mqdefault_6s.webp?du=3000&sqp=CMKv6cIG&rs=AOn4CLBHp59NMWwMRYpMNT19qN0rBpXRwA"
+      }
+    },
+    {
+      "position_on_page": 17,
+      "title": "Visar lite om hur jag sätter kilarna när vi fäller träd som lutar åt fel håll",
+      "link": "https://www.youtube.com/watch?v=sikLCKN1-zQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=ch&hl=sv&v=sikLCKN1-zQ",
+      "channel": {
+        "name": "Oslättfors Trädfällning",
+        "link": "https://www.youtube.com/@oslattforstradfallning3302",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lllrOk8CpIvyFzXA7M8JhPI8p6n0iGy1dWXnr0bU21AIw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "för 6 månader sedan",
+      "views": 30278,
+      "length": "16:38",
+      "description": "... ju jag hade missat en film igår som jag la till därför han säger att det var första trädet men det var gårdagens första träd så att det ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/sikLCKN1-zQ/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhkIGUoTTAP&rs=AOn4CLDhgOxSwKRvkMYyUi8oiMHJLdmrrQ",
+        "rich": "https://i.ytimg.com/an_webp/sikLCKN1-zQ/mqdefault_6s.webp?du=3000&sqp=CIiy6cIG&rs=AOn4CLDrPMFZ_cEBd4nPT-qZ6VVKsqVo6g"
+      }
+    },
+    {
+      "position_on_page": 18,
+      "title": "V kap med motorsåg på framåtlutande träd för att undvika spjälkning/V cut on forward leaning trees.",
+      "link": "https://www.youtube.com/watch?v=Z8vWnuYnGoM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=ch&hl=sv&v=Z8vWnuYnGoM",
+      "channel": {
+        "name": "urban ”Skogsubbe” Klingenberg",
+        "link": "https://www.youtube.com/@Skogsubbe",
+        "thumbnail": "https://yt3.ggpht.com/8qRE1k6JCp-IjhqZCtPYSiuhC7ypAC5ManLDCR_fIkPbprFTwjOhwsrB9MvGGJ31T4KBzPkw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "för 2 månader sedan",
+      "views": 2984,
+      "length": "2:13",
+      "description": "Urban \"skogsubbe\" Klingenberg av Säker Skog utbildad motorsågs instruktör/examinator lägger upp korta filmer om real case i ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/Z8vWnuYnGoM/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFkoUTAP&rs=AOn4CLBVEKjEE20KdgLpmITTbSe8yrcnUg",
+        "rich": "https://i.ytimg.com/an_webp/Z8vWnuYnGoM/mqdefault_6s.webp?du=3000&sqp=CP226cIG&rs=AOn4CLBey4i7zOcFpX_6t2oxSV0IqfSSFw"
+      }
+    },
+    {
+      "position_on_page": 19,
+      "title": "Träd, Gräs Och Stenar   All Along the Watchtower 1970",
+      "link": "https://www.youtube.com/watch?v=jmrql7Zhg-c",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=ch&hl=sv&v=jmrql7Zhg-c",
+      "channel": {
+        "name": "illussionn1",
+        "link": "https://www.youtube.com/@illussionn1",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n_OGjKIEb4mIt0BI_wfZCQ9JOrvlbFEBJEZzKNea3C3Q=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "för 10 år sedan",
+      "views": 16530,
+      "length": "8:18",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/jmrql7Zhg-c/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFMoVDAP&rs=AOn4CLCJpX7hwIPFMjtluCPdNlG4TB1O5A"
+      }
+    },
+    {
+      "position_on_page": 20,
+      "title": "Ta ner fastfällt träd med trappa ner metod m motorsåg.",
+      "link": "https://www.youtube.com/watch?v=f3eAqhFJKPs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=ch&hl=sv&v=f3eAqhFJKPs",
+      "channel": {
+        "name": "urban ”Skogsubbe” Klingenberg",
+        "link": "https://www.youtube.com/@Skogsubbe",
+        "thumbnail": "https://yt3.ggpht.com/8qRE1k6JCp-IjhqZCtPYSiuhC7ypAC5ManLDCR_fIkPbprFTwjOhwsrB9MvGGJ31T4KBzPkw=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "för 12 dagar sedan",
+      "views": 3097,
+      "length": "4:02",
+      "description": "Urban \"skogsubbe\" Klingenberg av Säker Skog utbildad motorsågs instruktör/examinator lägger upp korta filmer om real case i ...",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/f3eAqhFJKPs/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGIoSjAP&rs=AOn4CLCFdZ-QU-WdZ-QgdVA7csga6cmZmQ",
+        "rich": "https://i.ytimg.com/an_webp/f3eAqhFJKPs/mqdefault_6s.webp?du=3000&sqp=CJGj6cIG&rs=AOn4CLAneGxp_xs5uDXdZQUaXvYRI5Ft5A"
+      }
+    },
+    {
+      "position_on_page": 22,
+      "title": "Träd",
+      "link": "https://www.youtube.com/watch?v=9DR5qGk45WI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=ch&hl=sv&v=9DR5qGk45WI",
+      "channel": {
+        "name": "McCafferty - Topic",
+        "link": "https://www.youtube.com/channel/UCLTjDlZ3qK0JJu4EgxTB0GA",
+        "thumbnail": "https://yt3.ggpht.com/vUFPPC-KIgXu5WVzv31bg5WUozHvrOtVF6ofAm0MUP7YILOAXB61eQ0Iuhccr9mvZfoyD-Sv6Ig=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "views": 6037317,
+      "length": "3:04",
+      "description": "Provided to YouTube by TuneCore Trees · McCafferty Forest Life ℗ 2018 McCafferty Released on: 2018-01-19 Auto-generated by ...",
+      "extensions": [
+        "engelska"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/9DR5qGk45WI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRY7ExU6lYwKguJZlL28wk1PEQxA"
+      }
+    },
+    {
+      "position_on_page": 23,
+      "title": "Avoiding Death by Tree - The Climber Owns the Space",
+      "link": "https://www.youtube.com/watch?v=SxYAwusGSXk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=ch&hl=sv&v=SxYAwusGSXk",
+      "channel": {
+        "name": "Game of Trees",
+        "link": "https://www.youtube.com/@GameofTrees",
+        "thumbnail": "https://yt3.ggpht.com/VHq4S6t_GieyBaWxs0uKBxuTah3eKSEgUt9IPqwoYnx5ANrLXFAe9of_8VV8J2IKMvel9-OJkQ=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "published_date": "för 2 veckor sedan",
+      "views": 1586,
+      "length": "53:18",
+      "description": "I was just another tree removal on a nice day. We were hoping for a line drop, but the scheduling was going to be two months out.",
+      "extensions": [
+        "engelska"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/SxYAwusGSXk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAriYSnr0Hoy7GZF0TWfX8SWiJ2aA",
+        "rich": "https://i.ytimg.com/an_webp/SxYAwusGSXk/mqdefault_6s.webp?du=3000&sqp=CLSt6cIG&rs=AOn4CLCpdn8g85cgSqNJLOA_YuKuW6fzzA"
+      }
+    }
+  ],
+  "channel_results": [
+    {
+      "position_on_page": 21,
+      "title": "skyldig till Treeson",
+      "link": "https://www.youtube.com/@GuiltyofTreeson",
+      "handle": "@GuiltyofTreeson",
+      "subscribers": 1630000,
+      "description": "Jacob Rogers Jag är en ISA-certifierad arborist i Enumclaw Washington State. Jag äger en liten trädtjänst som heter Guilty of Treeson ...",
+      "thumbnail": "https://yt3.ggpht.com/2Mcmd6Fo-vD6aaRJT2D7x3-uiAE_1OW3zaNfAMpV8t8r9WHRIIW0VKIPIKdtc9p4Rz9jvEwZ8Q=s88-c-k-c0x00ffffff-no-rj-mo"
+    }
+  ],
+  "pagination": {
+    "current": "https://www.youtube.com/results?search_query=tr%C3%A4d&gl=ch&hl=sv",
+    "next": "https://www.youtube.com/results?gl=ch&hl=sv&search_query=tr%C3%A4d&sp=SBSCAQtaaFBpeHVmYThOMIIBC1hCbkc1VHk2VlQ4ggELQnpjMEZHb2VFM2eCAQtoSU9SdGpza255QYIBC0VVOFJnWVg1aWlvggELUGMxN191eV83NGOCAQtNZ1FWNGhSanFXb4IBC1RycXpiY25OcV84ggELbm5YcUcwanU0QXeCAQtnRXhVNTRrVk0wb4IBCzlpZkhYd1FFTXg4ggELcmQwcDRYV19GeWOCAQtqam5TMWgzZXEyc4IBC3Npa0xDS04xLXpRggELWjh2V251WW5Hb02CAQtqbXJxbDdaaGctY4IBC2YzZUFxaEZKS1BzggEYVUNyMVJKUTVlM0dBN2JYNmJuZTNGcXF3ggELOURSNXFHazQ1V0mCAQtTeFlBd3VzR1NYa7IBBgoECBkQAuoBBAgCEBQ%253D",
+    "next_page_token": "SBSCAQtaaFBpeHVmYThOMIIBC1hCbkc1VHk2VlQ4ggELQnpjMEZHb2VFM2eCAQtoSU9SdGpza255QYIBC0VVOFJnWVg1aWlvggELUGMxN191eV83NGOCAQtNZ1FWNGhSanFXb4IBC1RycXpiY25OcV84ggELbm5YcUcwanU0QXeCAQtnRXhVNTRrVk0wb4IBCzlpZkhYd1FFTXg4ggELcmQwcDRYV19GeWOCAQtqam5TMWgzZXEyc4IBC3Npa0xDS04xLXpRggELWjh2V251WW5Hb02CAQtqbXJxbDdaaGctY4IBC2YzZUFxaEZKS1BzggEYVUNyMVJKUTVlM0dBN2JYNmJuZTNGcXF3ggELOURSNXFHazQ1V0mCAQtTeFlBd3VzR1NYa7IBBgoECBkQAuoBBAgCEBQ%3D"
+  },
+  "serpapi_pagination": {
+    "current": "https://serpapi.com/search.json?engine=youtube&gl=ch&hl=sv&search_query=tr%C3%A4d",
+    "next": "https://serpapi.com/search.json?engine=youtube&gl=ch&hl=sv&search_query=tr%C3%A4d&sp=SBSCAQtaaFBpeHVmYThOMIIBC1hCbkc1VHk2VlQ4ggELQnpjMEZHb2VFM2eCAQtoSU9SdGpza255QYIBC0VVOFJnWVg1aWlvggELUGMxN191eV83NGOCAQtNZ1FWNGhSanFXb4IBC1RycXpiY25OcV84ggELbm5YcUcwanU0QXeCAQtnRXhVNTRrVk0wb4IBCzlpZkhYd1FFTXg4ggELcmQwcDRYV19GeWOCAQtqam5TMWgzZXEyc4IBC3Npa0xDS04xLXpRggELWjh2V251WW5Hb02CAQtqbXJxbDdaaGctY4IBC2YzZUFxaEZKS1BzggEYVUNyMVJKUTVlM0dBN2JYNmJuZTNGcXF3ggELOURSNXFHazQ1V0mCAQtTeFlBd3VzR1NYa7IBBgoECBkQAuoBBAgCEBQ%253D",
+    "next_page_token": "SBSCAQtaaFBpeHVmYThOMIIBC1hCbkc1VHk2VlQ4ggELQnpjMEZHb2VFM2eCAQtoSU9SdGpza255QYIBC0VVOFJnWVg1aWlvggELUGMxN191eV83NGOCAQtNZ1FWNGhSanFXb4IBC1RycXpiY25OcV84ggELbm5YcUcwanU0QXeCAQtnRXhVNTRrVk0wb4IBCzlpZkhYd1FFTXg4ggELcmQwcDRYV19GeWOCAQtqam5TMWgzZXEyc4IBC3Npa0xDS04xLXpRggELWjh2V251WW5Hb02CAQtqbXJxbDdaaGctY4IBC2YzZUFxaEZKS1BzggEYVUNyMVJKUTVlM0dBN2JYNmJuZTNGcXF3ggELOURSNXFHazQ1V0mCAQtTeFlBd3VzR1NYa7IBBgoECBkQAuoBBAgCEBQ%3D"
+  }
+}
