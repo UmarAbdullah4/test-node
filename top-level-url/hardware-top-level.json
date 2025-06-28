@@ -1,0 +1,2299 @@
+{
+  "root": "https://jula.se/",
+  "length": {
+    "links": 257,
+    "aliveTop": 257,
+    "cosineResults": 15,
+    "parents": 15,
+    "uniqAcc": 7,
+    "linksData": 7
+  },
+  "links": [
+    {
+      "href": "https://jula.se/julaclub",
+      "title": "om julaclub"
+    },
+    {
+      "href": "https://jula.se/julapro",
+      "title": "om julapro – för företag och föreningar"
+    },
+    {
+      "href": "https://jula.se/presentkort",
+      "title": "presentkort"
+    },
+    {
+      "href": "https://jula.se/recensioner",
+      "title": "4,44,4(1 400 000+)"
+    },
+    {
+      "href": "https://jula.se/inspiration",
+      "title": "inspiration"
+    },
+    {
+      "href": "https://jula.se/nyheter",
+      "title": "nyheter"
+    },
+    {
+      "href": "https://jula.se/varumarken",
+      "title": "varumärken"
+    },
+    {
+      "href": "https://jula.se/erbjudanden",
+      "title": "erbjudanden"
+    },
+    {
+      "href": "https://jula.se/smart-val",
+      "title": "smart val"
+    },
+    {
+      "href": "https://jula.se/julas-lagsta-pris",
+      "title": "julas lägsta pris!"
+    },
+    {
+      "href": "https://jula.se/kundservice",
+      "title": "kundservice"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/grillning/grillar/utekok/utekoksbank-med-skap-027588",
+      "title": "uteköksbänk med skåp"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/pool-och-bad/bad-och-strand/solstolar/solstol-017611",
+      "title": "solstol"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/pool-och-bad/bad-och-strand/solstolar/strandmadrass-med-ryggstod-029511",
+      "title": "strandmadrass med ryggstöd 160x53 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/tradgardsmaskiner/trimmers-och-rojsagar/batteridrivna-grastrimmers/batteridriven-grastrimmer-027305",
+      "title": "batteridriven grästrimmer 18 v 25 cm 2,0 ah"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/grillning/grillar/gasolgrillar/gasolgrill-030372",
+      "title": "gasolgrill 76x41 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/bevattning/vattenslangar-och-tillbehor/slangvindor/slangvinda-med-vattenslang-031289",
+      "title": "slangvinda med vattenslang 25 m"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/bat/batar/gummibatar/gummibat-026425",
+      "title": "gummibåt"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/friluftsliv-och-camping/campingmobler/bord-och-stolar/campingstol-000815",
+      "title": "campingstol"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/forvaring/hyllor/forvaringshyllor/forvaringshylla-017287",
+      "title": "förvaringshylla 90x180x45 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/klader-och-skydd/herrklader/arbetsklader/arbetsshorts/arbetsshorts-herr-030119",
+      "title": "arbetsshorts herr 46"
+    },
+    {
+      "href": "https://jula.se/catalog/hem-och-hushall/stad-och-kladvard/dammsugare/grovdammsugare/grovdammsugare-030499",
+      "title": "grovdammsugare 30 l 1600 w"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/varme-och-ventilation/kalluft/golvflaktar/luftkylare-014241",
+      "title": "luftkylare 105 cm 65 w"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/tradgardsmaskiner/hacksaxar-och-beskarningsmaskiner/batteridrivna-hacksaxar/batteridriven-hacksax-027130",
+      "title": "batteridriven häcksax 40 v 600 mm 2,0 ah"
+    },
+    {
+      "href": "https://jula.se/catalog/verktyg-och-maskiner/elverktyg-och-maskiner/tillbehor-till-batteridrivet/batterier-till-elverktyg/batterier--018177",
+      "title": "batterier 2-pk 18 v 4,0 ah"
+    },
+    {
+      "href": "https://jula.se/catalog/bil-och-garage/bilvard/hogtryckstvattar/elektriska-hogtryckstvattar/hogtryckstvatt-030498",
+      "title": "högtryckstvätt 180 bar 2500 w"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/utemiljo/partytalt-och-paviljonger/tradgardspaviljonger/paviljong-021389",
+      "title": "paviljong 3,3x3,3 m"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/friluftsliv-och-camping/kylboxar/kylboxar/frys-kylbox-024100",
+      "title": "frys-/kylbox 40 l 12/24/230 v 60 w"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/utemiljo/tradgardsmobler/tradgardsbord/hopfallbart-bord-790226",
+      "title": "hopfällbart bord 180x76x74 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/verktyg-och-maskiner/elverktyg-och-maskiner/skruvdragare/batteridrivna-skruvdragare/skruvdragare-med-batteri-och-laddare-030725",
+      "title": "skruvdragare med batteri och laddare 35 nm 2,0 ah 18 v"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/stegar-och-stallningar/byggstallningar-och-plattformar/byggstallningar/multibyggstallning-340170",
+      "title": "multibyggställning 3,1 m"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/utemiljo/partytalt-och-paviljonger/pop-up-talt/pop-up-talt-023297",
+      "title": "pop up-tält 3x3 m"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/grillning/grillar/gasolgrillar/gasolgrill-026559",
+      "title": "gasolgrill 63x41.5 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/forvaring/hyllor/forvaringshyllor/forvaringshylla-012810",
+      "title": "förvaringshylla 150x180x60 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/bil-och-garage/bilvard/hogtryckstvattar/elektriska-hogtryckstvattar/hogtryckstvatt-026574",
+      "title": "högtryckstvätt 160 bar 2200 w"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/varme-och-ventilation/kalluft/golvflaktar/golvflakt-med-fjarrkontroll-014758",
+      "title": "golvfläkt med fjärrkontroll 32,9 w  ø40x112-129 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/pool-och-bad/pooler-och-spa/pooler/pool-med-stalram-030334",
+      "title": "pool med stålram 7250 l 4,27x2,5x1 m"
+    },
+    {
+      "href": "https://jula.se/catalog/bil-och-garage/transport/lastsakring/cykelhallare/cykelhallare-for-dragkrok-609208",
+      "title": "cykelhållare för dragkrok"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/utemiljo/tradgardsmobler/tradgardsstolar/hopfallbar-positionsstol-021384",
+      "title": "hopfällbar positionsstol"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/utemiljo/tradgardsmobler/dynlador/dynlada-006854",
+      "title": "dynlåda 870 l 147x86x83 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/varme-och-ventilation/kalluft/luftkonditionering/luftkonditionering-025359",
+      "title": "luftkonditionering 2600 w 70 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/pool-och-bad/pooler-och-spa/pooler/pool-med-stalram-951020",
+      "title": "pool med stålram 4383 l ø300x76 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/varme-och-ventilation/kalluft/golvflaktar/pelarflakt-014242",
+      "title": "pelarfläkt 76 cm 45 w"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/pool-och-bad/pooler-och-spa/pooler/pool-009853",
+      "title": "pool 200x150x50 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/pool-och-bad/pooler-och-spa/pooler/pool-med-stalvagg-019217",
+      "title": "pool med stålvägg 10990 l ø366x122 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/varme-och-ventilation/kalluft/golvflaktar/golvflakt-025188",
+      "title": "golvfläkt 45 w ø41 105-125 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/varme-och-ventilation/kalluft/luftkonditionering/luftkonditionering-025364",
+      "title": "luftkonditionering 3520 w 73 cm"
+    },
+    {
+      "href": "https://jula.se/vara-varuhus",
+      "title": "varuhus och öppettider"
+    },
+    {
+      "href": "https://jula.se/storleksguide",
+      "title": "storleksguide"
+    },
+    {
+      "href": "https://jula.se/aterkallade-produkter",
+      "title": "återkallade produkter"
+    },
+    {
+      "href": "https://jula.se/tillganglighet",
+      "title": "tillgänglighet"
+    },
+    {
+      "href": "https://jula.se/om-jula",
+      "title": "företaget jula"
+    },
+    {
+      "href": "https://jula.se/julas-egna-varumarken",
+      "title": "julas egna varumärken"
+    },
+    {
+      "href": "https://jula.se/hallbarhet-och-ansvar",
+      "title": "hållbarhet och ansvar"
+    },
+    {
+      "href": "https://jula.se/om-jula/jobba-pa-jula",
+      "title": "jobba på jula"
+    },
+    {
+      "href": "https://jula.se/erbjudanden/julaclub-erbjudanden",
+      "title": "julaclub-erbjudanden"
+    },
+    {
+      "href": "https://jula.se/catalog/klader-och-skydd/skor/arbetsskor/skyddssandaler/skyddssandaler-med-snabbsnorning-030150",
+      "title": "skyddssandaler med snabbsnörning s1pl"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/friluftsliv-och-camping/kylboxar/kylvaskor/kylvaska-027166",
+      "title": "kylväska 22 l"
+    },
+    {
+      "href": "https://jula.se/catalog/klader-och-skydd/skydd/omplastring-och-rengoring/forsta-hjalpen-kit/forsta-hjalpen-vaska-881062",
+      "title": "första hjälpen-väska 48 delar"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/utemiljo/tradgardsmobler/mobelgrupper/mobelgrupp-027526",
+      "title": "möbelgrupp 2 delar"
+    },
+    {
+      "href": "https://jula.se/catalog/verktyg-och-maskiner/elverktyg-och-maskiner/sagar/elektriska-sanksagar/sanksag-015607",
+      "title": "sänksåg 1200 w ø165 mm"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/tradgardsmaskiner/trimmers-och-rojsagar/batteridrivna-grastrimmers/batteridriven-slytrimmer-014716",
+      "title": "batteridriven slytrimmer 40 v 5,0 ah 26/38 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/fritidsaktiviteter/utelek/studsmattor/studsmatta-030219",
+      "title": "studsmatta ø3,96 m"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/tradgardsmaskiner/grasklippare/batteridrivna-grasklippare/batteridriven-grasklippare-025269",
+      "title": "batteridriven gräsklippare 40 v 38 cm 4 ah"
+    },
+    {
+      "href": "https://jula.se/catalog/hem-och-hushall/stad-och-kladvard/kladvard/torkstallningar/torkvinda-009919",
+      "title": "torkvinda ø230 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/utemiljo/tradgardsmobler/tradgardsbankar/hopfallbar-bank-790230",
+      "title": "hopfällbar bänk 183x43x28 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/utemiljo/tradgardsmobler/tradgardsstolar/hopfallbar-stol-790170",
+      "title": "hopfällbar stol"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/varme-och-ventilation/uppvarmning/infravarmare-och-terrassvarmare/gasolvarmare-027381",
+      "title": "gasolvärmare 5-13 kw 220xø53 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/verktyg-och-maskiner/handverktyg/hylsverktyg-och-hylsor/hylsnyckelsatser/hylsnyckelsats-015294",
+      "title": "hylsnyckelsats 127 delar 1/4\"-1/2\""
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/pool-och-bad/pooler-och-spa/pooler/pool-med-stalram-006847",
+      "title": "pool med stålram 7250 l 424x250x100 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/verktyg-och-maskiner/elverktyg-och-maskiner/tillbehor-till-batteridrivet/batterier-till-elverktyg/batterier-023221",
+      "title": "batterier 2-pk 18 v 4,0 ah"
+    },
+    {
+      "href": "https://jula.se/catalog/hem-och-hushall/koksmaskiner/vitvaror/kylar-och-frysar/minikylskap-023678",
+      "title": "minikylskåp 10 l 12/230 v 3 kg"
+    },
+    {
+      "href": "https://jula.se/catalog/bil-och-garage/bilvard/polering-och-vax/elektriska-polermaskiner/oscillerande-polermaskin--014139",
+      "title": "oscillerande polermaskin ø125 mm 230 v 720 w"
+    },
+    {
+      "href": "https://jula.se/catalog/verktyg-och-maskiner/tillbehor-till-elverktyg/bits-och-bitssatser/bitssatser/bitssats-005124",
+      "title": "bitssats 31 delar"
+    },
+    {
+      "href": "https://jula.se/catalog/el-och-belysning/belysning/utomhusbelysning/dekorationsbelysning/partyslinga-led-018972",
+      "title": "partyslinga led 4,5 m ip44"
+    },
+    {
+      "href": "https://jula.se/catalog/verktyg-och-maskiner/handverktyg/spannverktyg/snabbtvingar/snabbtving-006131",
+      "title": "snabbtving 300 mm"
+    },
+    {
+      "href": "https://jula.se/catalog/bil-och-garage/garage/lyftdon/domkrafter/latt-lagprofildomkraft-013584",
+      "title": "lätt lågprofildomkraft 2 t 85-380 mm"
+    },
+    {
+      "href": "https://jula.se/catalog/verktyg-och-maskiner/handverktyg/handsagar/fogsvansar/handsag-120650",
+      "title": "handsåg 550 mm"
+    },
+    {
+      "href": "https://jula.se/erbjudanden/crazy-deals",
+      "title": "crazy deals"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/tradgardsmaskiner/grasklippare/bensindrivna-grasklippare/sjalvgaende-grasklippare-721266",
+      "title": "självgående gräsklippare 2,2 kw 46 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/farg-och-fog/utomhusfarg/traoljor/traskydd-kisel-impregnering-012262",
+      "title": "träskydd kisel impregnering 4 l"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/grillning/grillar/utekok/utekoksbank-med-diskho-027590",
+      "title": "uteköksbänk med diskho"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/farg-och-fog/fortunning-och-rengoring/rengoring/traskydd-kisel-tvatt-012324",
+      "title": "träskydd kisel tvätt 4 l"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/grillning/grillar/kolgrillar/klotgrill-030810",
+      "title": "klotgrill ø57 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/pool-och-bad/bad-och-strand/vattenlek/badmadrass-014092",
+      "title": "badmadrass 145x78x40 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/tradgardsmaskiner/hacksaxar-och-beskarningsmaskiner/batteridrivna-hacksaxar/batteridriven-hacksax-grastrimmer-031237",
+      "title": "batteridriven häcksax + grästrimmer 18 v 2,0 ah"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/pool-och-bad/bad-och-strand/vattenlek/dykpinnar-5-pk-023652",
+      "title": "dykpinnar 5-pk"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/fritidsaktiviteter/utelek/studsmattor/studsmatta-007263",
+      "title": "studsmatta ø4,2 m"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/utemiljo/tradgardsmobler/mobelgrupper/cafeset-022951",
+      "title": "caféset 3 delar"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/pool-och-bad/bad-och-strand/vattenlek/volleybollset-for-pool-027682",
+      "title": "volleybollset för pool 2,52 m x 64 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/tradgardsredskap/beskarningsverktyg/sekatorer/batteridriven-sekator-024084",
+      "title": "batteridriven sekatör 18 v ø28 mm"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard",
+      "title": "trädgård"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/grillning",
+      "title": "grillning"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/grillning/grillar",
+      "title": "grillar"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/grillning/grillar/utekok",
+      "title": "utekök"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid",
+      "title": "fritid"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/pool-och-bad",
+      "title": "pool och bad"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/pool-och-bad/bad-och-strand",
+      "title": "bad och strand"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/pool-och-bad/bad-och-strand/solstolar",
+      "title": "solstolar"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/bat",
+      "title": "båt"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/bat/batar",
+      "title": "båtar"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/bat/batar/gummibatar",
+      "title": "gummibåtar"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/tradgardsmaskiner",
+      "title": "trädgårdsmaskiner"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/tradgardsmaskiner/hacksaxar-och-beskarningsmaskiner",
+      "title": "häcksaxar och beskärningsmaskiner"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/tradgardsmaskiner/hacksaxar-och-beskarningsmaskiner/batteridrivna-hacksaxar",
+      "title": "batteridrivna häcksaxar"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/verktygsdelar/grasklipparknivar/kniv-grasklippare-r023626",
+      "title": "kniv gräsklippare"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/verktygsdelar/trimmerhuvud/plastlock-trimmerhuvud-r023910",
+      "title": "plastlock trimmerhuvud"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/verktygsdelar/grasklipparknivar/kniv-grasklippare-r023602",
+      "title": "kniv gräsklippare"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/fritid/studsmattor/kantskydd/kantskydd-studsmatta-r010006",
+      "title": "kantskydd studsmatta"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/elverktyg-och-maskiner/fastelement/skruvar-och-bultar/bult-for-faste-r023080",
+      "title": "bult för fäste"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/hem-och-hushall/dusch/lister-och-profiler/gummilist-duschsarg-r023570",
+      "title": "gummilist duschsarg"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/utemiljo/grill-och-rok/grillkomponenter/flamskydd-gasolgrill-r024681",
+      "title": "flamskydd gasolgrill"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/utemiljo/grill-och-rok/brannare/plat-over-brannare-portabel-gasolgrill-r027276",
+      "title": "plåt över brännare portabel gasolgrill"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/pumpar/elkomponenter/pumpar/pump-fontan-r023148",
+      "title": "pump fontän"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/motorkomponenter/tandstift/tandstift-grasklippare-r024054",
+      "title": "tändstift gräsklippare"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/verktygsdelar/trimmerhuvud/trimmerhuvud-grastrimmer-r027943",
+      "title": "trimmerhuvud grästrimmer"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/fritid/pooler/pooldelar/pooldel-spabad-r027193",
+      "title": "pooldel spabad"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/verktygsdelar/grasklipparknivar/kniv-grasklippare-r026426",
+      "title": "kniv gräsklippare"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/verktygsdelar/trimmerhuvud/trimmerhuvud-grastrimmer-r028508",
+      "title": "trimmerhuvud grästrimmer"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/fordon/cykel/kedjor/kedjeskydd-r024969",
+      "title": "kedjeskydd"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/hem-och-hushall/diskmaskin/slangar-och-ror/avloppsslang-r028519",
+      "title": "avloppsslang"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/utemiljo/grill-och-rok/brannare/ror-for-huvudbrannare-r027057",
+      "title": "rör för huvudbrännare"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/reglage/vajer/vajer-till-drivning-r023575",
+      "title": "vajer till drivning"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/fritid/studsmattor/kantskydd/kantskydd-studsmatta-r030393",
+      "title": "kantskydd studsmatta"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/utemiljo/grill-och-rok/grillkomponenter/flamskydd-gasolgrill-r027548",
+      "title": "flamskydd gasolgrill"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/motorkomponenter/tandstift/tandstift-r027345",
+      "title": "tändstift"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/utemiljo/talt/tak/tak-lyxpaviljong-r022214",
+      "title": "tak lyxpaviljong"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/verktygsdelar/grasklipparknivar/knivkit-grasklippare-r030150",
+      "title": "knivkit gräsklippare"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/fordon/cykel/cykelkorgar/cykelkorg-elcykel-r027006",
+      "title": "cykelkorg elcykel"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/drivning/drivremmar/drivrem-grasklippare-r021164",
+      "title": "drivrem gräsklippare"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/fastelement/skruvar-och-bultar/vagnsbult-vingmutter-r022475",
+      "title": "vagnsbult vingmutter"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/fastelement/skruvar-och-bultar/vagnsbult-r024887",
+      "title": "vagnsbult"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/verktygsdelar/grasklipparknivar/kniv-och-skruvkit-r030321",
+      "title": "kniv- och skruvkit"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/fordon/cykel/dack-och-falgar/framhjul-komplett-r027002",
+      "title": "framhjul komplett"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/hem-och-hushall/dusch/lister-och-profiler/magnetlist-duschkabin-r016022",
+      "title": "magnetlist duschkabin"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/slangar/bransleslangar/bensinslang-grasklippare-r029285",
+      "title": "bensinslang gräsklippare"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/fastelement/fjadrar/fjader-till-trimmerhuvudspole-r023191",
+      "title": "fjäder till trimmerhuvud/spole"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/utemiljo/grill-och-rok/galler/grillgaller-kolgrill-r024705",
+      "title": "grillgaller kolgrill"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/utemiljo/grill-och-rok/galler/grillgaller-r024675",
+      "title": "grillgaller"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/utemiljo/grill-och-rok/galler/grillgaller-klotgrill-r027265",
+      "title": "grillgaller klotgrill"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/elverktyg-och-maskiner/slangar/slangar/slang-vibratorplatta-r025431",
+      "title": "slang vibratorplatta"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/fritid/studsmattor/fjadrar/fjader-studsmatta-r025976",
+      "title": "fjäder studsmatta"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/verktygsdelar/grasklipparknivar/kniv-grasklippare-r028370",
+      "title": "kniv gräsklippare"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/utemiljo/talt/stropp/gummistroppar-lyxpviljong-r020729",
+      "title": "gummistroppar lyxpviljong"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/drivning/drivremmar/drivrem-grasklippare-r021137",
+      "title": "drivrem gräsklippare"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-tradgard/gangskyffel-031729",
+      "title": "gångskyffel 0,68 kg 172 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-bygg-och-farg/trallskruv-031524",
+      "title": "trallskruv 200-pk"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-klader-och-skydd/skaljacka-herr-017504",
+      "title": "skaljacka herr"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-tradgard/plattrensjarn-031731",
+      "title": "plattrensjärn 0,49 kg 160 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-klader-och-skydd/skyddsskor-013575",
+      "title": "skyddsskor s3"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-verktyg-och-maskiner/u-ringnyckel-med-sparr-030539",
+      "title": "u-ringnyckel med spärr"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-tradgard/kultivator-031732",
+      "title": "kultivator 0,63 kg 164 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-klader-och-skydd/jacka-herr-021631",
+      "title": "jacka herr"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-verktyg-och-maskiner/hylsnyckelsats-030315",
+      "title": "hylsnyckelsats 23 delar 1/2\""
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-tradgard/arbetsbank-med-hylla-014515",
+      "title": "arbetsbänk med hylla 44x85x44 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-hem-och-hushall/rakhyvel-refill-029939",
+      "title": "rakhyvel + refill 22 delar"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-tradgard/planteringsspade-031736",
+      "title": "planteringsspade 96 g 29,1 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-fritid/haspelset-030723",
+      "title": "haspelset 213 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-fritid/termosmugg-031417",
+      "title": "termosmugg"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-tradgard/handluckrare-031737",
+      "title": "handluckrare 89 g 26,3 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-tradgard/jordluckrare-029513",
+      "title": "jordluckrare 1030 mm"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-bygg-och-farg/trallskruv-031535",
+      "title": "trallskruv 100-pk"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-klader-och-skydd/piketroja-022115",
+      "title": "pikétröja"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-bygg-och-farg/trallskruv-031522",
+      "title": "trallskruv 200-pk"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-klader-och-skydd/huvtroja-022169",
+      "title": "huvtröja"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-hem-och-hushall/bluetooth-hogtalare-007618",
+      "title": "bluetooth-högtalare 12/18 v"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-tradgard/kultivator-029795",
+      "title": "kultivator"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-klader-och-skydd/skyddssandal-025745",
+      "title": "skyddssandal s1p"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-klader-och-skydd/skaljacka-dam-017373",
+      "title": "skaljacka dam"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-tradgard/grep-029509",
+      "title": "grep 1030 mm"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-klader-och-skydd/troja-022173",
+      "title": "tröja"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-bygg-och-farg/trallskruv-031526",
+      "title": "trallskruv 200-pk"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-hem-och-hushall/stekpanna-029727",
+      "title": "stekpanna 24 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-hem-och-hushall/dricksglas-av-plast-031854",
+      "title": "dricksglas av plast 6-pk 40 cl"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-verktyg-och-maskiner/fastverktyg-for-hornskena-030308",
+      "title": "fästverktyg för hörnskena"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-tradgard/dynggrep-029687",
+      "title": "dynggrep 1215 mm"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-fritid/paraply-031809",
+      "title": "paraply 100 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-hem-och-hushall/fargpennor-021159",
+      "title": "färgpennor 24-pk"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-verktyg-och-maskiner/batteridriven-spikpistol-030323",
+      "title": "batteridriven spikpistol 18 v"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-el-och-belysning/vagglykta-031863",
+      "title": "vägglykta ip54 e27"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-fritid/vattenflaska-031415",
+      "title": "vattenflaska 700 ml"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-hem-och-hushall/pennor-032077",
+      "title": "pennor 22 delar"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-el-och-belysning/solcellslykta-031867",
+      "title": "solcellslykta 2 w ip54"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-hem-och-hushall/servetter-030555",
+      "title": "servetter 33x33 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-fritid/fiskekit-030721",
+      "title": "fiskekit 210 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/tradgardsmaskiner/trimmers-och-rojsagar",
+      "title": "trimmers och röjsågar"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/tradgardsmaskiner/trimmers-och-rojsagar/batteridrivna-grastrimmers",
+      "title": "batteridrivna grästrimmers"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/grillning/grillar/gasolgrillar",
+      "title": "gasolgrillar"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/bevattning",
+      "title": "bevattning"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/bevattning/vattenslangar-och-tillbehor",
+      "title": "vattenslangar och tillbehör"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/bevattning/vattenslangar-och-tillbehor/slangvindor",
+      "title": "slangvindor"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/friluftsliv-och-camping",
+      "title": "friluftsliv och camping"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/friluftsliv-och-camping/campingmobler",
+      "title": "campingmöbler"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/friluftsliv-och-camping/campingmobler/bord-och-stolar",
+      "title": "campingstolar och campingbord"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg",
+      "title": "bygg och färg"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/forvaring",
+      "title": "förvaring"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/forvaring/hyllor",
+      "title": "hyllor"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/forvaring/hyllor/forvaringshyllor",
+      "title": "förvaringshyllor"
+    },
+    {
+      "href": "https://jula.se/catalog/klader-och-skydd",
+      "title": "kläder och skydd"
+    },
+    {
+      "href": "https://jula.se/catalog/klader-och-skydd/herrklader",
+      "title": "herrkläder"
+    },
+    {
+      "href": "https://jula.se/catalog/klader-och-skydd/herrklader/arbetsklader",
+      "title": "arbetskläder herr"
+    },
+    {
+      "href": "https://jula.se/catalog/klader-och-skydd/herrklader/arbetsklader/arbetsshorts",
+      "title": "arbetsshorts herr"
+    },
+    {
+      "href": "https://jula.se/catalog/hem-och-hushall",
+      "title": "hem och hushåll"
+    },
+    {
+      "href": "https://jula.se/catalog/hem-och-hushall/stad-och-kladvard",
+      "title": "städ och klädvård"
+    },
+    {
+      "href": "https://jula.se/catalog/hem-och-hushall/stad-och-kladvard/dammsugare",
+      "title": "dammsugare"
+    },
+    {
+      "href": "https://jula.se/catalog/hem-och-hushall/stad-och-kladvard/dammsugare/grovdammsugare",
+      "title": "grovdammsugare"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/varme-och-ventilation",
+      "title": "värme och ventilation"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/varme-och-ventilation/kalluft",
+      "title": "fläktar och kalluft"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/varme-och-ventilation/kalluft/golvflaktar",
+      "title": "golvfläktar"
+    },
+    {
+      "href": "https://jula.se/catalog/verktyg-och-maskiner",
+      "title": "verktyg och maskiner"
+    },
+    {
+      "href": "https://jula.se/catalog/verktyg-och-maskiner/elverktyg-och-maskiner",
+      "title": "elverktyg och maskiner"
+    },
+    {
+      "href": "https://jula.se/catalog/verktyg-och-maskiner/elverktyg-och-maskiner/tillbehor-till-batteridrivet",
+      "title": "tillbehör till batteridrivet"
+    },
+    {
+      "href": "https://jula.se/catalog/verktyg-och-maskiner/elverktyg-och-maskiner/tillbehor-till-batteridrivet/batterier-till-elverktyg",
+      "title": "batterier till elverktyg"
+    },
+    {
+      "href": "https://jula.se/catalog/bil-och-garage",
+      "title": "bil och garage"
+    },
+    {
+      "href": "https://jula.se/catalog/bil-och-garage/bilvard",
+      "title": "bilvård"
+    },
+    {
+      "href": "https://jula.se/catalog/bil-och-garage/bilvard/hogtryckstvattar",
+      "title": "högtryckstvättar"
+    },
+    {
+      "href": "https://jula.se/catalog/bil-och-garage/bilvard/hogtryckstvattar/elektriska-hogtryckstvattar",
+      "title": "elektriska högtryckstvättar"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/utemiljo",
+      "title": "utemöbler & utemiljö"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/utemiljo/partytalt-och-paviljonger",
+      "title": "partytält och paviljonger"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/utemiljo/partytalt-och-paviljonger/tradgardspaviljonger",
+      "title": "trädgårdspaviljonger"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/friluftsliv-och-camping/kylboxar",
+      "title": "portabel kylförvaring"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/friluftsliv-och-camping/kylboxar/kylboxar",
+      "title": "kylboxar"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/utemiljo/tradgardsmobler",
+      "title": "trädgårdsmöbler"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/utemiljo/tradgardsmobler/tradgardsbord",
+      "title": "trädgårdsbord"
+    },
+    {
+      "href": "https://jula.se/catalog/verktyg-och-maskiner/elverktyg-och-maskiner/skruvdragare",
+      "title": "skruvdragare"
+    },
+    {
+      "href": "https://jula.se/catalog/verktyg-och-maskiner/elverktyg-och-maskiner/skruvdragare/batteridrivna-skruvdragare",
+      "title": "batteridrivna skruvdragare"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/stegar-och-stallningar",
+      "title": "stegar och ställningar"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/stegar-och-stallningar/byggstallningar-och-plattformar",
+      "title": "byggställningar och plattformar"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/stegar-och-stallningar/byggstallningar-och-plattformar/byggstallningar",
+      "title": "byggställningar"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/pool-och-bad/pooler-och-spa",
+      "title": "pooler och spa"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/pool-och-bad/pooler-och-spa/pooler",
+      "title": "pooler"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/utemiljo/tradgardsmobler/tradgardsstolar",
+      "title": "trädgårdsstolar"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/utemiljo/tradgardsmobler/dynlador",
+      "title": "dynlådor"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/varme-och-ventilation/kalluft/luftkonditionering",
+      "title": "luftkonditionering och ac"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/farg-och-fog",
+      "title": "färg och fog"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/farg-och-fog/utomhusfarg",
+      "title": "utomhusfärg"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/farg-och-fog/utomhusfarg/fonsterfarg",
+      "title": "fönsterfärg"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/farg-och-fog/utomhusfarg/fonsterfarg/fonsterfarg-019301",
+      "title": "fönsterfärg 0,9 l"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/farg-och-fog/utomhusfarg/fonsterfarg/fonsterfarg-019300",
+      "title": "fönsterfärg 2,7 l"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/farg-och-fog/utomhusfarg/fonsterfarg/fonsterfarg-019295",
+      "title": "fönsterfärg 0,9 l"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/farg-och-fog/utomhusfarg/fonsterfarg/fonsterfarg-019297",
+      "title": "fönsterfärg 0,9 l"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/farg-och-fog/utomhusfarg/fonsterfarg/fonsterfarg-019296",
+      "title": "fönsterfärg 0,9 l"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/farg-och-fog/utomhusfarg/fonsterfarg/fonsterfarg-019298",
+      "title": "fönsterfärg 0,9 l"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/farg-och-fog/utomhusfarg/fonsterfarg/fonsterfarg-019299",
+      "title": "fönsterfärg 0,9 l"
+    },
+    {
+      "href": "https://jula.se/inspiration/staketstolpar---bygg-ett-staket-eller-racke",
+      "title": "guide: bygg ett staket eller räcke med staketstolpar"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/beslag-och-byggvaror/utomhusbyggvaror/staketstolpar/hornstolpe-for-staket-026728",
+      "title": "hörnstolpe för staket 100 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/beslag-och-byggvaror/utomhusbyggvaror/staketstolpar/stolpfot-for-staket-026735",
+      "title": "stolpfot för staket"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/beslag-och-byggvaror/utomhusbyggvaror/staketstolpar/mittstolpe-for-staket-026730",
+      "title": "mittstolpe för staket 140 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/beslag-och-byggvaror/utomhusbyggvaror/staketstolpar/andstolpe-for-staket-026729",
+      "title": "ändstolpe för staket 140 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/beslag-och-byggvaror/utomhusbyggvaror/staketstolpar/hornstolpe-for-staket-026731",
+      "title": "hörnstolpe för staket 140 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/beslag-och-byggvaror/utomhusbyggvaror/staketstolpar/mittstolpe-for-staket-026733",
+      "title": "mittstolpe för staket 180 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/beslag-och-byggvaror/utomhusbyggvaror/staketstolpar/andstolpe-for-staket-026732",
+      "title": "ändstolpe för staket 180 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/beslag-och-byggvaror/utomhusbyggvaror/staketstolpar/hornstolpe-for-staket-026734",
+      "title": "hörnstolpe för staket 180 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/beslag-och-byggvaror/utomhusbyggvaror/staketstolpar/mittstolpe-for-staket-026727",
+      "title": "mittstolpe för staket 100 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/utemiljo/tradgardsmobler/solsangar/solsang-027899",
+      "title": "solsäng 195x60 cm"
+    },
+    {
+      "href": "https://jula.se/allmanna-kopvillkor",
+      "title": "allmänna köpvillkor"
+    },
+    {
+      "href": "https://jula.se/recensionspolicy",
+      "title": "recensionspolicy"
+    }
+  ],
+  "aliveTop": [
+    {
+      "href": "https://jula.se/julaclub",
+      "title": "om julaclub"
+    },
+    {
+      "href": "https://jula.se/julapro",
+      "title": "om julapro – för företag och föreningar"
+    },
+    {
+      "href": "https://jula.se/presentkort",
+      "title": "presentkort"
+    },
+    {
+      "href": "https://jula.se/recensioner",
+      "title": "4,44,4(1 400 000+)"
+    },
+    {
+      "href": "https://jula.se/inspiration",
+      "title": "inspiration"
+    },
+    {
+      "href": "https://jula.se/nyheter",
+      "title": "nyheter"
+    },
+    {
+      "href": "https://jula.se/varumarken",
+      "title": "varumärken"
+    },
+    {
+      "href": "https://jula.se/erbjudanden",
+      "title": "erbjudanden"
+    },
+    {
+      "href": "https://jula.se/smart-val",
+      "title": "smart val"
+    },
+    {
+      "href": "https://jula.se/julas-lagsta-pris",
+      "title": "julas lägsta pris!"
+    },
+    {
+      "href": "https://jula.se/kundservice",
+      "title": "kundservice"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/grillning/grillar/utekok/utekoksbank-med-skap-027588",
+      "title": "uteköksbänk med skåp"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/pool-och-bad/bad-och-strand/solstolar/solstol-017611",
+      "title": "solstol"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/pool-och-bad/bad-och-strand/solstolar/strandmadrass-med-ryggstod-029511",
+      "title": "strandmadrass med ryggstöd 160x53 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/tradgardsmaskiner/trimmers-och-rojsagar/batteridrivna-grastrimmers/batteridriven-grastrimmer-027305",
+      "title": "batteridriven grästrimmer 18 v 25 cm 2,0 ah"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/grillning/grillar/gasolgrillar/gasolgrill-030372",
+      "title": "gasolgrill 76x41 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/bevattning/vattenslangar-och-tillbehor/slangvindor/slangvinda-med-vattenslang-031289",
+      "title": "slangvinda med vattenslang 25 m"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/bat/batar/gummibatar/gummibat-026425",
+      "title": "gummibåt"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/friluftsliv-och-camping/campingmobler/bord-och-stolar/campingstol-000815",
+      "title": "campingstol"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/forvaring/hyllor/forvaringshyllor/forvaringshylla-017287",
+      "title": "förvaringshylla 90x180x45 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/klader-och-skydd/herrklader/arbetsklader/arbetsshorts/arbetsshorts-herr-030119",
+      "title": "arbetsshorts herr 46"
+    },
+    {
+      "href": "https://jula.se/catalog/hem-och-hushall/stad-och-kladvard/dammsugare/grovdammsugare/grovdammsugare-030499",
+      "title": "grovdammsugare 30 l 1600 w"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/varme-och-ventilation/kalluft/golvflaktar/luftkylare-014241",
+      "title": "luftkylare 105 cm 65 w"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/tradgardsmaskiner/hacksaxar-och-beskarningsmaskiner/batteridrivna-hacksaxar/batteridriven-hacksax-027130",
+      "title": "batteridriven häcksax 40 v 600 mm 2,0 ah"
+    },
+    {
+      "href": "https://jula.se/catalog/verktyg-och-maskiner/elverktyg-och-maskiner/tillbehor-till-batteridrivet/batterier-till-elverktyg/batterier--018177",
+      "title": "batterier 2-pk 18 v 4,0 ah"
+    },
+    {
+      "href": "https://jula.se/catalog/bil-och-garage/bilvard/hogtryckstvattar/elektriska-hogtryckstvattar/hogtryckstvatt-030498",
+      "title": "högtryckstvätt 180 bar 2500 w"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/utemiljo/partytalt-och-paviljonger/tradgardspaviljonger/paviljong-021389",
+      "title": "paviljong 3,3x3,3 m"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/friluftsliv-och-camping/kylboxar/kylboxar/frys-kylbox-024100",
+      "title": "frys-/kylbox 40 l 12/24/230 v 60 w"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/utemiljo/tradgardsmobler/tradgardsbord/hopfallbart-bord-790226",
+      "title": "hopfällbart bord 180x76x74 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/verktyg-och-maskiner/elverktyg-och-maskiner/skruvdragare/batteridrivna-skruvdragare/skruvdragare-med-batteri-och-laddare-030725",
+      "title": "skruvdragare med batteri och laddare 35 nm 2,0 ah 18 v"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/stegar-och-stallningar/byggstallningar-och-plattformar/byggstallningar/multibyggstallning-340170",
+      "title": "multibyggställning 3,1 m"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/utemiljo/partytalt-och-paviljonger/pop-up-talt/pop-up-talt-023297",
+      "title": "pop up-tält 3x3 m"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/grillning/grillar/gasolgrillar/gasolgrill-026559",
+      "title": "gasolgrill 63x41.5 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/forvaring/hyllor/forvaringshyllor/forvaringshylla-012810",
+      "title": "förvaringshylla 150x180x60 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/bil-och-garage/bilvard/hogtryckstvattar/elektriska-hogtryckstvattar/hogtryckstvatt-026574",
+      "title": "högtryckstvätt 160 bar 2200 w"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/varme-och-ventilation/kalluft/golvflaktar/golvflakt-med-fjarrkontroll-014758",
+      "title": "golvfläkt med fjärrkontroll 32,9 w  ø40x112-129 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/pool-och-bad/pooler-och-spa/pooler/pool-med-stalram-030334",
+      "title": "pool med stålram 7250 l 4,27x2,5x1 m"
+    },
+    {
+      "href": "https://jula.se/catalog/bil-och-garage/transport/lastsakring/cykelhallare/cykelhallare-for-dragkrok-609208",
+      "title": "cykelhållare för dragkrok"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/utemiljo/tradgardsmobler/tradgardsstolar/hopfallbar-positionsstol-021384",
+      "title": "hopfällbar positionsstol"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/utemiljo/tradgardsmobler/dynlador/dynlada-006854",
+      "title": "dynlåda 870 l 147x86x83 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/varme-och-ventilation/kalluft/luftkonditionering/luftkonditionering-025359",
+      "title": "luftkonditionering 2600 w 70 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/pool-och-bad/pooler-och-spa/pooler/pool-med-stalram-951020",
+      "title": "pool med stålram 4383 l ø300x76 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/varme-och-ventilation/kalluft/golvflaktar/pelarflakt-014242",
+      "title": "pelarfläkt 76 cm 45 w"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/pool-och-bad/pooler-och-spa/pooler/pool-009853",
+      "title": "pool 200x150x50 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/pool-och-bad/pooler-och-spa/pooler/pool-med-stalvagg-019217",
+      "title": "pool med stålvägg 10990 l ø366x122 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/varme-och-ventilation/kalluft/golvflaktar/golvflakt-025188",
+      "title": "golvfläkt 45 w ø41 105-125 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/varme-och-ventilation/kalluft/luftkonditionering/luftkonditionering-025364",
+      "title": "luftkonditionering 3520 w 73 cm"
+    },
+    {
+      "href": "https://jula.se/vara-varuhus",
+      "title": "varuhus och öppettider"
+    },
+    {
+      "href": "https://jula.se/storleksguide",
+      "title": "storleksguide"
+    },
+    {
+      "href": "https://jula.se/aterkallade-produkter",
+      "title": "återkallade produkter"
+    },
+    {
+      "href": "https://jula.se/tillganglighet",
+      "title": "tillgänglighet"
+    },
+    {
+      "href": "https://jula.se/om-jula",
+      "title": "företaget jula"
+    },
+    {
+      "href": "https://jula.se/julas-egna-varumarken",
+      "title": "julas egna varumärken"
+    },
+    {
+      "href": "https://jula.se/hallbarhet-och-ansvar",
+      "title": "hållbarhet och ansvar"
+    },
+    {
+      "href": "https://jula.se/om-jula/jobba-pa-jula",
+      "title": "jobba på jula"
+    },
+    {
+      "href": "https://jula.se/erbjudanden/julaclub-erbjudanden",
+      "title": "julaclub-erbjudanden"
+    },
+    {
+      "href": "https://jula.se/catalog/klader-och-skydd/skor/arbetsskor/skyddssandaler/skyddssandaler-med-snabbsnorning-030150",
+      "title": "skyddssandaler med snabbsnörning s1pl"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/friluftsliv-och-camping/kylboxar/kylvaskor/kylvaska-027166",
+      "title": "kylväska 22 l"
+    },
+    {
+      "href": "https://jula.se/catalog/klader-och-skydd/skydd/omplastring-och-rengoring/forsta-hjalpen-kit/forsta-hjalpen-vaska-881062",
+      "title": "första hjälpen-väska 48 delar"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/utemiljo/tradgardsmobler/mobelgrupper/mobelgrupp-027526",
+      "title": "möbelgrupp 2 delar"
+    },
+    {
+      "href": "https://jula.se/catalog/verktyg-och-maskiner/elverktyg-och-maskiner/sagar/elektriska-sanksagar/sanksag-015607",
+      "title": "sänksåg 1200 w ø165 mm"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/tradgardsmaskiner/trimmers-och-rojsagar/batteridrivna-grastrimmers/batteridriven-slytrimmer-014716",
+      "title": "batteridriven slytrimmer 40 v 5,0 ah 26/38 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/fritidsaktiviteter/utelek/studsmattor/studsmatta-030219",
+      "title": "studsmatta ø3,96 m"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/tradgardsmaskiner/grasklippare/batteridrivna-grasklippare/batteridriven-grasklippare-025269",
+      "title": "batteridriven gräsklippare 40 v 38 cm 4 ah"
+    },
+    {
+      "href": "https://jula.se/catalog/hem-och-hushall/stad-och-kladvard/kladvard/torkstallningar/torkvinda-009919",
+      "title": "torkvinda ø230 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/utemiljo/tradgardsmobler/tradgardsbankar/hopfallbar-bank-790230",
+      "title": "hopfällbar bänk 183x43x28 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/utemiljo/tradgardsmobler/tradgardsstolar/hopfallbar-stol-790170",
+      "title": "hopfällbar stol"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/varme-och-ventilation/uppvarmning/infravarmare-och-terrassvarmare/gasolvarmare-027381",
+      "title": "gasolvärmare 5-13 kw 220xø53 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/verktyg-och-maskiner/handverktyg/hylsverktyg-och-hylsor/hylsnyckelsatser/hylsnyckelsats-015294",
+      "title": "hylsnyckelsats 127 delar 1/4\"-1/2\""
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/pool-och-bad/pooler-och-spa/pooler/pool-med-stalram-006847",
+      "title": "pool med stålram 7250 l 424x250x100 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/verktyg-och-maskiner/elverktyg-och-maskiner/tillbehor-till-batteridrivet/batterier-till-elverktyg/batterier-023221",
+      "title": "batterier 2-pk 18 v 4,0 ah"
+    },
+    {
+      "href": "https://jula.se/catalog/hem-och-hushall/koksmaskiner/vitvaror/kylar-och-frysar/minikylskap-023678",
+      "title": "minikylskåp 10 l 12/230 v 3 kg"
+    },
+    {
+      "href": "https://jula.se/catalog/bil-och-garage/bilvard/polering-och-vax/elektriska-polermaskiner/oscillerande-polermaskin--014139",
+      "title": "oscillerande polermaskin ø125 mm 230 v 720 w"
+    },
+    {
+      "href": "https://jula.se/catalog/verktyg-och-maskiner/tillbehor-till-elverktyg/bits-och-bitssatser/bitssatser/bitssats-005124",
+      "title": "bitssats 31 delar"
+    },
+    {
+      "href": "https://jula.se/catalog/el-och-belysning/belysning/utomhusbelysning/dekorationsbelysning/partyslinga-led-018972",
+      "title": "partyslinga led 4,5 m ip44"
+    },
+    {
+      "href": "https://jula.se/catalog/verktyg-och-maskiner/handverktyg/spannverktyg/snabbtvingar/snabbtving-006131",
+      "title": "snabbtving 300 mm"
+    },
+    {
+      "href": "https://jula.se/catalog/bil-och-garage/garage/lyftdon/domkrafter/latt-lagprofildomkraft-013584",
+      "title": "lätt lågprofildomkraft 2 t 85-380 mm"
+    },
+    {
+      "href": "https://jula.se/catalog/verktyg-och-maskiner/handverktyg/handsagar/fogsvansar/handsag-120650",
+      "title": "handsåg 550 mm"
+    },
+    {
+      "href": "https://jula.se/erbjudanden/crazy-deals",
+      "title": "crazy deals"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/tradgardsmaskiner/grasklippare/bensindrivna-grasklippare/sjalvgaende-grasklippare-721266",
+      "title": "självgående gräsklippare 2,2 kw 46 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/farg-och-fog/utomhusfarg/traoljor/traskydd-kisel-impregnering-012262",
+      "title": "träskydd kisel impregnering 4 l"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/grillning/grillar/utekok/utekoksbank-med-diskho-027590",
+      "title": "uteköksbänk med diskho"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/farg-och-fog/fortunning-och-rengoring/rengoring/traskydd-kisel-tvatt-012324",
+      "title": "träskydd kisel tvätt 4 l"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/grillning/grillar/kolgrillar/klotgrill-030810",
+      "title": "klotgrill ø57 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/pool-och-bad/bad-och-strand/vattenlek/badmadrass-014092",
+      "title": "badmadrass 145x78x40 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/tradgardsmaskiner/hacksaxar-och-beskarningsmaskiner/batteridrivna-hacksaxar/batteridriven-hacksax-grastrimmer-031237",
+      "title": "batteridriven häcksax + grästrimmer 18 v 2,0 ah"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/pool-och-bad/bad-och-strand/vattenlek/dykpinnar-5-pk-023652",
+      "title": "dykpinnar 5-pk"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/fritidsaktiviteter/utelek/studsmattor/studsmatta-007263",
+      "title": "studsmatta ø4,2 m"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/utemiljo/tradgardsmobler/mobelgrupper/cafeset-022951",
+      "title": "caféset 3 delar"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/pool-och-bad/bad-och-strand/vattenlek/volleybollset-for-pool-027682",
+      "title": "volleybollset för pool 2,52 m x 64 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/tradgardsredskap/beskarningsverktyg/sekatorer/batteridriven-sekator-024084",
+      "title": "batteridriven sekatör 18 v ø28 mm"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard",
+      "title": "trädgård"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/grillning",
+      "title": "grillning"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/grillning/grillar",
+      "title": "grillar"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/grillning/grillar/utekok",
+      "title": "utekök"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid",
+      "title": "fritid"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/pool-och-bad",
+      "title": "pool och bad"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/pool-och-bad/bad-och-strand",
+      "title": "bad och strand"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/pool-och-bad/bad-och-strand/solstolar",
+      "title": "solstolar"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/bat",
+      "title": "båt"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/bat/batar",
+      "title": "båtar"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/bat/batar/gummibatar",
+      "title": "gummibåtar"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/tradgardsmaskiner",
+      "title": "trädgårdsmaskiner"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/tradgardsmaskiner/hacksaxar-och-beskarningsmaskiner",
+      "title": "häcksaxar och beskärningsmaskiner"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/tradgardsmaskiner/hacksaxar-och-beskarningsmaskiner/batteridrivna-hacksaxar",
+      "title": "batteridrivna häcksaxar"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/verktygsdelar/grasklipparknivar/kniv-grasklippare-r023626",
+      "title": "kniv gräsklippare"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/verktygsdelar/trimmerhuvud/plastlock-trimmerhuvud-r023910",
+      "title": "plastlock trimmerhuvud"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/verktygsdelar/grasklipparknivar/kniv-grasklippare-r023602",
+      "title": "kniv gräsklippare"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/fritid/studsmattor/kantskydd/kantskydd-studsmatta-r010006",
+      "title": "kantskydd studsmatta"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/elverktyg-och-maskiner/fastelement/skruvar-och-bultar/bult-for-faste-r023080",
+      "title": "bult för fäste"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/hem-och-hushall/dusch/lister-och-profiler/gummilist-duschsarg-r023570",
+      "title": "gummilist duschsarg"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/utemiljo/grill-och-rok/grillkomponenter/flamskydd-gasolgrill-r024681",
+      "title": "flamskydd gasolgrill"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/utemiljo/grill-och-rok/brannare/plat-over-brannare-portabel-gasolgrill-r027276",
+      "title": "plåt över brännare portabel gasolgrill"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/pumpar/elkomponenter/pumpar/pump-fontan-r023148",
+      "title": "pump fontän"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/motorkomponenter/tandstift/tandstift-grasklippare-r024054",
+      "title": "tändstift gräsklippare"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/verktygsdelar/trimmerhuvud/trimmerhuvud-grastrimmer-r027943",
+      "title": "trimmerhuvud grästrimmer"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/fritid/pooler/pooldelar/pooldel-spabad-r027193",
+      "title": "pooldel spabad"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/verktygsdelar/grasklipparknivar/kniv-grasklippare-r026426",
+      "title": "kniv gräsklippare"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/verktygsdelar/trimmerhuvud/trimmerhuvud-grastrimmer-r028508",
+      "title": "trimmerhuvud grästrimmer"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/fordon/cykel/kedjor/kedjeskydd-r024969",
+      "title": "kedjeskydd"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/hem-och-hushall/diskmaskin/slangar-och-ror/avloppsslang-r028519",
+      "title": "avloppsslang"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/utemiljo/grill-och-rok/brannare/ror-for-huvudbrannare-r027057",
+      "title": "rör för huvudbrännare"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/reglage/vajer/vajer-till-drivning-r023575",
+      "title": "vajer till drivning"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/fritid/studsmattor/kantskydd/kantskydd-studsmatta-r030393",
+      "title": "kantskydd studsmatta"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/utemiljo/grill-och-rok/grillkomponenter/flamskydd-gasolgrill-r027548",
+      "title": "flamskydd gasolgrill"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/motorkomponenter/tandstift/tandstift-r027345",
+      "title": "tändstift"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/utemiljo/talt/tak/tak-lyxpaviljong-r022214",
+      "title": "tak lyxpaviljong"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/verktygsdelar/grasklipparknivar/knivkit-grasklippare-r030150",
+      "title": "knivkit gräsklippare"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/fordon/cykel/cykelkorgar/cykelkorg-elcykel-r027006",
+      "title": "cykelkorg elcykel"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/drivning/drivremmar/drivrem-grasklippare-r021164",
+      "title": "drivrem gräsklippare"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/fastelement/skruvar-och-bultar/vagnsbult-vingmutter-r022475",
+      "title": "vagnsbult vingmutter"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/fastelement/skruvar-och-bultar/vagnsbult-r024887",
+      "title": "vagnsbult"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/verktygsdelar/grasklipparknivar/kniv-och-skruvkit-r030321",
+      "title": "kniv- och skruvkit"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/fordon/cykel/dack-och-falgar/framhjul-komplett-r027002",
+      "title": "framhjul komplett"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/hem-och-hushall/dusch/lister-och-profiler/magnetlist-duschkabin-r016022",
+      "title": "magnetlist duschkabin"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/slangar/bransleslangar/bensinslang-grasklippare-r029285",
+      "title": "bensinslang gräsklippare"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/fastelement/fjadrar/fjader-till-trimmerhuvudspole-r023191",
+      "title": "fjäder till trimmerhuvud/spole"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/utemiljo/grill-och-rok/galler/grillgaller-kolgrill-r024705",
+      "title": "grillgaller kolgrill"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/utemiljo/grill-och-rok/galler/grillgaller-r024675",
+      "title": "grillgaller"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/utemiljo/grill-och-rok/galler/grillgaller-klotgrill-r027265",
+      "title": "grillgaller klotgrill"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/elverktyg-och-maskiner/slangar/slangar/slang-vibratorplatta-r025431",
+      "title": "slang vibratorplatta"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/fritid/studsmattor/fjadrar/fjader-studsmatta-r025976",
+      "title": "fjäder studsmatta"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/verktygsdelar/grasklipparknivar/kniv-grasklippare-r028370",
+      "title": "kniv gräsklippare"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/utemiljo/talt/stropp/gummistroppar-lyxpviljong-r020729",
+      "title": "gummistroppar lyxpviljong"
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/drivning/drivremmar/drivrem-grasklippare-r021137",
+      "title": "drivrem gräsklippare"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-tradgard/gangskyffel-031729",
+      "title": "gångskyffel 0,68 kg 172 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-bygg-och-farg/trallskruv-031524",
+      "title": "trallskruv 200-pk"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-klader-och-skydd/skaljacka-herr-017504",
+      "title": "skaljacka herr"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-tradgard/plattrensjarn-031731",
+      "title": "plattrensjärn 0,49 kg 160 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-klader-och-skydd/skyddsskor-013575",
+      "title": "skyddsskor s3"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-verktyg-och-maskiner/u-ringnyckel-med-sparr-030539",
+      "title": "u-ringnyckel med spärr"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-tradgard/kultivator-031732",
+      "title": "kultivator 0,63 kg 164 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-klader-och-skydd/jacka-herr-021631",
+      "title": "jacka herr"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-verktyg-och-maskiner/hylsnyckelsats-030315",
+      "title": "hylsnyckelsats 23 delar 1/2\""
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-tradgard/arbetsbank-med-hylla-014515",
+      "title": "arbetsbänk med hylla 44x85x44 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-hem-och-hushall/rakhyvel-refill-029939",
+      "title": "rakhyvel + refill 22 delar"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-tradgard/planteringsspade-031736",
+      "title": "planteringsspade 96 g 29,1 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-fritid/haspelset-030723",
+      "title": "haspelset 213 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-fritid/termosmugg-031417",
+      "title": "termosmugg"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-tradgard/handluckrare-031737",
+      "title": "handluckrare 89 g 26,3 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-tradgard/jordluckrare-029513",
+      "title": "jordluckrare 1030 mm"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-bygg-och-farg/trallskruv-031535",
+      "title": "trallskruv 100-pk"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-klader-och-skydd/piketroja-022115",
+      "title": "pikétröja"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-bygg-och-farg/trallskruv-031522",
+      "title": "trallskruv 200-pk"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-klader-och-skydd/huvtroja-022169",
+      "title": "huvtröja"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-hem-och-hushall/bluetooth-hogtalare-007618",
+      "title": "bluetooth-högtalare 12/18 v"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-tradgard/kultivator-029795",
+      "title": "kultivator"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-klader-och-skydd/skyddssandal-025745",
+      "title": "skyddssandal s1p"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-klader-och-skydd/skaljacka-dam-017373",
+      "title": "skaljacka dam"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-tradgard/grep-029509",
+      "title": "grep 1030 mm"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-klader-och-skydd/troja-022173",
+      "title": "tröja"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-bygg-och-farg/trallskruv-031526",
+      "title": "trallskruv 200-pk"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-hem-och-hushall/stekpanna-029727",
+      "title": "stekpanna 24 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-hem-och-hushall/dricksglas-av-plast-031854",
+      "title": "dricksglas av plast 6-pk 40 cl"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-verktyg-och-maskiner/fastverktyg-for-hornskena-030308",
+      "title": "fästverktyg för hörnskena"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-tradgard/dynggrep-029687",
+      "title": "dynggrep 1215 mm"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-fritid/paraply-031809",
+      "title": "paraply 100 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-hem-och-hushall/fargpennor-021159",
+      "title": "färgpennor 24-pk"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-verktyg-och-maskiner/batteridriven-spikpistol-030323",
+      "title": "batteridriven spikpistol 18 v"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-el-och-belysning/vagglykta-031863",
+      "title": "vägglykta ip54 e27"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-fritid/vattenflaska-031415",
+      "title": "vattenflaska 700 ml"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-hem-och-hushall/pennor-032077",
+      "title": "pennor 22 delar"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-el-och-belysning/solcellslykta-031867",
+      "title": "solcellslykta 2 w ip54"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-hem-och-hushall/servetter-030555",
+      "title": "servetter 33x33 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/outlet/outlet/outlet-produkter/outlet-fritid/fiskekit-030721",
+      "title": "fiskekit 210 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/tradgardsmaskiner/trimmers-och-rojsagar",
+      "title": "trimmers och röjsågar"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/tradgardsmaskiner/trimmers-och-rojsagar/batteridrivna-grastrimmers",
+      "title": "batteridrivna grästrimmers"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/grillning/grillar/gasolgrillar",
+      "title": "gasolgrillar"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/bevattning",
+      "title": "bevattning"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/bevattning/vattenslangar-och-tillbehor",
+      "title": "vattenslangar och tillbehör"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/bevattning/vattenslangar-och-tillbehor/slangvindor",
+      "title": "slangvindor"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/friluftsliv-och-camping",
+      "title": "friluftsliv och camping"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/friluftsliv-och-camping/campingmobler",
+      "title": "campingmöbler"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/friluftsliv-och-camping/campingmobler/bord-och-stolar",
+      "title": "campingstolar och campingbord"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg",
+      "title": "bygg och färg"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/forvaring",
+      "title": "förvaring"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/forvaring/hyllor",
+      "title": "hyllor"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/forvaring/hyllor/forvaringshyllor",
+      "title": "förvaringshyllor"
+    },
+    {
+      "href": "https://jula.se/catalog/klader-och-skydd",
+      "title": "kläder och skydd"
+    },
+    {
+      "href": "https://jula.se/catalog/klader-och-skydd/herrklader",
+      "title": "herrkläder"
+    },
+    {
+      "href": "https://jula.se/catalog/klader-och-skydd/herrklader/arbetsklader",
+      "title": "arbetskläder herr"
+    },
+    {
+      "href": "https://jula.se/catalog/klader-och-skydd/herrklader/arbetsklader/arbetsshorts",
+      "title": "arbetsshorts herr"
+    },
+    {
+      "href": "https://jula.se/catalog/hem-och-hushall",
+      "title": "hem och hushåll"
+    },
+    {
+      "href": "https://jula.se/catalog/hem-och-hushall/stad-och-kladvard",
+      "title": "städ och klädvård"
+    },
+    {
+      "href": "https://jula.se/catalog/hem-och-hushall/stad-och-kladvard/dammsugare",
+      "title": "dammsugare"
+    },
+    {
+      "href": "https://jula.se/catalog/hem-och-hushall/stad-och-kladvard/dammsugare/grovdammsugare",
+      "title": "grovdammsugare"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/varme-och-ventilation",
+      "title": "värme och ventilation"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/varme-och-ventilation/kalluft",
+      "title": "fläktar och kalluft"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/varme-och-ventilation/kalluft/golvflaktar",
+      "title": "golvfläktar"
+    },
+    {
+      "href": "https://jula.se/catalog/verktyg-och-maskiner",
+      "title": "verktyg och maskiner"
+    },
+    {
+      "href": "https://jula.se/catalog/verktyg-och-maskiner/elverktyg-och-maskiner",
+      "title": "elverktyg och maskiner"
+    },
+    {
+      "href": "https://jula.se/catalog/verktyg-och-maskiner/elverktyg-och-maskiner/tillbehor-till-batteridrivet",
+      "title": "tillbehör till batteridrivet"
+    },
+    {
+      "href": "https://jula.se/catalog/verktyg-och-maskiner/elverktyg-och-maskiner/tillbehor-till-batteridrivet/batterier-till-elverktyg",
+      "title": "batterier till elverktyg"
+    },
+    {
+      "href": "https://jula.se/catalog/bil-och-garage",
+      "title": "bil och garage"
+    },
+    {
+      "href": "https://jula.se/catalog/bil-och-garage/bilvard",
+      "title": "bilvård"
+    },
+    {
+      "href": "https://jula.se/catalog/bil-och-garage/bilvard/hogtryckstvattar",
+      "title": "högtryckstvättar"
+    },
+    {
+      "href": "https://jula.se/catalog/bil-och-garage/bilvard/hogtryckstvattar/elektriska-hogtryckstvattar",
+      "title": "elektriska högtryckstvättar"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/utemiljo",
+      "title": "utemöbler & utemiljö"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/utemiljo/partytalt-och-paviljonger",
+      "title": "partytält och paviljonger"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/utemiljo/partytalt-och-paviljonger/tradgardspaviljonger",
+      "title": "trädgårdspaviljonger"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/friluftsliv-och-camping/kylboxar",
+      "title": "portabel kylförvaring"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/friluftsliv-och-camping/kylboxar/kylboxar",
+      "title": "kylboxar"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/utemiljo/tradgardsmobler",
+      "title": "trädgårdsmöbler"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/utemiljo/tradgardsmobler/tradgardsbord",
+      "title": "trädgårdsbord"
+    },
+    {
+      "href": "https://jula.se/catalog/verktyg-och-maskiner/elverktyg-och-maskiner/skruvdragare",
+      "title": "skruvdragare"
+    },
+    {
+      "href": "https://jula.se/catalog/verktyg-och-maskiner/elverktyg-och-maskiner/skruvdragare/batteridrivna-skruvdragare",
+      "title": "batteridrivna skruvdragare"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/stegar-och-stallningar",
+      "title": "stegar och ställningar"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/stegar-och-stallningar/byggstallningar-och-plattformar",
+      "title": "byggställningar och plattformar"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/stegar-och-stallningar/byggstallningar-och-plattformar/byggstallningar",
+      "title": "byggställningar"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/pool-och-bad/pooler-och-spa",
+      "title": "pooler och spa"
+    },
+    {
+      "href": "https://jula.se/catalog/fritid/pool-och-bad/pooler-och-spa/pooler",
+      "title": "pooler"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/utemiljo/tradgardsmobler/tradgardsstolar",
+      "title": "trädgårdsstolar"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/utemiljo/tradgardsmobler/dynlador",
+      "title": "dynlådor"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/varme-och-ventilation/kalluft/luftkonditionering",
+      "title": "luftkonditionering och ac"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/farg-och-fog",
+      "title": "färg och fog"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/farg-och-fog/utomhusfarg",
+      "title": "utomhusfärg"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/farg-och-fog/utomhusfarg/fonsterfarg",
+      "title": "fönsterfärg"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/farg-och-fog/utomhusfarg/fonsterfarg/fonsterfarg-019301",
+      "title": "fönsterfärg 0,9 l"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/farg-och-fog/utomhusfarg/fonsterfarg/fonsterfarg-019300",
+      "title": "fönsterfärg 2,7 l"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/farg-och-fog/utomhusfarg/fonsterfarg/fonsterfarg-019295",
+      "title": "fönsterfärg 0,9 l"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/farg-och-fog/utomhusfarg/fonsterfarg/fonsterfarg-019297",
+      "title": "fönsterfärg 0,9 l"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/farg-och-fog/utomhusfarg/fonsterfarg/fonsterfarg-019296",
+      "title": "fönsterfärg 0,9 l"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/farg-och-fog/utomhusfarg/fonsterfarg/fonsterfarg-019298",
+      "title": "fönsterfärg 0,9 l"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/farg-och-fog/utomhusfarg/fonsterfarg/fonsterfarg-019299",
+      "title": "fönsterfärg 0,9 l"
+    },
+    {
+      "href": "https://jula.se/inspiration/staketstolpar---bygg-ett-staket-eller-racke",
+      "title": "guide: bygg ett staket eller räcke med staketstolpar"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/beslag-och-byggvaror/utomhusbyggvaror/staketstolpar/hornstolpe-for-staket-026728",
+      "title": "hörnstolpe för staket 100 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/beslag-och-byggvaror/utomhusbyggvaror/staketstolpar/stolpfot-for-staket-026735",
+      "title": "stolpfot för staket"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/beslag-och-byggvaror/utomhusbyggvaror/staketstolpar/mittstolpe-for-staket-026730",
+      "title": "mittstolpe för staket 140 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/beslag-och-byggvaror/utomhusbyggvaror/staketstolpar/andstolpe-for-staket-026729",
+      "title": "ändstolpe för staket 140 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/beslag-och-byggvaror/utomhusbyggvaror/staketstolpar/hornstolpe-for-staket-026731",
+      "title": "hörnstolpe för staket 140 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/beslag-och-byggvaror/utomhusbyggvaror/staketstolpar/mittstolpe-for-staket-026733",
+      "title": "mittstolpe för staket 180 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/beslag-och-byggvaror/utomhusbyggvaror/staketstolpar/andstolpe-for-staket-026732",
+      "title": "ändstolpe för staket 180 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/beslag-och-byggvaror/utomhusbyggvaror/staketstolpar/hornstolpe-for-staket-026734",
+      "title": "hörnstolpe för staket 180 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg/beslag-och-byggvaror/utomhusbyggvaror/staketstolpar/mittstolpe-for-staket-026727",
+      "title": "mittstolpe för staket 100 cm"
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard/utemiljo/tradgardsmobler/solsangar/solsang-027899",
+      "title": "solsäng 195x60 cm"
+    },
+    {
+      "href": "https://jula.se/allmanna-kopvillkor",
+      "title": "allmänna köpvillkor"
+    },
+    {
+      "href": "https://jula.se/recensionspolicy",
+      "title": "recensionspolicy"
+    }
+  ],
+  "cosineResults": [
+    {
+      "title": "verktyg och maskiner",
+      "href": "https://jula.se/catalog/verktyg-och-maskiner",
+      "distance": 0.3410632015833729
+    },
+    {
+      "title": "elverktyg och maskiner",
+      "href": "https://jula.se/catalog/verktyg-och-maskiner/elverktyg-och-maskiner",
+      "distance": 0.33131364704989064
+    },
+    {
+      "title": "crazy deals",
+      "href": "https://jula.se/erbjudanden/crazy-deals",
+      "distance": 0.3183062118651748
+    },
+    {
+      "title": "smart val",
+      "href": "https://jula.se/smart-val",
+      "distance": 0.3066423797352883
+    },
+    {
+      "title": "hyllor",
+      "href": "https://jula.se/catalog/bygg-och-farg/forvaring/hyllor",
+      "distance": 0.3006369329278126
+    },
+    {
+      "title": "pooler",
+      "href": "https://jula.se/catalog/fritid/pool-och-bad/pooler-och-spa/pooler",
+      "distance": 0.3001528102620527
+    },
+    {
+      "title": "trädgårdsmaskiner",
+      "href": "https://jula.se/catalog/tradgard/tradgardsmaskiner",
+      "distance": 0.2949059115713813
+    },
+    {
+      "title": "trädgårdsmöbler",
+      "href": "https://jula.se/catalog/tradgard/utemiljo/tradgardsmobler",
+      "distance": 0.29361986948836105
+    },
+    {
+      "title": "bult för fäste",
+      "href": "https://jula.se/catalog/reservdelar/elverktyg-och-maskiner/fastelement/skruvar-och-bultar/bult-for-faste-r023080",
+      "distance": 0.28696817067894465
+    },
+    {
+      "title": "dynlådor",
+      "href": "https://jula.se/catalog/tradgard/utemiljo/tradgardsmobler/dynlador",
+      "distance": 0.2835397674199713
+    },
+    {
+      "title": "utekök",
+      "href": "https://jula.se/catalog/tradgard/grillning/grillar/utekok",
+      "distance": 0.27607735758580454
+    },
+    {
+      "title": "tillbehör till batteridrivet",
+      "href": "https://jula.se/catalog/verktyg-och-maskiner/elverktyg-och-maskiner/tillbehor-till-batteridrivet",
+      "distance": 0.27470561064547905
+    },
+    {
+      "title": "kniv- och skruvkit",
+      "href": "https://jula.se/catalog/reservdelar/tradgardsmaskiner/verktygsdelar/grasklipparknivar/kniv-och-skruvkit-r030321",
+      "distance": 0.2688324510777325
+    },
+    {
+      "title": "grillgaller",
+      "href": "https://jula.se/catalog/reservdelar/utemiljo/grill-och-rok/galler/grillgaller-r024675",
+      "distance": 0.2685959332916135
+    },
+    {
+      "title": "byggställningar och plattformar",
+      "href": "https://jula.se/catalog/bygg-och-farg/stegar-och-stallningar/byggstallningar-och-plattformar",
+      "distance": 0.26617630814267107
+    }
+  ],
+  "parents": [
+    {
+      "href": "https://jula.se/catalog/verktyg-och-maskiner",
+      "title": "verktyg och maskiner",
+      "distance": 0.3410632015833729
+    },
+    {
+      "href": "https://jula.se/catalog/verktyg-och-maskiner",
+      "title": "verktyg och maskiner",
+      "distance": 0.33131364704989064
+    },
+    {
+      "href": "https://jula.se/erbjudanden/crazy-deals",
+      "title": "crazy deals",
+      "distance": 0.3183062118651748
+    },
+    {
+      "href": "https://jula.se/smart-val",
+      "title": "smart val",
+      "distance": 0.3066423797352883
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg",
+      "title": "bygg och farg",
+      "distance": 0.3006369329278126
+    },
+    {
+      "href": "https://jula.se/catalog/fritid",
+      "title": "fritid",
+      "distance": 0.3001528102620527
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard",
+      "title": "tradgard",
+      "distance": 0.2949059115713813
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard",
+      "title": "tradgard",
+      "distance": 0.29361986948836105
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar",
+      "title": "reservdelar",
+      "distance": 0.28696817067894465
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard",
+      "title": "tradgard",
+      "distance": 0.2835397674199713
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard",
+      "title": "tradgard",
+      "distance": 0.27607735758580454
+    },
+    {
+      "href": "https://jula.se/catalog/verktyg-och-maskiner",
+      "title": "verktyg och maskiner",
+      "distance": 0.27470561064547905
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar",
+      "title": "reservdelar",
+      "distance": 0.2688324510777325
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar",
+      "title": "reservdelar",
+      "distance": 0.2685959332916135
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg",
+      "title": "bygg och farg",
+      "distance": 0.26617630814267107
+    }
+  ],
+  "uniqAcc": [
+    {
+      "href": "https://jula.se/catalog/verktyg-och-maskiner",
+      "title": "verktyg och maskiner",
+      "distance": 0.27470561064547905
+    },
+    {
+      "href": "https://jula.se/erbjudanden/crazy-deals",
+      "title": "crazy deals",
+      "distance": 0.3183062118651748
+    },
+    {
+      "href": "https://jula.se/smart-val",
+      "title": "smart val",
+      "distance": 0.3066423797352883
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg",
+      "title": "bygg och farg",
+      "distance": 0.26617630814267107
+    },
+    {
+      "href": "https://jula.se/catalog/fritid",
+      "title": "fritid",
+      "distance": 0.3001528102620527
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard",
+      "title": "tradgard",
+      "distance": 0.27607735758580454
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar",
+      "title": "reservdelar",
+      "distance": 0.2685959332916135
+    }
+  ],
+  "linksData": [
+    {
+      "href": "https://jula.se/catalog/verktyg-och-maskiner",
+      "title": "verktyg och maskiner",
+      "distance": 0.27470561064547905
+    },
+    {
+      "href": "https://jula.se/erbjudanden/crazy-deals",
+      "title": "crazy deals",
+      "distance": 0.3183062118651748
+    },
+    {
+      "href": "https://jula.se/smart-val",
+      "title": "smart val",
+      "distance": 0.3066423797352883
+    },
+    {
+      "href": "https://jula.se/catalog/bygg-och-farg",
+      "title": "bygg och farg",
+      "distance": 0.26617630814267107
+    },
+    {
+      "href": "https://jula.se/catalog/fritid",
+      "title": "fritid",
+      "distance": 0.3001528102620527
+    },
+    {
+      "href": "https://jula.se/catalog/tradgard",
+      "title": "tradgard",
+      "distance": 0.27607735758580454
+    },
+    {
+      "href": "https://jula.se/catalog/reservdelar",
+      "title": "reservdelar",
+      "distance": 0.2685959332916135
+    }
+  ]
+}

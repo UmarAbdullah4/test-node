@@ -1,0 +1,831 @@
+{
+  "root": "https://nike.com/",
+  "length": {
+    "links": 64,
+    "aliveTop": 63,
+    "cosineResults": 15,
+    "parents": 15,
+    "uniqAcc": 15,
+    "linksData": 15
+  },
+  "links": [
+    {
+      "href": "https://nike.com/retail",
+      "title": "find a store"
+    },
+    {
+      "href": "https://nike.com/help",
+      "title": "contact us"
+    },
+    {
+      "href": "https://nike.com/membership",
+      "title": "membership"
+    },
+    {
+      "href": "https://nike.com/register",
+      "title": "sign in"
+    },
+    {
+      "href": "https://nike.com/w/new-3n82y",
+      "title": "new"
+    },
+    {
+      "href": "https://nike.com/men",
+      "title": "men"
+    },
+    {
+      "href": "https://nike.com/women",
+      "title": "women"
+    },
+    {
+      "href": "https://nike.com/kids",
+      "title": "kids"
+    },
+    {
+      "href": "https://nike.com/jordan",
+      "title": "jordan"
+    },
+    {
+      "href": "https://nike.com/w/air-force-1-shoes-5sj3yzy7ok",
+      "title": "air force 1"
+    },
+    {
+      "href": "https://nike.com/w/jordan-1-shoes-4fokyzy7ok",
+      "title": "jordan 1"
+    },
+    {
+      "href": "https://nike.com/w/air-max-dn-shoes-5ufejzy7ok",
+      "title": "air max dn"
+    },
+    {
+      "href": "https://nike.com/w/zoom-vomero-shoes-7gee1zy7ok",
+      "title": "vomero"
+    },
+    {
+      "href": "https://nike.com/w/metcon-training-gym-shoes-3yxqsz58jtozy7ok",
+      "title": "metcon"
+    },
+    {
+      "href": "https://nike.com/w/air-max-270-shoes-5ix6dzy7ok",
+      "title": "air max 270"
+    },
+    {
+      "href": "https://nike.com/w/air-max-90-shoes-auqmozy7ok",
+      "title": "air max 90"
+    },
+    {
+      "href": "https://nike.com/w/blazer-shoes-9gw3azy7ok",
+      "title": "blazer"
+    },
+    {
+      "href": "https://nike.com/w/pegasus-shoes-8nexhzy7ok",
+      "title": "pegasus"
+    },
+    {
+      "href": "https://nike.com/w/shoes-y7ok",
+      "title": "all shoes"
+    },
+    {
+      "href": "https://nike.com/w/jordan-shoes-37eefzy7ok",
+      "title": "jordan shoes"
+    },
+    {
+      "href": "https://nike.com/w/running-shoes-37v7jzy7ok",
+      "title": "running shoes"
+    },
+    {
+      "href": "https://nike.com/w/basketball-shoes-3glsmzy7ok",
+      "title": "basketball shoes"
+    },
+    {
+      "href": "https://nike.com/w/tennis-shoes-ed1qzy7ok",
+      "title": "tennis shoes"
+    },
+    {
+      "href": "https://nike.com/w/training-gym-shoes-58jtozy7ok",
+      "title": "training shoes"
+    },
+    {
+      "href": "https://nike.com/w/nike-by-you-shoes-6ealhzy7ok",
+      "title": "custom shoes"
+    },
+    {
+      "href": "https://nike.com/w/sale-shoes-3yaepzy7ok",
+      "title": "sale shoes"
+    },
+    {
+      "href": "https://nike.com/w/soccer-shoes-1gdj0zy7ok",
+      "title": "soccer cleats"
+    },
+    {
+      "href": "https://nike.com/w/clothing-6ymx6",
+      "title": "all clothing"
+    },
+    {
+      "href": "https://nike.com/w/tops-t-shirts-9om13",
+      "title": "tops & t-shirts"
+    },
+    {
+      "href": "https://nike.com/w/shorts-38fph",
+      "title": "shorts"
+    },
+    {
+      "href": "https://nike.com/w/hoodies-and-pullovers-6rive",
+      "title": "hoodies & pullovers"
+    },
+    {
+      "href": "https://nike.com/w/joggers-sweatpants-aepf0",
+      "title": "joggers & sweatpants"
+    },
+    {
+      "href": "https://nike.com/w/womens-sports-bras-40qgmz5e1x6",
+      "title": "sports bras"
+    },
+    {
+      "href": "https://nike.com/w/pants-and-tights-2kq19",
+      "title": "pants & tights"
+    },
+    {
+      "href": "https://nike.com/w/socks-7ny3q",
+      "title": "socks"
+    },
+    {
+      "href": "https://nike.com/w/yoga-anrlj",
+      "title": "yoga"
+    },
+    {
+      "href": "https://nike.com/w/nikelab-9kb2r",
+      "title": "nikelab"
+    },
+    {
+      "href": "https://nike.com/w/womens-plus-size-5e1x6z8mjm2",
+      "title": "plus size"
+    },
+    {
+      "href": "https://nike.com/w/mens-big-tall-clothing-6ymx6zau499znik1",
+      "title": "big & tall"
+    },
+    {
+      "href": "https://nike.com/w/sale-clothing-3yaepz6ymx6",
+      "title": "sale clothing"
+    },
+    {
+      "href": "https://nike.com/w/baby-toddler-kids-shoes-2j488zv4dhzy7ok",
+      "title": "infant & toddler shoes"
+    },
+    {
+      "href": "https://nike.com/w/kids-shoes-v4dhzy7ok",
+      "title": "kids shoes"
+    },
+    {
+      "href": "https://nike.com/w/kids-basketball-shoes-3glsmzv4dhzy7ok",
+      "title": "kids basketball shoes"
+    },
+    {
+      "href": "https://nike.com/w/kids-running-shoes-37v7jzv4dhzy7ok",
+      "title": "kids running shoes"
+    },
+    {
+      "href": "https://nike.com/w/kids-jordan-shoes-37eefzv4dhzy7ok",
+      "title": "kids jordan shoes"
+    },
+    {
+      "href": "https://nike.com/w/kids-clothing-6ymx6zv4dh",
+      "title": "kids clothing"
+    },
+    {
+      "href": "https://nike.com/w/kids-bags-and-backpacks-9xy71zv4dh",
+      "title": "kids backpacks"
+    },
+    {
+      "href": "https://nike.com/w/kids-socks-7ny3qzv4dh",
+      "title": "kids socks"
+    },
+    {
+      "href": "https://nike.com/w/kids-sale-3yaepzv4dh",
+      "title": "kids sale"
+    },
+    {
+      "href": "https://nike.com/gift-cards",
+      "title": "gift cards"
+    },
+    {
+      "href": "https://nike.com/stories",
+      "title": "nike journal"
+    },
+    {
+      "href": "https://nike.com/orders/details",
+      "title": "order status"
+    },
+    {
+      "href": "https://nike.com/help/a/shipping-delivery",
+      "title": "shipping and delivery"
+    },
+    {
+      "href": "https://nike.com/help/a/returns-policy",
+      "title": "returns"
+    },
+    {
+      "href": "https://nike.com/help/a/change-cancel-order",
+      "title": "order cancellation"
+    },
+    {
+      "href": "https://nike.com/help/a/payment-options",
+      "title": "payment options"
+    },
+    {
+      "href": "https://nike.com/orders/gift-card-lookup",
+      "title": "gift card balance"
+    },
+    {
+      "href": "https://nike.com/sustainability",
+      "title": "sustainability"
+    },
+    {
+      "href": "https://nike.com/promo-code",
+      "title": "promotions & discounts"
+    },
+    {
+      "href": "https://nike.com/help/a/student-discount",
+      "title": "student"
+    },
+    {
+      "href": "https://nike.com/help/a/military-discount",
+      "title": "military"
+    },
+    {
+      "href": "https://nike.com/help/a/teacher-discount",
+      "title": "teacher"
+    },
+    {
+      "href": "https://nike.com/help/a/first-responder-discount",
+      "title": "first responders & medical professionals"
+    },
+    {
+      "href": "https://nike.com/help/a/birthday-terms-promo",
+      "title": "birthday"
+    }
+  ],
+  "aliveTop": [
+    {
+      "href": "https://nike.com/retail",
+      "title": "find a store"
+    },
+    {
+      "href": "https://nike.com/membership",
+      "title": "membership"
+    },
+    {
+      "href": "https://nike.com/register",
+      "title": "sign in"
+    },
+    {
+      "href": "https://nike.com/w/new-3n82y",
+      "title": "new"
+    },
+    {
+      "href": "https://nike.com/men",
+      "title": "men"
+    },
+    {
+      "href": "https://nike.com/women",
+      "title": "women"
+    },
+    {
+      "href": "https://nike.com/kids",
+      "title": "kids"
+    },
+    {
+      "href": "https://nike.com/jordan",
+      "title": "jordan"
+    },
+    {
+      "href": "https://nike.com/w/air-force-1-shoes-5sj3yzy7ok",
+      "title": "air force 1"
+    },
+    {
+      "href": "https://nike.com/w/jordan-1-shoes-4fokyzy7ok",
+      "title": "jordan 1"
+    },
+    {
+      "href": "https://nike.com/w/air-max-dn-shoes-5ufejzy7ok",
+      "title": "air max dn"
+    },
+    {
+      "href": "https://nike.com/w/zoom-vomero-shoes-7gee1zy7ok",
+      "title": "vomero"
+    },
+    {
+      "href": "https://nike.com/w/metcon-training-gym-shoes-3yxqsz58jtozy7ok",
+      "title": "metcon"
+    },
+    {
+      "href": "https://nike.com/w/air-max-270-shoes-5ix6dzy7ok",
+      "title": "air max 270"
+    },
+    {
+      "href": "https://nike.com/w/air-max-90-shoes-auqmozy7ok",
+      "title": "air max 90"
+    },
+    {
+      "href": "https://nike.com/w/blazer-shoes-9gw3azy7ok",
+      "title": "blazer"
+    },
+    {
+      "href": "https://nike.com/w/pegasus-shoes-8nexhzy7ok",
+      "title": "pegasus"
+    },
+    {
+      "href": "https://nike.com/w/shoes-y7ok",
+      "title": "all shoes"
+    },
+    {
+      "href": "https://nike.com/w/jordan-shoes-37eefzy7ok",
+      "title": "jordan shoes"
+    },
+    {
+      "href": "https://nike.com/w/running-shoes-37v7jzy7ok",
+      "title": "running shoes"
+    },
+    {
+      "href": "https://nike.com/w/basketball-shoes-3glsmzy7ok",
+      "title": "basketball shoes"
+    },
+    {
+      "href": "https://nike.com/w/tennis-shoes-ed1qzy7ok",
+      "title": "tennis shoes"
+    },
+    {
+      "href": "https://nike.com/w/training-gym-shoes-58jtozy7ok",
+      "title": "training shoes"
+    },
+    {
+      "href": "https://nike.com/w/nike-by-you-shoes-6ealhzy7ok",
+      "title": "custom shoes"
+    },
+    {
+      "href": "https://nike.com/w/sale-shoes-3yaepzy7ok",
+      "title": "sale shoes"
+    },
+    {
+      "href": "https://nike.com/w/soccer-shoes-1gdj0zy7ok",
+      "title": "soccer cleats"
+    },
+    {
+      "href": "https://nike.com/w/clothing-6ymx6",
+      "title": "all clothing"
+    },
+    {
+      "href": "https://nike.com/w/tops-t-shirts-9om13",
+      "title": "tops & t-shirts"
+    },
+    {
+      "href": "https://nike.com/w/shorts-38fph",
+      "title": "shorts"
+    },
+    {
+      "href": "https://nike.com/w/hoodies-and-pullovers-6rive",
+      "title": "hoodies & pullovers"
+    },
+    {
+      "href": "https://nike.com/w/joggers-sweatpants-aepf0",
+      "title": "joggers & sweatpants"
+    },
+    {
+      "href": "https://nike.com/w/womens-sports-bras-40qgmz5e1x6",
+      "title": "sports bras"
+    },
+    {
+      "href": "https://nike.com/w/pants-and-tights-2kq19",
+      "title": "pants & tights"
+    },
+    {
+      "href": "https://nike.com/w/socks-7ny3q",
+      "title": "socks"
+    },
+    {
+      "href": "https://nike.com/w/yoga-anrlj",
+      "title": "yoga"
+    },
+    {
+      "href": "https://nike.com/w/nikelab-9kb2r",
+      "title": "nikelab"
+    },
+    {
+      "href": "https://nike.com/w/womens-plus-size-5e1x6z8mjm2",
+      "title": "plus size"
+    },
+    {
+      "href": "https://nike.com/w/mens-big-tall-clothing-6ymx6zau499znik1",
+      "title": "big & tall"
+    },
+    {
+      "href": "https://nike.com/w/sale-clothing-3yaepz6ymx6",
+      "title": "sale clothing"
+    },
+    {
+      "href": "https://nike.com/w/baby-toddler-kids-shoes-2j488zv4dhzy7ok",
+      "title": "infant & toddler shoes"
+    },
+    {
+      "href": "https://nike.com/w/kids-shoes-v4dhzy7ok",
+      "title": "kids shoes"
+    },
+    {
+      "href": "https://nike.com/w/kids-basketball-shoes-3glsmzv4dhzy7ok",
+      "title": "kids basketball shoes"
+    },
+    {
+      "href": "https://nike.com/w/kids-running-shoes-37v7jzv4dhzy7ok",
+      "title": "kids running shoes"
+    },
+    {
+      "href": "https://nike.com/w/kids-jordan-shoes-37eefzv4dhzy7ok",
+      "title": "kids jordan shoes"
+    },
+    {
+      "href": "https://nike.com/w/kids-clothing-6ymx6zv4dh",
+      "title": "kids clothing"
+    },
+    {
+      "href": "https://nike.com/w/kids-bags-and-backpacks-9xy71zv4dh",
+      "title": "kids backpacks"
+    },
+    {
+      "href": "https://nike.com/w/kids-socks-7ny3qzv4dh",
+      "title": "kids socks"
+    },
+    {
+      "href": "https://nike.com/w/kids-sale-3yaepzv4dh",
+      "title": "kids sale"
+    },
+    {
+      "href": "https://nike.com/gift-cards",
+      "title": "gift cards"
+    },
+    {
+      "href": "https://nike.com/stories",
+      "title": "nike journal"
+    },
+    {
+      "href": "https://nike.com/orders/details",
+      "title": "order status"
+    },
+    {
+      "href": "https://nike.com/help/a/shipping-delivery",
+      "title": "shipping and delivery"
+    },
+    {
+      "href": "https://nike.com/help/a/returns-policy",
+      "title": "returns"
+    },
+    {
+      "href": "https://nike.com/help/a/change-cancel-order",
+      "title": "order cancellation"
+    },
+    {
+      "href": "https://nike.com/help/a/payment-options",
+      "title": "payment options"
+    },
+    {
+      "href": "https://nike.com/orders/gift-card-lookup",
+      "title": "gift card balance"
+    },
+    {
+      "href": "https://nike.com/sustainability",
+      "title": "sustainability"
+    },
+    {
+      "href": "https://nike.com/promo-code",
+      "title": "promotions & discounts"
+    },
+    {
+      "href": "https://nike.com/help/a/student-discount",
+      "title": "student"
+    },
+    {
+      "href": "https://nike.com/help/a/military-discount",
+      "title": "military"
+    },
+    {
+      "href": "https://nike.com/help/a/teacher-discount",
+      "title": "teacher"
+    },
+    {
+      "href": "https://nike.com/help/a/first-responder-discount",
+      "title": "first responders & medical professionals"
+    },
+    {
+      "href": "https://nike.com/help/a/birthday-terms-promo",
+      "title": "birthday"
+    }
+  ],
+  "cosineResults": [
+    {
+      "title": "joggers & sweatpants",
+      "href": "https://nike.com/w/joggers-sweatpants-aepf0",
+      "distance": 0.5589922590838324
+    },
+    {
+      "title": "training shoes",
+      "href": "https://nike.com/w/training-gym-shoes-58jtozy7ok",
+      "distance": 0.5517698996188282
+    },
+    {
+      "title": "running shoes",
+      "href": "https://nike.com/w/running-shoes-37v7jzy7ok",
+      "distance": 0.5482625105430189
+    },
+    {
+      "title": "tennis shoes",
+      "href": "https://nike.com/w/tennis-shoes-ed1qzy7ok",
+      "distance": 0.5312981799137819
+    },
+    {
+      "title": "kids clothing",
+      "href": "https://nike.com/w/kids-clothing-6ymx6zv4dh",
+      "distance": 0.510422829079004
+    },
+    {
+      "title": "sports bras",
+      "href": "https://nike.com/w/womens-sports-bras-40qgmz5e1x6",
+      "distance": 0.4950806232801668
+    },
+    {
+      "title": "basketball shoes",
+      "href": "https://nike.com/w/basketball-shoes-3glsmzy7ok",
+      "distance": 0.4829930074929607
+    },
+    {
+      "title": "all clothing",
+      "href": "https://nike.com/w/clothing-6ymx6",
+      "distance": 0.4780661305413822
+    },
+    {
+      "title": "tops & t-shirts",
+      "href": "https://nike.com/w/tops-t-shirts-9om13",
+      "distance": 0.46793683931029506
+    },
+    {
+      "title": "hoodies & pullovers",
+      "href": "https://nike.com/w/hoodies-and-pullovers-6rive",
+      "distance": 0.45510873704127736
+    },
+    {
+      "title": "sale clothing",
+      "href": "https://nike.com/w/sale-clothing-3yaepz6ymx6",
+      "distance": 0.4530174980160837
+    },
+    {
+      "title": "kids shoes",
+      "href": "https://nike.com/w/kids-shoes-v4dhzy7ok",
+      "distance": 0.45160112471718716
+    },
+    {
+      "title": "soccer cleats",
+      "href": "https://nike.com/w/soccer-shoes-1gdj0zy7ok",
+      "distance": 0.44796197469323124
+    },
+    {
+      "title": "nike journal",
+      "href": "https://nike.com/stories",
+      "distance": 0.44789327468061235
+    },
+    {
+      "title": "shorts",
+      "href": "https://nike.com/w/shorts-38fph",
+      "distance": 0.4291827600094301
+    }
+  ],
+  "parents": [
+    {
+      "href": "https://nike.com/w/joggers-sweatpants-aepf0",
+      "title": "joggers sweatpants aepf0",
+      "distance": 0.5589922590838324
+    },
+    {
+      "href": "https://nike.com/w/training-gym-shoes-58jtozy7ok",
+      "title": "training gym shoes 58jtozy7ok",
+      "distance": 0.5517698996188282
+    },
+    {
+      "href": "https://nike.com/w/running-shoes-37v7jzy7ok",
+      "title": "running shoes 37v7jzy7ok",
+      "distance": 0.5482625105430189
+    },
+    {
+      "href": "https://nike.com/w/tennis-shoes-ed1qzy7ok",
+      "title": "tennis shoes ed1qzy7ok",
+      "distance": 0.5312981799137819
+    },
+    {
+      "href": "https://nike.com/w/kids-clothing-6ymx6zv4dh",
+      "title": "kids clothing 6ymx6zv4dh",
+      "distance": 0.510422829079004
+    },
+    {
+      "href": "https://nike.com/w/womens-sports-bras-40qgmz5e1x6",
+      "title": "womens sports bras 40qgmz5e1x6",
+      "distance": 0.4950806232801668
+    },
+    {
+      "href": "https://nike.com/w/basketball-shoes-3glsmzy7ok",
+      "title": "basketball shoes 3glsmzy7ok",
+      "distance": 0.4829930074929607
+    },
+    {
+      "href": "https://nike.com/w/clothing-6ymx6",
+      "title": "clothing 6ymx6",
+      "distance": 0.4780661305413822
+    },
+    {
+      "href": "https://nike.com/w/tops-t-shirts-9om13",
+      "title": "tops t shirts 9om13",
+      "distance": 0.46793683931029506
+    },
+    {
+      "href": "https://nike.com/w/hoodies-and-pullovers-6rive",
+      "title": "hoodies and pullovers 6rive",
+      "distance": 0.45510873704127736
+    },
+    {
+      "href": "https://nike.com/w/sale-clothing-3yaepz6ymx6",
+      "title": "sale clothing 3yaepz6ymx6",
+      "distance": 0.4530174980160837
+    },
+    {
+      "href": "https://nike.com/w/kids-shoes-v4dhzy7ok",
+      "title": "kids shoes v4dhzy7ok",
+      "distance": 0.45160112471718716
+    },
+    {
+      "href": "https://nike.com/w/soccer-shoes-1gdj0zy7ok",
+      "title": "soccer shoes 1gdj0zy7ok",
+      "distance": 0.44796197469323124
+    },
+    {
+      "href": "https://nike.com/stories",
+      "title": "nike journal",
+      "distance": 0.44789327468061235
+    },
+    {
+      "href": "https://nike.com/w/shorts-38fph",
+      "title": "shorts 38fph",
+      "distance": 0.4291827600094301
+    }
+  ],
+  "uniqAcc": [
+    {
+      "href": "https://nike.com/w/joggers-sweatpants-aepf0",
+      "title": "joggers sweatpants aepf0",
+      "distance": 0.5589922590838324
+    },
+    {
+      "href": "https://nike.com/w/training-gym-shoes-58jtozy7ok",
+      "title": "training gym shoes 58jtozy7ok",
+      "distance": 0.5517698996188282
+    },
+    {
+      "href": "https://nike.com/w/running-shoes-37v7jzy7ok",
+      "title": "running shoes 37v7jzy7ok",
+      "distance": 0.5482625105430189
+    },
+    {
+      "href": "https://nike.com/w/tennis-shoes-ed1qzy7ok",
+      "title": "tennis shoes ed1qzy7ok",
+      "distance": 0.5312981799137819
+    },
+    {
+      "href": "https://nike.com/w/kids-clothing-6ymx6zv4dh",
+      "title": "kids clothing 6ymx6zv4dh",
+      "distance": 0.510422829079004
+    },
+    {
+      "href": "https://nike.com/w/womens-sports-bras-40qgmz5e1x6",
+      "title": "womens sports bras 40qgmz5e1x6",
+      "distance": 0.4950806232801668
+    },
+    {
+      "href": "https://nike.com/w/basketball-shoes-3glsmzy7ok",
+      "title": "basketball shoes 3glsmzy7ok",
+      "distance": 0.4829930074929607
+    },
+    {
+      "href": "https://nike.com/w/clothing-6ymx6",
+      "title": "clothing 6ymx6",
+      "distance": 0.4780661305413822
+    },
+    {
+      "href": "https://nike.com/w/tops-t-shirts-9om13",
+      "title": "tops t shirts 9om13",
+      "distance": 0.46793683931029506
+    },
+    {
+      "href": "https://nike.com/w/hoodies-and-pullovers-6rive",
+      "title": "hoodies and pullovers 6rive",
+      "distance": 0.45510873704127736
+    },
+    {
+      "href": "https://nike.com/w/sale-clothing-3yaepz6ymx6",
+      "title": "sale clothing 3yaepz6ymx6",
+      "distance": 0.4530174980160837
+    },
+    {
+      "href": "https://nike.com/w/kids-shoes-v4dhzy7ok",
+      "title": "kids shoes v4dhzy7ok",
+      "distance": 0.45160112471718716
+    },
+    {
+      "href": "https://nike.com/w/soccer-shoes-1gdj0zy7ok",
+      "title": "soccer shoes 1gdj0zy7ok",
+      "distance": 0.44796197469323124
+    },
+    {
+      "href": "https://nike.com/stories",
+      "title": "nike journal",
+      "distance": 0.44789327468061235
+    },
+    {
+      "href": "https://nike.com/w/shorts-38fph",
+      "title": "shorts 38fph",
+      "distance": 0.4291827600094301
+    }
+  ],
+  "linksData": [
+    {
+      "href": "https://nike.com/w/joggers-sweatpants-aepf0",
+      "title": "joggers sweatpants aepf0",
+      "distance": 0.5589922590838324
+    },
+    {
+      "href": "https://nike.com/w/training-gym-shoes-58jtozy7ok",
+      "title": "training gym shoes 58jtozy7ok",
+      "distance": 0.5517698996188282
+    },
+    {
+      "href": "https://nike.com/w/running-shoes-37v7jzy7ok",
+      "title": "running shoes 37v7jzy7ok",
+      "distance": 0.5482625105430189
+    },
+    {
+      "href": "https://nike.com/w/tennis-shoes-ed1qzy7ok",
+      "title": "tennis shoes ed1qzy7ok",
+      "distance": 0.5312981799137819
+    },
+    {
+      "href": "https://nike.com/w/kids-clothing-6ymx6zv4dh",
+      "title": "kids clothing 6ymx6zv4dh",
+      "distance": 0.510422829079004
+    },
+    {
+      "href": "https://nike.com/w/womens-sports-bras-40qgmz5e1x6",
+      "title": "womens sports bras 40qgmz5e1x6",
+      "distance": 0.4950806232801668
+    },
+    {
+      "href": "https://nike.com/w/basketball-shoes-3glsmzy7ok",
+      "title": "basketball shoes 3glsmzy7ok",
+      "distance": 0.4829930074929607
+    },
+    {
+      "href": "https://nike.com/w/clothing-6ymx6",
+      "title": "clothing 6ymx6",
+      "distance": 0.4780661305413822
+    },
+    {
+      "href": "https://nike.com/w/tops-t-shirts-9om13",
+      "title": "tops t shirts 9om13",
+      "distance": 0.46793683931029506
+    },
+    {
+      "href": "https://nike.com/w/hoodies-and-pullovers-6rive",
+      "title": "hoodies and pullovers 6rive",
+      "distance": 0.45510873704127736
+    },
+    {
+      "href": "https://nike.com/w/sale-clothing-3yaepz6ymx6",
+      "title": "sale clothing 3yaepz6ymx6",
+      "distance": 0.4530174980160837
+    },
+    {
+      "href": "https://nike.com/w/kids-shoes-v4dhzy7ok",
+      "title": "kids shoes v4dhzy7ok",
+      "distance": 0.45160112471718716
+    },
+    {
+      "href": "https://nike.com/w/soccer-shoes-1gdj0zy7ok",
+      "title": "soccer shoes 1gdj0zy7ok",
+      "distance": 0.44796197469323124
+    },
+    {
+      "href": "https://nike.com/stories",
+      "title": "nike journal",
+      "distance": 0.44789327468061235
+    },
+    {
+      "href": "https://nike.com/w/shorts-38fph",
+      "title": "shorts 38fph",
+      "distance": 0.4291827600094301
+    }
+  ]
+}

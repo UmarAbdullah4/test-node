@@ -1,0 +1,457 @@
+{
+  "root": "https://skimming.ai",
+  "length": {
+    "links": 18,
+    "aliveTop": 18,
+    "cosineResults": 15,
+    "parents": 15,
+    "uniqAcc": 15,
+    "linksData": 13
+  },
+  "links": [
+    {
+      "href": "https://skimming.ai/free-tools",
+      "title": "tools"
+    },
+    {
+      "href": "https://skimming.ai/free-tools/pdf-summarizer",
+      "title": "pdf summarizerupload a pdf and receive a clear, detailed summary in seconds."
+    },
+    {
+      "href": "https://skimming.ai/free-tools/text-summarizer",
+      "title": "text summarizerconvert long text into brief summaries with a simple click."
+    },
+    {
+      "href": "https://skimming.ai/free-tools/book-summarizer",
+      "title": "book summarizerbreak down lengthy books into quick summaries for easy reading."
+    },
+    {
+      "href": "https://skimming.ai/free-tools/image-summarizer",
+      "title": "image summarizerextract information from images & create concise summaries."
+    },
+    {
+      "href": "https://skimming.ai/pricing",
+      "title": "pricing"
+    },
+    {
+      "href": "https://skimming.ai/chrome-extension",
+      "title": "chrome extension"
+    },
+    {
+      "href": "https://skimming.ai/android-app",
+      "title": "android app"
+    },
+    {
+      "href": "https://skimming.ai/blog",
+      "title": "blog"
+    },
+    {
+      "href": "https://skimming.ai/case-studies",
+      "title": "case studies"
+    },
+    {
+      "href": "https://skimming.ai/guide",
+      "title": "guide"
+    },
+    {
+      "href": "https://skimming.ai/roadmap",
+      "title": "roadmap"
+    },
+    {
+      "href": "https://skimming.ai/chat-with-document",
+      "title": "chat with documents"
+    },
+    {
+      "href": "https://skimming.ai/chat-with-youtube",
+      "title": "chat with youtube"
+    },
+    {
+      "href": "https://skimming.ai/chat-with-website",
+      "title": "chat with website"
+    },
+    {
+      "href": "https://skimming.ai/chat-with-audio",
+      "title": "chat with audio"
+    },
+    {
+      "href": "https://skimming.ai/chat-with-video",
+      "title": "chat with video"
+    },
+    {
+      "href": "https://skimming.ai/chat-with-image",
+      "title": "chat with image"
+    }
+  ],
+  "aliveTop": [
+    {
+      "href": "https://skimming.ai/free-tools",
+      "title": "tools"
+    },
+    {
+      "href": "https://skimming.ai/free-tools/pdf-summarizer",
+      "title": "pdf summarizerupload a pdf and receive a clear, detailed summary in seconds."
+    },
+    {
+      "href": "https://skimming.ai/free-tools/text-summarizer",
+      "title": "text summarizerconvert long text into brief summaries with a simple click."
+    },
+    {
+      "href": "https://skimming.ai/free-tools/book-summarizer",
+      "title": "book summarizerbreak down lengthy books into quick summaries for easy reading."
+    },
+    {
+      "href": "https://skimming.ai/free-tools/image-summarizer",
+      "title": "image summarizerextract information from images & create concise summaries."
+    },
+    {
+      "href": "https://skimming.ai/pricing",
+      "title": "pricing"
+    },
+    {
+      "href": "https://skimming.ai/chrome-extension",
+      "title": "chrome extension"
+    },
+    {
+      "href": "https://skimming.ai/android-app",
+      "title": "android app"
+    },
+    {
+      "href": "https://skimming.ai/blog",
+      "title": "blog"
+    },
+    {
+      "href": "https://skimming.ai/case-studies",
+      "title": "case studies"
+    },
+    {
+      "href": "https://skimming.ai/guide",
+      "title": "guide"
+    },
+    {
+      "href": "https://skimming.ai/roadmap",
+      "title": "roadmap"
+    },
+    {
+      "href": "https://skimming.ai/chat-with-document",
+      "title": "chat with documents"
+    },
+    {
+      "href": "https://skimming.ai/chat-with-youtube",
+      "title": "chat with youtube"
+    },
+    {
+      "href": "https://skimming.ai/chat-with-website",
+      "title": "chat with website"
+    },
+    {
+      "href": "https://skimming.ai/chat-with-audio",
+      "title": "chat with audio"
+    },
+    {
+      "href": "https://skimming.ai/chat-with-video",
+      "title": "chat with video"
+    },
+    {
+      "href": "https://skimming.ai/chat-with-image",
+      "title": "chat with image"
+    }
+  ],
+  "cosineResults": [
+    {
+      "title": "android app",
+      "href": "https://skimming.ai/android-app",
+      "distance": 0.304724898131768
+    },
+    {
+      "title": "tools",
+      "href": "https://skimming.ai/free-tools",
+      "distance": 0.291097713550951
+    },
+    {
+      "title": "image summarizerextract information from images & create concise summaries.",
+      "href": "https://skimming.ai/free-tools/image-summarizer",
+      "distance": 0.25954327630158197
+    },
+    {
+      "title": "chat with image",
+      "href": "https://skimming.ai/chat-with-image",
+      "distance": 0.24750165603672078
+    },
+    {
+      "title": "chat with audio",
+      "href": "https://skimming.ai/chat-with-audio",
+      "distance": 0.23325342569756705
+    },
+    {
+      "title": "chrome extension",
+      "href": "https://skimming.ai/chrome-extension",
+      "distance": 0.22029676111278473
+    },
+    {
+      "title": "roadmap",
+      "href": "https://skimming.ai/roadmap",
+      "distance": 0.21264025671974993
+    },
+    {
+      "title": "guide",
+      "href": "https://skimming.ai/guide",
+      "distance": 0.2070206452054301
+    },
+    {
+      "title": "pricing",
+      "href": "https://skimming.ai/pricing",
+      "distance": 0.19504512385211126
+    },
+    {
+      "title": "text summarizerconvert long text into brief summaries with a simple click.",
+      "href": "https://skimming.ai/free-tools/text-summarizer",
+      "distance": 0.19398476023420771
+    },
+    {
+      "title": "chat with website",
+      "href": "https://skimming.ai/chat-with-website",
+      "distance": 0.18974700804762282
+    },
+    {
+      "title": "chat with video",
+      "href": "https://skimming.ai/chat-with-video",
+      "distance": 0.18759001376542028
+    },
+    {
+      "title": "case studies",
+      "href": "https://skimming.ai/case-studies",
+      "distance": 0.18208976817125355
+    },
+    {
+      "title": "blog",
+      "href": "https://skimming.ai/blog",
+      "distance": 0.17949113477760756
+    },
+    {
+      "title": "chat with documents",
+      "href": "https://skimming.ai/chat-with-document",
+      "distance": 0.17406926430363837
+    }
+  ],
+  "parents": [
+    {
+      "href": "https://skimming.ai/android-app",
+      "title": "android app",
+      "distance": 0.304724898131768
+    },
+    {
+      "href": "https://skimming.ai/free-tools",
+      "title": "tools",
+      "distance": 0.291097713550951
+    },
+    {
+      "href": "https://skimming.ai/free-tools/image-summarizer",
+      "title": "image summarizerextract information",
+      "distance": 0.25954327630158197
+    },
+    {
+      "href": "https://skimming.ai/chat-with-image",
+      "title": "chat with image",
+      "distance": 0.24750165603672078
+    },
+    {
+      "href": "https://skimming.ai/chat-with-audio",
+      "title": "chat with audio",
+      "distance": 0.23325342569756705
+    },
+    {
+      "href": "https://skimming.ai/chrome-extension",
+      "title": "chrome extension",
+      "distance": 0.22029676111278473
+    },
+    {
+      "href": "https://skimming.ai/roadmap",
+      "title": "roadmap",
+      "distance": 0.21264025671974993
+    },
+    {
+      "href": "https://skimming.ai/guide",
+      "title": "guide",
+      "distance": 0.2070206452054301
+    },
+    {
+      "href": "https://skimming.ai/pricing",
+      "title": "pricing",
+      "distance": 0.19504512385211126
+    },
+    {
+      "href": "https://skimming.ai/free-tools/text-summarizer",
+      "title": "text summarizerconvert long",
+      "distance": 0.19398476023420771
+    },
+    {
+      "href": "https://skimming.ai/chat-with-website",
+      "title": "chat with website",
+      "distance": 0.18974700804762282
+    },
+    {
+      "href": "https://skimming.ai/chat-with-video",
+      "title": "chat with video",
+      "distance": 0.18759001376542028
+    },
+    {
+      "href": "https://skimming.ai/case-studies",
+      "title": "case studies",
+      "distance": 0.18208976817125355
+    },
+    {
+      "href": "https://skimming.ai/blog",
+      "title": "blog",
+      "distance": 0.17949113477760756
+    },
+    {
+      "href": "https://skimming.ai/chat-with-document",
+      "title": "chat with documents",
+      "distance": 0.17406926430363837
+    }
+  ],
+  "uniqAcc": [
+    {
+      "href": "https://skimming.ai/android-app",
+      "title": "android app",
+      "distance": 0.304724898131768
+    },
+    {
+      "href": "https://skimming.ai/free-tools",
+      "title": "tools",
+      "distance": 0.291097713550951
+    },
+    {
+      "href": "https://skimming.ai/free-tools/image-summarizer",
+      "title": "image summarizerextract information",
+      "distance": 0.25954327630158197
+    },
+    {
+      "href": "https://skimming.ai/chat-with-image",
+      "title": "chat with image",
+      "distance": 0.24750165603672078
+    },
+    {
+      "href": "https://skimming.ai/chat-with-audio",
+      "title": "chat with audio",
+      "distance": 0.23325342569756705
+    },
+    {
+      "href": "https://skimming.ai/chrome-extension",
+      "title": "chrome extension",
+      "distance": 0.22029676111278473
+    },
+    {
+      "href": "https://skimming.ai/roadmap",
+      "title": "roadmap",
+      "distance": 0.21264025671974993
+    },
+    {
+      "href": "https://skimming.ai/guide",
+      "title": "guide",
+      "distance": 0.2070206452054301
+    },
+    {
+      "href": "https://skimming.ai/pricing",
+      "title": "pricing",
+      "distance": 0.19504512385211126
+    },
+    {
+      "href": "https://skimming.ai/free-tools/text-summarizer",
+      "title": "text summarizerconvert long",
+      "distance": 0.19398476023420771
+    },
+    {
+      "href": "https://skimming.ai/chat-with-website",
+      "title": "chat with website",
+      "distance": 0.18974700804762282
+    },
+    {
+      "href": "https://skimming.ai/chat-with-video",
+      "title": "chat with video",
+      "distance": 0.18759001376542028
+    },
+    {
+      "href": "https://skimming.ai/case-studies",
+      "title": "case studies",
+      "distance": 0.18208976817125355
+    },
+    {
+      "href": "https://skimming.ai/blog",
+      "title": "blog",
+      "distance": 0.17949113477760756
+    },
+    {
+      "href": "https://skimming.ai/chat-with-document",
+      "title": "chat with documents",
+      "distance": 0.17406926430363837
+    }
+  ],
+  "linksData": [
+    {
+      "href": "https://skimming.ai/android-app",
+      "title": "android app",
+      "distance": 0.304724898131768
+    },
+    {
+      "href": "https://skimming.ai/free-tools",
+      "title": "tools",
+      "distance": 0.291097713550951
+    },
+    {
+      "href": "https://skimming.ai/chat-with-image",
+      "title": "chat with image",
+      "distance": 0.24750165603672078
+    },
+    {
+      "href": "https://skimming.ai/chat-with-audio",
+      "title": "chat with audio",
+      "distance": 0.23325342569756705
+    },
+    {
+      "href": "https://skimming.ai/chrome-extension",
+      "title": "chrome extension",
+      "distance": 0.22029676111278473
+    },
+    {
+      "href": "https://skimming.ai/roadmap",
+      "title": "roadmap",
+      "distance": 0.21264025671974993
+    },
+    {
+      "href": "https://skimming.ai/guide",
+      "title": "guide",
+      "distance": 0.2070206452054301
+    },
+    {
+      "href": "https://skimming.ai/pricing",
+      "title": "pricing",
+      "distance": 0.19504512385211126
+    },
+    {
+      "href": "https://skimming.ai/chat-with-website",
+      "title": "chat with website",
+      "distance": 0.18974700804762282
+    },
+    {
+      "href": "https://skimming.ai/chat-with-video",
+      "title": "chat with video",
+      "distance": 0.18759001376542028
+    },
+    {
+      "href": "https://skimming.ai/case-studies",
+      "title": "case studies",
+      "distance": 0.18208976817125355
+    },
+    {
+      "href": "https://skimming.ai/blog",
+      "title": "blog",
+      "distance": 0.17949113477760756
+    },
+    {
+      "href": "https://skimming.ai/chat-with-document",
+      "title": "chat with documents",
+      "distance": 0.17406926430363837
+    }
+  ]
+}

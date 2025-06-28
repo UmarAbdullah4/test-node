@@ -1,0 +1,490 @@
+{
+  "root": "https://nordicnest.se/",
+  "length": {
+    "links": 22,
+    "aliveTop": 21,
+    "cosineResults": 15,
+    "parents": 15,
+    "uniqAcc": 15,
+    "linksData": 14
+  },
+  "links": [
+    {
+      "href": "https://nordicnest.se/dukning--servering",
+      "title": "dukning & servering.ds{transform:rotate(270deg)}"
+    },
+    {
+      "href": "https://nordicnest.se/inredning",
+      "title": "inredning"
+    },
+    {
+      "href": "https://nordicnest.se/kok--matlagning",
+      "title": "kök & matlagning"
+    },
+    {
+      "href": "https://nordicnest.se/belysning",
+      "title": "belysning"
+    },
+    {
+      "href": "https://nordicnest.se/mattor--textil",
+      "title": "mattor & textil"
+    },
+    {
+      "href": "https://nordicnest.se/mobler",
+      "title": "möbler"
+    },
+    {
+      "href": "https://nordicnest.se/rea",
+      "title": "sommarrea"
+    },
+    {
+      "href": "https://nordicnest.se/mina-favoriter",
+      "title": "mina favoriter"
+    },
+    {
+      "href": "https://nordicnest.se/kundservice",
+      "title": "kundservice"
+    },
+    {
+      "href": "https://nordicnest.se/rum/uteplats",
+      "title": "uteplats"
+    },
+    {
+      "href": "https://nordicnest.se/nyheter",
+      "title": "nyheter"
+    },
+    {
+      "href": "https://nordicnest.se/varumarken",
+      "title": "varumärken"
+    },
+    {
+      "href": "https://nordicnest.se/kampanjer",
+      "title": "designfynd"
+    },
+    {
+      "href": "https://nordicnest.se/inspiration-tips",
+      "title": "inspiration"
+    },
+    {
+      "href": "https://nordicnest.se/rum",
+      "title": "rum"
+    },
+    {
+      "href": "https://nordicnest.se/presenttips",
+      "title": "presenttips"
+    },
+    {
+      "href": "https://nordicnest.se/a-o/muminshop",
+      "title": "mumin"
+    },
+    {
+      "href": "https://nordicnest.se/bastsaljare",
+      "title": "bästsäljare"
+    },
+    {
+      "href": "https://nordicnest.se/mina-sidor/kundklubb",
+      "title": "kundklubb"
+    },
+    {
+      "href": "https://nordicnest.se/foretag",
+      "title": "företag"
+    },
+    {
+      "href": "https://nordicnest.se/mina-sidor",
+      "title": "mina sidor"
+    },
+    {
+      "href": "https://nordicnest.se/mattor--textil/sangtextilier",
+      "title": "se mer sängtextil"
+    }
+  ],
+  "aliveTop": [
+    {
+      "href": "https://nordicnest.se/dukning--servering",
+      "title": "dukning & servering.ds{transform:rotate(270deg)}"
+    },
+    {
+      "href": "https://nordicnest.se/inredning",
+      "title": "inredning"
+    },
+    {
+      "href": "https://nordicnest.se/kok--matlagning",
+      "title": "kök & matlagning"
+    },
+    {
+      "href": "https://nordicnest.se/belysning",
+      "title": "belysning"
+    },
+    {
+      "href": "https://nordicnest.se/mattor--textil",
+      "title": "mattor & textil"
+    },
+    {
+      "href": "https://nordicnest.se/mobler",
+      "title": "möbler"
+    },
+    {
+      "href": "https://nordicnest.se/rea",
+      "title": "sommarrea"
+    },
+    {
+      "href": "https://nordicnest.se/mina-favoriter",
+      "title": "mina favoriter"
+    },
+    {
+      "href": "https://nordicnest.se/kundservice",
+      "title": "kundservice"
+    },
+    {
+      "href": "https://nordicnest.se/rum/uteplats",
+      "title": "uteplats"
+    },
+    {
+      "href": "https://nordicnest.se/nyheter",
+      "title": "nyheter"
+    },
+    {
+      "href": "https://nordicnest.se/varumarken",
+      "title": "varumärken"
+    },
+    {
+      "href": "https://nordicnest.se/kampanjer",
+      "title": "designfynd"
+    },
+    {
+      "href": "https://nordicnest.se/inspiration-tips",
+      "title": "inspiration"
+    },
+    {
+      "href": "https://nordicnest.se/rum",
+      "title": "rum"
+    },
+    {
+      "href": "https://nordicnest.se/presenttips",
+      "title": "presenttips"
+    },
+    {
+      "href": "https://nordicnest.se/a-o/muminshop",
+      "title": "mumin"
+    },
+    {
+      "href": "https://nordicnest.se/bastsaljare",
+      "title": "bästsäljare"
+    },
+    {
+      "href": "https://nordicnest.se/mina-sidor/kundklubb",
+      "title": "kundklubb"
+    },
+    {
+      "href": "https://nordicnest.se/foretag",
+      "title": "företag"
+    },
+    {
+      "href": "https://nordicnest.se/mattor--textil/sangtextilier",
+      "title": "se mer sängtextil"
+    }
+  ],
+  "cosineResults": [
+    {
+      "title": "möbler",
+      "href": "https://nordicnest.se/mobler",
+      "distance": 0.4793775608422346
+    },
+    {
+      "title": "belysning",
+      "href": "https://nordicnest.se/belysning",
+      "distance": 0.45145729978578963
+    },
+    {
+      "title": "varumärken",
+      "href": "https://nordicnest.se/varumarken",
+      "distance": 0.43429004956744005
+    },
+    {
+      "title": "företag",
+      "href": "https://nordicnest.se/foretag",
+      "distance": 0.4300755524423257
+    },
+    {
+      "title": "uteplats",
+      "href": "https://nordicnest.se/rum/uteplats",
+      "distance": 0.42755405336444957
+    },
+    {
+      "title": "inredning",
+      "href": "https://nordicnest.se/inredning",
+      "distance": 0.4234729204209114
+    },
+    {
+      "title": "kundservice",
+      "href": "https://nordicnest.se/kundservice",
+      "distance": 0.4141395415291842
+    },
+    {
+      "title": "nyheter",
+      "href": "https://nordicnest.se/nyheter",
+      "distance": 0.404938825713846
+    },
+    {
+      "title": "kundklubb",
+      "href": "https://nordicnest.se/mina-sidor/kundklubb",
+      "distance": 0.40418999158925917
+    },
+    {
+      "title": "mattor & textil",
+      "href": "https://nordicnest.se/mattor--textil",
+      "distance": 0.4007442138243293
+    },
+    {
+      "title": "mina favoriter",
+      "href": "https://nordicnest.se/mina-favoriter",
+      "distance": 0.3854237674013281
+    },
+    {
+      "title": "bästsäljare",
+      "href": "https://nordicnest.se/bastsaljare",
+      "distance": 0.3850170800117887
+    },
+    {
+      "title": "se mer sängtextil",
+      "href": "https://nordicnest.se/mattor--textil/sangtextilier",
+      "distance": 0.37393400270077093
+    },
+    {
+      "title": "dukning & servering.ds{transform:rotate(270deg)}",
+      "href": "https://nordicnest.se/dukning--servering",
+      "distance": 0.35258696363567177
+    },
+    {
+      "title": "kök & matlagning",
+      "href": "https://nordicnest.se/kok--matlagning",
+      "distance": 0.3345274851574593
+    }
+  ],
+  "parents": [
+    {
+      "href": "https://nordicnest.se/mobler",
+      "title": "möbler",
+      "distance": 0.4793775608422346
+    },
+    {
+      "href": "https://nordicnest.se/belysning",
+      "title": "belysning",
+      "distance": 0.45145729978578963
+    },
+    {
+      "href": "https://nordicnest.se/varumarken",
+      "title": "varumärken",
+      "distance": 0.43429004956744005
+    },
+    {
+      "href": "https://nordicnest.se/foretag",
+      "title": "företag",
+      "distance": 0.4300755524423257
+    },
+    {
+      "href": "https://nordicnest.se/rum/uteplats",
+      "title": "uteplats",
+      "distance": 0.42755405336444957
+    },
+    {
+      "href": "https://nordicnest.se/inredning",
+      "title": "inredning",
+      "distance": 0.4234729204209114
+    },
+    {
+      "href": "https://nordicnest.se/kundservice",
+      "title": "kundservice",
+      "distance": 0.4141395415291842
+    },
+    {
+      "href": "https://nordicnest.se/nyheter",
+      "title": "nyheter",
+      "distance": 0.404938825713846
+    },
+    {
+      "href": "https://nordicnest.se/mina-sidor/kundklubb",
+      "title": "kundklubb",
+      "distance": 0.40418999158925917
+    },
+    {
+      "href": "https://nordicnest.se/mattor--textil",
+      "title": "mattor & textil",
+      "distance": 0.4007442138243293
+    },
+    {
+      "href": "https://nordicnest.se/mina-favoriter",
+      "title": "mina favoriter",
+      "distance": 0.3854237674013281
+    },
+    {
+      "href": "https://nordicnest.se/bastsaljare",
+      "title": "bästsäljare",
+      "distance": 0.3850170800117887
+    },
+    {
+      "href": "https://nordicnest.se/mattor--textil/sangtextilier",
+      "title": "se mer sängtextil",
+      "distance": 0.37393400270077093
+    },
+    {
+      "href": "https://nordicnest.se/dukning--servering",
+      "title": "dukning & servering.ds{transform:rotate(270deg)}",
+      "distance": 0.35258696363567177
+    },
+    {
+      "href": "https://nordicnest.se/kok--matlagning",
+      "title": "kök & matlagning",
+      "distance": 0.3345274851574593
+    }
+  ],
+  "uniqAcc": [
+    {
+      "href": "https://nordicnest.se/mobler",
+      "title": "möbler",
+      "distance": 0.4793775608422346
+    },
+    {
+      "href": "https://nordicnest.se/belysning",
+      "title": "belysning",
+      "distance": 0.45145729978578963
+    },
+    {
+      "href": "https://nordicnest.se/varumarken",
+      "title": "varumärken",
+      "distance": 0.43429004956744005
+    },
+    {
+      "href": "https://nordicnest.se/foretag",
+      "title": "företag",
+      "distance": 0.4300755524423257
+    },
+    {
+      "href": "https://nordicnest.se/rum/uteplats",
+      "title": "uteplats",
+      "distance": 0.42755405336444957
+    },
+    {
+      "href": "https://nordicnest.se/inredning",
+      "title": "inredning",
+      "distance": 0.4234729204209114
+    },
+    {
+      "href": "https://nordicnest.se/kundservice",
+      "title": "kundservice",
+      "distance": 0.4141395415291842
+    },
+    {
+      "href": "https://nordicnest.se/nyheter",
+      "title": "nyheter",
+      "distance": 0.404938825713846
+    },
+    {
+      "href": "https://nordicnest.se/mina-sidor/kundklubb",
+      "title": "kundklubb",
+      "distance": 0.40418999158925917
+    },
+    {
+      "href": "https://nordicnest.se/mattor--textil",
+      "title": "mattor & textil",
+      "distance": 0.4007442138243293
+    },
+    {
+      "href": "https://nordicnest.se/mina-favoriter",
+      "title": "mina favoriter",
+      "distance": 0.3854237674013281
+    },
+    {
+      "href": "https://nordicnest.se/bastsaljare",
+      "title": "bästsäljare",
+      "distance": 0.3850170800117887
+    },
+    {
+      "href": "https://nordicnest.se/mattor--textil/sangtextilier",
+      "title": "se mer sängtextil",
+      "distance": 0.37393400270077093
+    },
+    {
+      "href": "https://nordicnest.se/dukning--servering",
+      "title": "dukning & servering.ds{transform:rotate(270deg)}",
+      "distance": 0.35258696363567177
+    },
+    {
+      "href": "https://nordicnest.se/kok--matlagning",
+      "title": "kök & matlagning",
+      "distance": 0.3345274851574593
+    }
+  ],
+  "linksData": [
+    {
+      "href": "https://nordicnest.se/mobler",
+      "title": "möbler",
+      "distance": 0.4793775608422346
+    },
+    {
+      "href": "https://nordicnest.se/belysning",
+      "title": "belysning",
+      "distance": 0.45145729978578963
+    },
+    {
+      "href": "https://nordicnest.se/varumarken",
+      "title": "varumärken",
+      "distance": 0.43429004956744005
+    },
+    {
+      "href": "https://nordicnest.se/foretag",
+      "title": "företag",
+      "distance": 0.4300755524423257
+    },
+    {
+      "href": "https://nordicnest.se/rum/uteplats",
+      "title": "uteplats",
+      "distance": 0.42755405336444957
+    },
+    {
+      "href": "https://nordicnest.se/inredning",
+      "title": "inredning",
+      "distance": 0.4234729204209114
+    },
+    {
+      "href": "https://nordicnest.se/kundservice",
+      "title": "kundservice",
+      "distance": 0.4141395415291842
+    },
+    {
+      "href": "https://nordicnest.se/nyheter",
+      "title": "nyheter",
+      "distance": 0.404938825713846
+    },
+    {
+      "href": "https://nordicnest.se/mina-sidor/kundklubb",
+      "title": "kundklubb",
+      "distance": 0.40418999158925917
+    },
+    {
+      "href": "https://nordicnest.se/mattor--textil",
+      "title": "mattor & textil",
+      "distance": 0.4007442138243293
+    },
+    {
+      "href": "https://nordicnest.se/mina-favoriter",
+      "title": "mina favoriter",
+      "distance": 0.3854237674013281
+    },
+    {
+      "href": "https://nordicnest.se/bastsaljare",
+      "title": "bästsäljare",
+      "distance": 0.3850170800117887
+    },
+    {
+      "href": "https://nordicnest.se/dukning--servering",
+      "title": "dukning & servering.ds{transform:rotate(270deg)}",
+      "distance": 0.35258696363567177
+    },
+    {
+      "href": "https://nordicnest.se/kok--matlagning",
+      "title": "kök & matlagning",
+      "distance": 0.3345274851574593
+    }
+  ]
+}

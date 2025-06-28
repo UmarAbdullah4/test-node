@@ -1,0 +1,3515 @@
+{
+  "root": "https://azdesign.se/",
+  "length": {
+    "links": 399,
+    "aliveTop": 399,
+    "cosineResults": 15,
+    "parents": 15,
+    "uniqAcc": 15,
+    "linksData": 15
+  },
+  "links": [
+    {
+      "href": "https://azdesign.se/sv/articles/108/restaurangmobler",
+      "title": "restaurangmöbler"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/21/utemobler",
+      "title": "utemöbler"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/954/restaurangmaskiner",
+      "title": "restaurangmaskiner"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/422/kok-matsal",
+      "title": "kök & matsal"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/289/kontorsmobler",
+      "title": "kontorsmöbler"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/213/konferensmobler",
+      "title": "konferensmöbler"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/276/ovrigt",
+      "title": "övrigt"
+    },
+    {
+      "href": "https://azdesign.se/sv/trademarks",
+      "title": "varumärken"
+    },
+    {
+      "href": "https://azdesign.se/sv/projekt-offert",
+      "title": "projekt & offert"
+    },
+    {
+      "href": "https://azdesign.se/sv/inredningshjalp",
+      "title": "inredningshjälp"
+    },
+    {
+      "href": "https://azdesign.se/sv/monteringshjalp",
+      "title": "monteringshjälp"
+    },
+    {
+      "href": "https://azdesign.se/sv/storkok",
+      "title": "storkök"
+    },
+    {
+      "href": "https://azdesign.se/sv/specialtillverkade-soffor",
+      "title": "specialtillverkade soffor"
+    },
+    {
+      "href": "https://azdesign.se/sv/leasing",
+      "title": "företagsleasing"
+    },
+    {
+      "href": "https://azdesign.se/sv/showroom",
+      "title": "besök vårt showroom"
+    },
+    {
+      "href": "https://azdesign.se/sv/kontakta-oss",
+      "title": "kontakta oss"
+    },
+    {
+      "href": "https://azdesign.se/sv/vanliga-fragor",
+      "title": "vanliga frågor"
+    },
+    {
+      "href": "https://azdesign.se/sv/om-az-design",
+      "title": "om az design"
+    },
+    {
+      "href": "https://azdesign.se/sv/integritetspolicy",
+      "title": "integritetspolicy"
+    },
+    {
+      "href": "https://azdesign.se/sv/kopvillkor",
+      "title": "köpvillkor"
+    },
+    {
+      "href": "https://azdesign.se/sv/aterbruk",
+      "title": "återbruk"
+    },
+    {
+      "href": "https://azdesign.se/sv/prisgaranti",
+      "title": "vi matchar priset"
+    },
+    {
+      "href": "https://azdesign.se/sv/recensioner",
+      "title": "våra recensioner 4.7/5 (2141 st)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/1/stolar",
+      "title": "stolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/42/kladda-stolar",
+      "title": "klädda stolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/628/stapelbara-stolar",
+      "title": "stapelbara stolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/40/karmstolar",
+      "title": "karmstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/54/metallstolar",
+      "title": "metallstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/39/plaststolar",
+      "title": "plaststolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/41/trastolar",
+      "title": "trästolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/270/bankettstolar-feststolar",
+      "title": "bankettstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/225/rottingstolar",
+      "title": "rottingstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/301/klappstolar-klaffstolar",
+      "title": "klappstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/11/soffor",
+      "title": "soffor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/79/restaurangsoffor",
+      "title": "restaurangsoffor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/86/hornsoffor",
+      "title": "hörnsoffor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/152/modulsoffor",
+      "title": "modulsoffor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/85/barsoffor",
+      "title": "barsoffor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/150/2-4-sits-soffor",
+      "title": "2 - 4 sits soffor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/31/bord",
+      "title": "bord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/9/bordsskivor",
+      "title": "bordsskivor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/8/bordsstativ",
+      "title": "bordsstativ"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/226/restaurangbord",
+      "title": "restaurangbord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/104/kompletta-bord",
+      "title": "kompletta bord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/298/plastbord",
+      "title": "plastbord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/217/barbord-stabord",
+      "title": "barbord & ståbord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/219/fallbara-bord",
+      "title": "fällbara bord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/2/barstolar",
+      "title": "barstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/59/tygkladda-barstolar",
+      "title": "tygklädda barstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/57/barstolar-i-plast",
+      "title": "barstolar i plast"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/100/barstolar-i-tra",
+      "title": "barstolar i trä"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/26/sittpuffar",
+      "title": "sittpuffar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/4/fatoljer",
+      "title": "fåtöljer"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/96/kladda-fatoljer",
+      "title": "klädda fåtöljer"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/95/fatoljer-i-plast",
+      "title": "fåtöljer i plast"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/15/pallar",
+      "title": "pallar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/14/barpallar",
+      "title": "barpallar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/103/kladda-pallar",
+      "title": "klädda pallar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/88/laga-pallar",
+      "title": "låga pallar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/101/plastpallar",
+      "title": "plastpallar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/125/trapallar",
+      "title": "träpallar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/300/sittbankar",
+      "title": "sittbänkar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/306/kladhangare",
+      "title": "klädhängare"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/285/personbarriar",
+      "title": "personbarriär"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/43/utomhusstolar",
+      "title": "utomhusstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/90/barstolar",
+      "title": "barstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/279/bankar",
+      "title": "bänkar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/89/fatoljer",
+      "title": "fåtöljer"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/922/hammock",
+      "title": "hammock"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/166/pallar",
+      "title": "pallar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/44/soffor",
+      "title": "soffor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/206/solsangar",
+      "title": "solsängar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/864/utestolar",
+      "title": "utestolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/167/utomhusbord",
+      "title": "utomhusbord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/341/bordsskivor",
+      "title": "bordsskivor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/168/bordsstativ",
+      "title": "bordsstativ"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/869/kompletta-utebord",
+      "title": "kompletta utebord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/303/parasoll",
+      "title": "parasoll"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/342/infravarmare",
+      "title": "infravärmare"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/918/blomlador",
+      "title": "blomlådor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/921/pladar",
+      "title": "plädar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/308/avsparrning",
+      "title": "avspärrning"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/935/blandningsmaskiner",
+      "title": "blandningsmaskiner"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/976/kyl-frys",
+      "title": "kyl & frys"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/985/frysar",
+      "title": "frysar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/938/ismaskin",
+      "title": "ismaskin"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/986/kylskap-och-kylare",
+      "title": "kylskåp och kylare"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/992/specialkylare",
+      "title": "specialkylare"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/953/vinkylar",
+      "title": "vinkylar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/1157/sous-vide",
+      "title": "sous vide"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/931/ugnar",
+      "title": "ugnar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/951/kombiugnar",
+      "title": "kombiugnar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/952/bageriugn",
+      "title": "bageriugn"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/946/pizzaugnar",
+      "title": "pizzaugnar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/932/snabbugnar",
+      "title": "snabbugnar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/606/fritoser",
+      "title": "fritöser"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/610/riskokare",
+      "title": "riskokare"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/933/skarmaskiner",
+      "title": "skärmaskiner"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/607/kaffemaskiner",
+      "title": "kaffemaskiner"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/904/espressomaskiner",
+      "title": "espressomaskiner"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/905/kaffebryggare",
+      "title": "kaffebryggare"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/925/urnbryggare",
+      "title": "urnbryggare"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/926/termosbryggare",
+      "title": "termosbryggare"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/906/kaffekvarn",
+      "title": "kaffekvarn"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/907/mjolkskummare",
+      "title": "mjölkskummare"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/941/glassmaskiner",
+      "title": "glassmaskiner"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/943/kottkvarn",
+      "title": "köttkvarn"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/608/klamgrillar",
+      "title": "klämgrillar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/609/kokplattor-och-induktion",
+      "title": "kokplattor & induktion"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/899/brodrostar",
+      "title": "brödrostar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/947/kolsyremaskin",
+      "title": "kolsyremaskin"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/902/koksassistenter",
+      "title": "köksassistenter"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/583/koksmaskiner",
+      "title": "köksmaskiner"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/937/potatisskalare",
+      "title": "potatisskalare"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/611/soppkittlar",
+      "title": "soppkittlar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/903/stavmixer",
+      "title": "stavmixer"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/936/vakuummaskiner",
+      "title": "vakuummaskiner"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/613/varmhallning",
+      "title": "varmhållning"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/586/vattenbad",
+      "title": "vattenbad"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/901/elvispar",
+      "title": "elvispar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/900/vattenkokare",
+      "title": "vattenkokare"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/605/blender",
+      "title": "blender"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/949/hushallsblender",
+      "title": "hushållsblender"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/948/professionell-blender",
+      "title": "professionell blender"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/909/citruspress",
+      "title": "citruspress"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/425/restaurangporslin",
+      "title": "porslin & uppläggning"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/668/porslinsserie",
+      "title": "porslinsserie"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/452/flata-tallrikar",
+      "title": "flata tallrikar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/453/djupa-tallrikar",
+      "title": "djupa tallrikar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/916/pizzatallrikar",
+      "title": "pizzatallrikar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/454/pastatallrikar",
+      "title": "pastatallrikar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/461/serveringsfat",
+      "title": "serveringsfat"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/462/skalar",
+      "title": "skålar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/456/koppar-och-fat",
+      "title": "koppar & fat"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/459/graddkannor",
+      "title": "gräddkannor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/460/ramekin",
+      "title": "ramekin"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/457/dressingkrus",
+      "title": "dressingkrus"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/650/tillbehor-benporslin",
+      "title": "tillbehör benporslin"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/651/tillbehor-faltspatsporslin",
+      "title": "tillbehör fältspatsporslin"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/562/servering",
+      "title": "servering"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/424/restaurangglas",
+      "title": "glas"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/423/restaurangbestick",
+      "title": "bestick"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/569/serveringsfat",
+      "title": "serveringsfat"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/564/kaffekannor-och-pressar",
+      "title": "kaffekannor & pressar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/929/brodkorgar",
+      "title": "brödkorgar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/490/dukning",
+      "title": "dukning"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/565/kak-och-upplaggningsfat",
+      "title": "kak- & uppläggningsfat"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/661/serveringsvagnar",
+      "title": "serveringsvagnar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/566/karotter",
+      "title": "karotter"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/567/minikorgar",
+      "title": "minikorgar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/568/planksteksbrador-och-underlagg",
+      "title": "planksteksbrädor & underlägg"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/573/serveringsbrickor",
+      "title": "serveringsbrickor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/654/serveringskorgar",
+      "title": "serveringskorgar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/656/serveringsskalar",
+      "title": "serveringsskålar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/574/skarbrador",
+      "title": "skärbrädor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/572/sasskalar-och-sassnipor",
+      "title": "såsskålar & såssnipor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/657/tillbringare",
+      "title": "tillbringare"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/521/korgar",
+      "title": "korgar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/575/termosar",
+      "title": "termosar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/658/ovrigt-servering",
+      "title": "övrigt servering"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/593/koksutrustning",
+      "title": "köksutrustning"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/602/grytor-kastruller",
+      "title": "grytor & kastruller"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/426/kantiner",
+      "title": "kantiner"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/645/kylplattor",
+      "title": "kylplattor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/513/koksknivar",
+      "title": "köksknivar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/427/restaurang-redskap",
+      "title": "köksredskap"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/592/skarbrador",
+      "title": "skärbrädor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/503/stekpannor",
+      "title": "stekpannor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/576/textilier",
+      "title": "textilier"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/855/varme",
+      "title": "värme"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/311/skrivbord",
+      "title": "skrivbord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/418/bordsskivor",
+      "title": "bordsskivor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/417/bordsstativ",
+      "title": "bordsstativ"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/317/hoj-och-sankbara-skrivbord",
+      "title": "höj- och sänkbara skrivbord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/391/hornskrivbord",
+      "title": "hörnskrivbord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/384/skrivbord-med-vev",
+      "title": "skrivbord med vev"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/833/fasta-skrivbord",
+      "title": "fasta skrivbord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/13/kontorsstolar",
+      "title": "kontorsstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/382/balans-sadelstolar",
+      "title": "balans- & sadelstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/834/ergonomisk-kontorsstol",
+      "title": "ergonomisk kontorsstol"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/309/industristolar",
+      "title": "industristolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/835/skrivbordsstolar",
+      "title": "skrivbordsstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/380/ljudabsorbenter",
+      "title": "ljudabsorbenter"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/387/bordsskarmar",
+      "title": "bordsskärmar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/388/golvskarmar-skarmvaggar",
+      "title": "golv- & skärmväggar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/781/vaggabsorbenter",
+      "title": "väggabsorbenter"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/796/takabsorbenter",
+      "title": "takabsorbenter"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/780/tillbehor",
+      "title": "tillbehör"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/399/tysta-rum",
+      "title": "tysta rum"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/401/receptionsdiskar",
+      "title": "receptionsdiskar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/406/skrivtavlor",
+      "title": "skrivtavlor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/411/glasskrivtavlor",
+      "title": "glasskrivtavlor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/412/mobila-skrivtavlor",
+      "title": "mobila skrivtavlor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/410/whiteboardtavlor",
+      "title": "whiteboardtavlor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/421/tillbehor",
+      "title": "tillbehör"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/430/kabelhantering",
+      "title": "kabelhantering"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/429/monitorarmar",
+      "title": "monitorarmar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/779/ergonomi",
+      "title": "ergonomi"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/432/elluttag-skrivbord",
+      "title": "elluttag skrivbord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/433/skrivbordsbelysning",
+      "title": "skrivbordsbelysning"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/428/stamattor",
+      "title": "ståmattor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/839/golvskydd",
+      "title": "golvskydd"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/319/kontorsforvaring",
+      "title": "kontorsförvaring"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/320/hurtsar",
+      "title": "hurtsar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/321/skap-med-dorr",
+      "title": "skåp med dörr"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/322/skap-med-skjutdorr",
+      "title": "skåp med skjutdörr"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/416/hyllor",
+      "title": "hyllor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/403/personalskap",
+      "title": "personalskåp"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/405/ritningsskap",
+      "title": "ritningsskåp"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/396/skrivbordscyklar",
+      "title": "skrivbordscyklar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/395/gaband-kontor",
+      "title": "gåband kontor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/216/konferensstolar",
+      "title": "konferensstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/224/stapelbara-stolar",
+      "title": "stapelbara stolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/223/fallbara-stolar",
+      "title": "fällbara stolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/840/motesstolar",
+      "title": "mötesstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/218/konferensbord",
+      "title": "konferensbord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/325/konferensbord-eluttag",
+      "title": "konferensbord eluttag"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/336/hoj-och-sankbara-konferensbord",
+      "title": "höj- och sänkbara konferensbord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/231/stolsoverdrag",
+      "title": "stolsöverdrag"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/230/vagnar-for-konferensmobler",
+      "title": "vagnar för konferensmöbler"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/339/bordsdukar",
+      "title": "bordsdukar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/280/stabordsoverdrag",
+      "title": "ståbordsöverdrag"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/232/kopplingsbeslag",
+      "title": "kopplingsbeslag"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/283/tillbehor",
+      "title": "tillbehör"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/884/belysning",
+      "title": "belysning"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/886/bordslampor",
+      "title": "bordslampor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/885/taklampor",
+      "title": "taklampor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/887/golvlampor",
+      "title": "golvlampor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/894/skrivbordslampor",
+      "title": "skrivbordslampor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/890/fonsterlampor",
+      "title": "fönsterlampor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/889/solcellsbelysning",
+      "title": "solcellsbelysning"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/888/vagglampor",
+      "title": "vägglampor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/892/utebelysning",
+      "title": "utebelysning"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/893/tradgardsbelysning",
+      "title": "trädgårdsbelysning"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/275/eventmobler",
+      "title": "eventmöbler"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/291/eventbord",
+      "title": "eventbord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/292/eventstolar",
+      "title": "eventstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/281/koavskiljare-kostolpar",
+      "title": "köavskiljare & köstolpar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/307/tillbehor",
+      "title": "tillbehör"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/314/paketpris",
+      "title": "paketpris"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/287/cafemobler",
+      "title": "cafemöbler"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/278/cafestolar",
+      "title": "cafestolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/288/cafebord",
+      "title": "cafebord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/304/cafesoffor",
+      "title": "cafesoffor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/295/loungemobler",
+      "title": "loungemöbler"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/296/loungefatoljer",
+      "title": "loungefåtöljer"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/297/loungesoffor",
+      "title": "loungesoffor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/305/loungebord",
+      "title": "loungebord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/294/barmobler",
+      "title": "barmöbler"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/315/hotellmobler",
+      "title": "hotellmöbler"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/324/hotellstolar",
+      "title": "hotellstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/328/lunchrumsmobler",
+      "title": "lunchrumsmöbler"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/330/lunchrumsbord",
+      "title": "lunchrumsbord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/329/lunchrumsstolar",
+      "title": "lunchrumsstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/293/skolmobler",
+      "title": "skolmöbler"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/404/elevskap",
+      "title": "elevskåp"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/299/skolstolar",
+      "title": "skolstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/290/utbildningsbord",
+      "title": "utbildningsbord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/792/krukor-och-konstvaxter",
+      "title": "krukor och konstväxter"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/316/vard-omsorg",
+      "title": "vård & omsorg"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/323/entremobler-vantrum",
+      "title": "entrémöbler & väntrum"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/327/besoksstolar",
+      "title": "besöksstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/349/soffor-for-vantrum",
+      "title": "soffor för väntrum"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/286/rottingmobler",
+      "title": "rottingmöbler"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/159/mattor",
+      "title": "mattor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/282/scen",
+      "title": "scen"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/381/mobelvard",
+      "title": "möbelvård"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/2.41.3668/stol-michael-trasits",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/trademarks/andtradition",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/trademarks/bravilor-bonamat",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/trademarks/herman-miller",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/trademarks/hay",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/trademarks/johanson-design",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/trademarks/bauscher",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/trademarks/artwood",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/trademarks/phonealone",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/2.216.18337/konferensstol-charley",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/2.937.30354/potatisskalare-bank-pp5-1-fas3-fas",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/trademarks/la-minerva",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/2.949.30846/blender-vitamix-ascent-a2300i",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/trademarks/vitamix-home",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/2.940.30383/iskubmaskin-sl90",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/trademarks/ntf",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/2.905.30111/snabbfilterbryggare-mondo-twin",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/2.904.33985/espressomaskin-botticelli-special",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/655/massiva-bordsskivor",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/332/bordsstativ-golvfasta",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/987/displayfrys",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/988/exponeringsfrys",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/989/frysbox",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/750/iris",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/745/lapya-wood",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/755/luca-ocean-blue",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/756/lunar-hygge",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/754/mosaik",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/752/nacrous",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/748/ore-tierra",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/709/rhea",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/749/sepia",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/729/space",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/774/tenango",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/734/terracota",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/695/zeus",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/697/quadro",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/699/pegasus",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/707/verona",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/700/victoria",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/705/voluto",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/701/delfi",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/706/classic",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/691/athos",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/712/provence",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/703/madrid",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/601/tefat",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/600/tekoppar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/667/tillbehor-te",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/744/mjolkkannor",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/972/bar-tumbler",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/969/drink-specific",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/967/performance",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/971/superleggero",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/964/veloce",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/965/winewings",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/685/bodega",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/680/brio",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/686/cascade",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/672/elegance",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/683/granity",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/678/inalto-tre-sensi",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/687/islande",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/684/stack-up",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/676/sublym",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/673/tulipe",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/688/viticolo",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/449/vattenglas",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/444/dricksglas",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/497/glasskalar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/498/servering-i-glas",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/448/shotglas-och-snaps",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/955/baguette",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/956/lena",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/717/major",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/718/paris",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/473/bakelsegafflar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/468/dessertknivar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/469/smorknivar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/662/bestickset",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/474/bestickkorgar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/563/akaciafat",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/491/dukar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/527/meny-och-kvittohallare",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/636/pumptermosar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/637/staltermosar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/580/tillbehor-termosar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/617/kittlar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/640/kittlar-halvhoga",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/627/kittlar-laga",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/898/grytor",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/477/bunkar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/481/spritspasar-och-tyllar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/483/cocktailtillbehor",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/488/matmatt",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/944/hamburgerpressar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/945/pizzaspadar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/525/dressingflaskor-i-plast",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/531/koksutrustning-i-plast",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/533/dricksglas-i-plast",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/532/formar-i-melamin",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/538/bakredskap",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/539/barredskap",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/540/grillredskap",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/541/hinkar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/559/kvarnar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/542/matmatt",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/543/pincetter",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/544/pizza",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/545/pressare-och-stotar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/546/rivjarn",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/547/silar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/549/skedar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/554/trattar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/556/vispar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/557/osor",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/633/skarbrador-i-plast",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/642/sauteuser",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/505/stekpannor-i-gjutjarn",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/644/traunderlagg-till-gjutjarn",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/511/traktorpannor",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/643/ugnsformar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/509/wokpannor",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/578/forkladen",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/579/handdukar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/653/linne",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/594/varmelampor",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/742/elektriska-skrivbord",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/777/sma-skrivbord",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/832/svangt-skrivbord",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/775/skrivbord-med-4-ben",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/318/skrivbord-med-t-stativ",
+      "title": "privatkund (inkl. moms)"
+    }
+  ],
+  "aliveTop": [
+    {
+      "href": "https://azdesign.se/sv/articles/108/restaurangmobler",
+      "title": "restaurangmöbler"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/21/utemobler",
+      "title": "utemöbler"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/954/restaurangmaskiner",
+      "title": "restaurangmaskiner"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/422/kok-matsal",
+      "title": "kök & matsal"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/289/kontorsmobler",
+      "title": "kontorsmöbler"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/213/konferensmobler",
+      "title": "konferensmöbler"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/276/ovrigt",
+      "title": "övrigt"
+    },
+    {
+      "href": "https://azdesign.se/sv/trademarks",
+      "title": "varumärken"
+    },
+    {
+      "href": "https://azdesign.se/sv/projekt-offert",
+      "title": "projekt & offert"
+    },
+    {
+      "href": "https://azdesign.se/sv/inredningshjalp",
+      "title": "inredningshjälp"
+    },
+    {
+      "href": "https://azdesign.se/sv/monteringshjalp",
+      "title": "monteringshjälp"
+    },
+    {
+      "href": "https://azdesign.se/sv/storkok",
+      "title": "storkök"
+    },
+    {
+      "href": "https://azdesign.se/sv/specialtillverkade-soffor",
+      "title": "specialtillverkade soffor"
+    },
+    {
+      "href": "https://azdesign.se/sv/leasing",
+      "title": "företagsleasing"
+    },
+    {
+      "href": "https://azdesign.se/sv/showroom",
+      "title": "besök vårt showroom"
+    },
+    {
+      "href": "https://azdesign.se/sv/kontakta-oss",
+      "title": "kontakta oss"
+    },
+    {
+      "href": "https://azdesign.se/sv/vanliga-fragor",
+      "title": "vanliga frågor"
+    },
+    {
+      "href": "https://azdesign.se/sv/om-az-design",
+      "title": "om az design"
+    },
+    {
+      "href": "https://azdesign.se/sv/integritetspolicy",
+      "title": "integritetspolicy"
+    },
+    {
+      "href": "https://azdesign.se/sv/kopvillkor",
+      "title": "köpvillkor"
+    },
+    {
+      "href": "https://azdesign.se/sv/aterbruk",
+      "title": "återbruk"
+    },
+    {
+      "href": "https://azdesign.se/sv/prisgaranti",
+      "title": "vi matchar priset"
+    },
+    {
+      "href": "https://azdesign.se/sv/recensioner",
+      "title": "våra recensioner 4.7/5 (2141 st)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/1/stolar",
+      "title": "stolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/42/kladda-stolar",
+      "title": "klädda stolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/628/stapelbara-stolar",
+      "title": "stapelbara stolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/40/karmstolar",
+      "title": "karmstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/54/metallstolar",
+      "title": "metallstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/39/plaststolar",
+      "title": "plaststolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/41/trastolar",
+      "title": "trästolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/270/bankettstolar-feststolar",
+      "title": "bankettstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/225/rottingstolar",
+      "title": "rottingstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/301/klappstolar-klaffstolar",
+      "title": "klappstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/11/soffor",
+      "title": "soffor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/79/restaurangsoffor",
+      "title": "restaurangsoffor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/86/hornsoffor",
+      "title": "hörnsoffor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/152/modulsoffor",
+      "title": "modulsoffor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/85/barsoffor",
+      "title": "barsoffor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/150/2-4-sits-soffor",
+      "title": "2 - 4 sits soffor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/31/bord",
+      "title": "bord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/9/bordsskivor",
+      "title": "bordsskivor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/8/bordsstativ",
+      "title": "bordsstativ"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/226/restaurangbord",
+      "title": "restaurangbord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/104/kompletta-bord",
+      "title": "kompletta bord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/298/plastbord",
+      "title": "plastbord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/217/barbord-stabord",
+      "title": "barbord & ståbord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/219/fallbara-bord",
+      "title": "fällbara bord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/2/barstolar",
+      "title": "barstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/59/tygkladda-barstolar",
+      "title": "tygklädda barstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/57/barstolar-i-plast",
+      "title": "barstolar i plast"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/100/barstolar-i-tra",
+      "title": "barstolar i trä"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/26/sittpuffar",
+      "title": "sittpuffar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/4/fatoljer",
+      "title": "fåtöljer"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/96/kladda-fatoljer",
+      "title": "klädda fåtöljer"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/95/fatoljer-i-plast",
+      "title": "fåtöljer i plast"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/15/pallar",
+      "title": "pallar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/14/barpallar",
+      "title": "barpallar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/103/kladda-pallar",
+      "title": "klädda pallar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/88/laga-pallar",
+      "title": "låga pallar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/101/plastpallar",
+      "title": "plastpallar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/125/trapallar",
+      "title": "träpallar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/300/sittbankar",
+      "title": "sittbänkar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/306/kladhangare",
+      "title": "klädhängare"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/285/personbarriar",
+      "title": "personbarriär"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/43/utomhusstolar",
+      "title": "utomhusstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/90/barstolar",
+      "title": "barstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/279/bankar",
+      "title": "bänkar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/89/fatoljer",
+      "title": "fåtöljer"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/922/hammock",
+      "title": "hammock"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/166/pallar",
+      "title": "pallar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/44/soffor",
+      "title": "soffor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/206/solsangar",
+      "title": "solsängar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/864/utestolar",
+      "title": "utestolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/167/utomhusbord",
+      "title": "utomhusbord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/341/bordsskivor",
+      "title": "bordsskivor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/168/bordsstativ",
+      "title": "bordsstativ"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/869/kompletta-utebord",
+      "title": "kompletta utebord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/303/parasoll",
+      "title": "parasoll"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/342/infravarmare",
+      "title": "infravärmare"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/918/blomlador",
+      "title": "blomlådor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/921/pladar",
+      "title": "plädar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/308/avsparrning",
+      "title": "avspärrning"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/935/blandningsmaskiner",
+      "title": "blandningsmaskiner"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/976/kyl-frys",
+      "title": "kyl & frys"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/985/frysar",
+      "title": "frysar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/938/ismaskin",
+      "title": "ismaskin"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/986/kylskap-och-kylare",
+      "title": "kylskåp och kylare"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/992/specialkylare",
+      "title": "specialkylare"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/953/vinkylar",
+      "title": "vinkylar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/1157/sous-vide",
+      "title": "sous vide"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/931/ugnar",
+      "title": "ugnar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/951/kombiugnar",
+      "title": "kombiugnar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/952/bageriugn",
+      "title": "bageriugn"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/946/pizzaugnar",
+      "title": "pizzaugnar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/932/snabbugnar",
+      "title": "snabbugnar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/606/fritoser",
+      "title": "fritöser"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/610/riskokare",
+      "title": "riskokare"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/933/skarmaskiner",
+      "title": "skärmaskiner"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/607/kaffemaskiner",
+      "title": "kaffemaskiner"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/904/espressomaskiner",
+      "title": "espressomaskiner"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/905/kaffebryggare",
+      "title": "kaffebryggare"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/925/urnbryggare",
+      "title": "urnbryggare"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/926/termosbryggare",
+      "title": "termosbryggare"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/906/kaffekvarn",
+      "title": "kaffekvarn"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/907/mjolkskummare",
+      "title": "mjölkskummare"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/941/glassmaskiner",
+      "title": "glassmaskiner"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/943/kottkvarn",
+      "title": "köttkvarn"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/608/klamgrillar",
+      "title": "klämgrillar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/609/kokplattor-och-induktion",
+      "title": "kokplattor & induktion"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/899/brodrostar",
+      "title": "brödrostar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/947/kolsyremaskin",
+      "title": "kolsyremaskin"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/902/koksassistenter",
+      "title": "köksassistenter"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/583/koksmaskiner",
+      "title": "köksmaskiner"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/937/potatisskalare",
+      "title": "potatisskalare"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/611/soppkittlar",
+      "title": "soppkittlar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/903/stavmixer",
+      "title": "stavmixer"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/936/vakuummaskiner",
+      "title": "vakuummaskiner"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/613/varmhallning",
+      "title": "varmhållning"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/586/vattenbad",
+      "title": "vattenbad"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/901/elvispar",
+      "title": "elvispar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/900/vattenkokare",
+      "title": "vattenkokare"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/605/blender",
+      "title": "blender"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/949/hushallsblender",
+      "title": "hushållsblender"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/948/professionell-blender",
+      "title": "professionell blender"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/909/citruspress",
+      "title": "citruspress"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/425/restaurangporslin",
+      "title": "porslin & uppläggning"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/668/porslinsserie",
+      "title": "porslinsserie"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/452/flata-tallrikar",
+      "title": "flata tallrikar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/453/djupa-tallrikar",
+      "title": "djupa tallrikar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/916/pizzatallrikar",
+      "title": "pizzatallrikar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/454/pastatallrikar",
+      "title": "pastatallrikar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/461/serveringsfat",
+      "title": "serveringsfat"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/462/skalar",
+      "title": "skålar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/456/koppar-och-fat",
+      "title": "koppar & fat"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/459/graddkannor",
+      "title": "gräddkannor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/460/ramekin",
+      "title": "ramekin"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/457/dressingkrus",
+      "title": "dressingkrus"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/650/tillbehor-benporslin",
+      "title": "tillbehör benporslin"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/651/tillbehor-faltspatsporslin",
+      "title": "tillbehör fältspatsporslin"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/562/servering",
+      "title": "servering"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/424/restaurangglas",
+      "title": "glas"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/423/restaurangbestick",
+      "title": "bestick"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/569/serveringsfat",
+      "title": "serveringsfat"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/564/kaffekannor-och-pressar",
+      "title": "kaffekannor & pressar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/929/brodkorgar",
+      "title": "brödkorgar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/490/dukning",
+      "title": "dukning"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/565/kak-och-upplaggningsfat",
+      "title": "kak- & uppläggningsfat"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/661/serveringsvagnar",
+      "title": "serveringsvagnar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/566/karotter",
+      "title": "karotter"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/567/minikorgar",
+      "title": "minikorgar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/568/planksteksbrador-och-underlagg",
+      "title": "planksteksbrädor & underlägg"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/573/serveringsbrickor",
+      "title": "serveringsbrickor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/654/serveringskorgar",
+      "title": "serveringskorgar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/656/serveringsskalar",
+      "title": "serveringsskålar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/574/skarbrador",
+      "title": "skärbrädor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/572/sasskalar-och-sassnipor",
+      "title": "såsskålar & såssnipor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/657/tillbringare",
+      "title": "tillbringare"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/521/korgar",
+      "title": "korgar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/575/termosar",
+      "title": "termosar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/658/ovrigt-servering",
+      "title": "övrigt servering"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/593/koksutrustning",
+      "title": "köksutrustning"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/602/grytor-kastruller",
+      "title": "grytor & kastruller"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/426/kantiner",
+      "title": "kantiner"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/645/kylplattor",
+      "title": "kylplattor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/513/koksknivar",
+      "title": "köksknivar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/427/restaurang-redskap",
+      "title": "köksredskap"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/592/skarbrador",
+      "title": "skärbrädor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/503/stekpannor",
+      "title": "stekpannor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/576/textilier",
+      "title": "textilier"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/855/varme",
+      "title": "värme"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/311/skrivbord",
+      "title": "skrivbord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/418/bordsskivor",
+      "title": "bordsskivor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/417/bordsstativ",
+      "title": "bordsstativ"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/317/hoj-och-sankbara-skrivbord",
+      "title": "höj- och sänkbara skrivbord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/391/hornskrivbord",
+      "title": "hörnskrivbord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/384/skrivbord-med-vev",
+      "title": "skrivbord med vev"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/833/fasta-skrivbord",
+      "title": "fasta skrivbord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/13/kontorsstolar",
+      "title": "kontorsstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/382/balans-sadelstolar",
+      "title": "balans- & sadelstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/834/ergonomisk-kontorsstol",
+      "title": "ergonomisk kontorsstol"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/309/industristolar",
+      "title": "industristolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/835/skrivbordsstolar",
+      "title": "skrivbordsstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/380/ljudabsorbenter",
+      "title": "ljudabsorbenter"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/387/bordsskarmar",
+      "title": "bordsskärmar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/388/golvskarmar-skarmvaggar",
+      "title": "golv- & skärmväggar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/781/vaggabsorbenter",
+      "title": "väggabsorbenter"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/796/takabsorbenter",
+      "title": "takabsorbenter"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/780/tillbehor",
+      "title": "tillbehör"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/399/tysta-rum",
+      "title": "tysta rum"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/401/receptionsdiskar",
+      "title": "receptionsdiskar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/406/skrivtavlor",
+      "title": "skrivtavlor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/411/glasskrivtavlor",
+      "title": "glasskrivtavlor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/412/mobila-skrivtavlor",
+      "title": "mobila skrivtavlor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/410/whiteboardtavlor",
+      "title": "whiteboardtavlor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/421/tillbehor",
+      "title": "tillbehör"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/430/kabelhantering",
+      "title": "kabelhantering"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/429/monitorarmar",
+      "title": "monitorarmar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/779/ergonomi",
+      "title": "ergonomi"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/432/elluttag-skrivbord",
+      "title": "elluttag skrivbord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/433/skrivbordsbelysning",
+      "title": "skrivbordsbelysning"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/428/stamattor",
+      "title": "ståmattor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/839/golvskydd",
+      "title": "golvskydd"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/319/kontorsforvaring",
+      "title": "kontorsförvaring"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/320/hurtsar",
+      "title": "hurtsar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/321/skap-med-dorr",
+      "title": "skåp med dörr"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/322/skap-med-skjutdorr",
+      "title": "skåp med skjutdörr"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/416/hyllor",
+      "title": "hyllor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/403/personalskap",
+      "title": "personalskåp"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/405/ritningsskap",
+      "title": "ritningsskåp"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/396/skrivbordscyklar",
+      "title": "skrivbordscyklar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/395/gaband-kontor",
+      "title": "gåband kontor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/216/konferensstolar",
+      "title": "konferensstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/224/stapelbara-stolar",
+      "title": "stapelbara stolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/223/fallbara-stolar",
+      "title": "fällbara stolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/840/motesstolar",
+      "title": "mötesstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/218/konferensbord",
+      "title": "konferensbord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/325/konferensbord-eluttag",
+      "title": "konferensbord eluttag"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/336/hoj-och-sankbara-konferensbord",
+      "title": "höj- och sänkbara konferensbord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/231/stolsoverdrag",
+      "title": "stolsöverdrag"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/230/vagnar-for-konferensmobler",
+      "title": "vagnar för konferensmöbler"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/339/bordsdukar",
+      "title": "bordsdukar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/280/stabordsoverdrag",
+      "title": "ståbordsöverdrag"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/232/kopplingsbeslag",
+      "title": "kopplingsbeslag"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/283/tillbehor",
+      "title": "tillbehör"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/884/belysning",
+      "title": "belysning"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/886/bordslampor",
+      "title": "bordslampor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/885/taklampor",
+      "title": "taklampor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/887/golvlampor",
+      "title": "golvlampor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/894/skrivbordslampor",
+      "title": "skrivbordslampor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/890/fonsterlampor",
+      "title": "fönsterlampor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/889/solcellsbelysning",
+      "title": "solcellsbelysning"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/888/vagglampor",
+      "title": "vägglampor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/892/utebelysning",
+      "title": "utebelysning"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/893/tradgardsbelysning",
+      "title": "trädgårdsbelysning"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/275/eventmobler",
+      "title": "eventmöbler"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/291/eventbord",
+      "title": "eventbord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/292/eventstolar",
+      "title": "eventstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/281/koavskiljare-kostolpar",
+      "title": "köavskiljare & köstolpar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/307/tillbehor",
+      "title": "tillbehör"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/314/paketpris",
+      "title": "paketpris"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/287/cafemobler",
+      "title": "cafemöbler"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/278/cafestolar",
+      "title": "cafestolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/288/cafebord",
+      "title": "cafebord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/304/cafesoffor",
+      "title": "cafesoffor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/295/loungemobler",
+      "title": "loungemöbler"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/296/loungefatoljer",
+      "title": "loungefåtöljer"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/297/loungesoffor",
+      "title": "loungesoffor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/305/loungebord",
+      "title": "loungebord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/294/barmobler",
+      "title": "barmöbler"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/315/hotellmobler",
+      "title": "hotellmöbler"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/324/hotellstolar",
+      "title": "hotellstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/328/lunchrumsmobler",
+      "title": "lunchrumsmöbler"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/330/lunchrumsbord",
+      "title": "lunchrumsbord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/329/lunchrumsstolar",
+      "title": "lunchrumsstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/293/skolmobler",
+      "title": "skolmöbler"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/404/elevskap",
+      "title": "elevskåp"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/299/skolstolar",
+      "title": "skolstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/290/utbildningsbord",
+      "title": "utbildningsbord"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/792/krukor-och-konstvaxter",
+      "title": "krukor och konstväxter"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/316/vard-omsorg",
+      "title": "vård & omsorg"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/323/entremobler-vantrum",
+      "title": "entrémöbler & väntrum"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/327/besoksstolar",
+      "title": "besöksstolar"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/349/soffor-for-vantrum",
+      "title": "soffor för väntrum"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/286/rottingmobler",
+      "title": "rottingmöbler"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/159/mattor",
+      "title": "mattor"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/282/scen",
+      "title": "scen"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/381/mobelvard",
+      "title": "möbelvård"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/2.41.3668/stol-michael-trasits",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/trademarks/andtradition",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/trademarks/bravilor-bonamat",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/trademarks/herman-miller",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/trademarks/hay",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/trademarks/johanson-design",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/trademarks/bauscher",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/trademarks/artwood",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/trademarks/phonealone",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/2.216.18337/konferensstol-charley",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/2.937.30354/potatisskalare-bank-pp5-1-fas3-fas",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/trademarks/la-minerva",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/2.949.30846/blender-vitamix-ascent-a2300i",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/trademarks/vitamix-home",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/2.940.30383/iskubmaskin-sl90",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/trademarks/ntf",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/2.905.30111/snabbfilterbryggare-mondo-twin",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/2.904.33985/espressomaskin-botticelli-special",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/655/massiva-bordsskivor",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/332/bordsstativ-golvfasta",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/987/displayfrys",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/988/exponeringsfrys",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/989/frysbox",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/750/iris",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/745/lapya-wood",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/755/luca-ocean-blue",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/756/lunar-hygge",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/754/mosaik",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/752/nacrous",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/748/ore-tierra",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/709/rhea",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/749/sepia",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/729/space",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/774/tenango",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/734/terracota",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/695/zeus",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/697/quadro",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/699/pegasus",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/707/verona",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/700/victoria",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/705/voluto",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/701/delfi",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/706/classic",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/691/athos",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/712/provence",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/703/madrid",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/601/tefat",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/600/tekoppar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/667/tillbehor-te",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/744/mjolkkannor",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/972/bar-tumbler",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/969/drink-specific",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/967/performance",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/971/superleggero",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/964/veloce",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/965/winewings",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/685/bodega",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/680/brio",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/686/cascade",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/672/elegance",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/683/granity",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/678/inalto-tre-sensi",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/687/islande",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/684/stack-up",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/676/sublym",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/673/tulipe",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/688/viticolo",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/449/vattenglas",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/444/dricksglas",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/497/glasskalar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/498/servering-i-glas",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/448/shotglas-och-snaps",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/955/baguette",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/956/lena",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/717/major",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/718/paris",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/473/bakelsegafflar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/468/dessertknivar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/469/smorknivar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/662/bestickset",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/474/bestickkorgar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/563/akaciafat",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/491/dukar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/527/meny-och-kvittohallare",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/636/pumptermosar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/637/staltermosar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/580/tillbehor-termosar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/617/kittlar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/640/kittlar-halvhoga",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/627/kittlar-laga",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/898/grytor",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/477/bunkar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/481/spritspasar-och-tyllar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/483/cocktailtillbehor",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/488/matmatt",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/944/hamburgerpressar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/945/pizzaspadar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/525/dressingflaskor-i-plast",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/531/koksutrustning-i-plast",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/533/dricksglas-i-plast",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/532/formar-i-melamin",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/538/bakredskap",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/539/barredskap",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/540/grillredskap",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/541/hinkar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/559/kvarnar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/542/matmatt",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/543/pincetter",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/544/pizza",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/545/pressare-och-stotar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/546/rivjarn",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/547/silar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/549/skedar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/554/trattar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/556/vispar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/557/osor",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/633/skarbrador-i-plast",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/642/sauteuser",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/505/stekpannor-i-gjutjarn",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/644/traunderlagg-till-gjutjarn",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/511/traktorpannor",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/643/ugnsformar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/509/wokpannor",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/578/forkladen",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/579/handdukar",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/653/linne",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/594/varmelampor",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/742/elektriska-skrivbord",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/777/sma-skrivbord",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/832/svangt-skrivbord",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/775/skrivbord-med-4-ben",
+      "title": "privatkund (inkl. moms)"
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/318/skrivbord-med-t-stativ",
+      "title": "privatkund (inkl. moms)"
+    }
+  ],
+  "cosineResults": [
+    {
+      "title": "om az design",
+      "href": "https://azdesign.se/sv/om-az-design",
+      "distance": 0.5085580218960064
+    },
+    {
+      "title": "projekt & offert",
+      "href": "https://azdesign.se/sv/projekt-offert",
+      "distance": 0.36677662272438516
+    },
+    {
+      "title": "ergonomi",
+      "href": "https://azdesign.se/sv/articles/779/ergonomi",
+      "distance": 0.3619712732253507
+    },
+    {
+      "title": "scen",
+      "href": "https://azdesign.se/sv/articles/282/scen",
+      "distance": 0.33260880295263295
+    },
+    {
+      "title": "glas",
+      "href": "https://azdesign.se/sv/articles/424/restaurangglas",
+      "distance": 0.32424406458852806
+    },
+    {
+      "title": "eventbord",
+      "href": "https://azdesign.se/sv/articles/291/eventbord",
+      "distance": 0.3221177256576397
+    },
+    {
+      "title": "blender",
+      "href": "https://azdesign.se/sv/articles/605/blender",
+      "distance": 0.3140947310509895
+    },
+    {
+      "title": "textilier",
+      "href": "https://azdesign.se/sv/articles/576/textilier",
+      "distance": 0.30004516826733935
+    },
+    {
+      "title": "cafebord",
+      "href": "https://azdesign.se/sv/articles/288/cafebord",
+      "distance": 0.29403278034716107
+    },
+    {
+      "title": "bord",
+      "href": "https://azdesign.se/sv/articles/31/bord",
+      "distance": 0.29288434113801837
+    },
+    {
+      "title": "eventmöbler",
+      "href": "https://azdesign.se/sv/articles/275/eventmobler",
+      "distance": 0.2874056764340104
+    },
+    {
+      "title": "belysning",
+      "href": "https://azdesign.se/sv/articles/884/belysning",
+      "distance": 0.28593229397314446
+    },
+    {
+      "title": "ritningsskåp",
+      "href": "https://azdesign.se/sv/articles/405/ritningsskap",
+      "distance": 0.28182978402090636
+    },
+    {
+      "title": "porslin & uppläggning",
+      "href": "https://azdesign.se/sv/articles/425/restaurangporslin",
+      "distance": 0.28069277903346135
+    },
+    {
+      "title": "inredningshjälp",
+      "href": "https://azdesign.se/sv/inredningshjalp",
+      "distance": 0.2788980939891987
+    }
+  ],
+  "parents": [
+    {
+      "href": "https://azdesign.se/sv/om-az-design",
+      "title": "om az design",
+      "distance": 0.5085580218960064
+    },
+    {
+      "href": "https://azdesign.se/sv/projekt-offert",
+      "title": "projekt & offert",
+      "distance": 0.36677662272438516
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/779/ergonomi",
+      "title": "ergonomi",
+      "distance": 0.3619712732253507
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/282/scen",
+      "title": "scen",
+      "distance": 0.33260880295263295
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/424/restaurangglas",
+      "title": "glas",
+      "distance": 0.32424406458852806
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/291/eventbord",
+      "title": "eventbord",
+      "distance": 0.3221177256576397
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/605/blender",
+      "title": "blender",
+      "distance": 0.3140947310509895
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/576/textilier",
+      "title": "textilier",
+      "distance": 0.30004516826733935
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/288/cafebord",
+      "title": "cafebord",
+      "distance": 0.29403278034716107
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/31/bord",
+      "title": "bord",
+      "distance": 0.29288434113801837
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/275/eventmobler",
+      "title": "eventmöbler",
+      "distance": 0.2874056764340104
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/884/belysning",
+      "title": "belysning",
+      "distance": 0.28593229397314446
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/405/ritningsskap",
+      "title": "ritningsskåp",
+      "distance": 0.28182978402090636
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/425/restaurangporslin",
+      "title": "porslin & uppläggning",
+      "distance": 0.28069277903346135
+    },
+    {
+      "href": "https://azdesign.se/sv/inredningshjalp",
+      "title": "inredningshjälp",
+      "distance": 0.2788980939891987
+    }
+  ],
+  "uniqAcc": [
+    {
+      "href": "https://azdesign.se/sv/om-az-design",
+      "title": "om az design",
+      "distance": 0.5085580218960064
+    },
+    {
+      "href": "https://azdesign.se/sv/projekt-offert",
+      "title": "projekt & offert",
+      "distance": 0.36677662272438516
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/779/ergonomi",
+      "title": "ergonomi",
+      "distance": 0.3619712732253507
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/282/scen",
+      "title": "scen",
+      "distance": 0.33260880295263295
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/424/restaurangglas",
+      "title": "glas",
+      "distance": 0.32424406458852806
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/291/eventbord",
+      "title": "eventbord",
+      "distance": 0.3221177256576397
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/605/blender",
+      "title": "blender",
+      "distance": 0.3140947310509895
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/576/textilier",
+      "title": "textilier",
+      "distance": 0.30004516826733935
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/288/cafebord",
+      "title": "cafebord",
+      "distance": 0.29403278034716107
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/31/bord",
+      "title": "bord",
+      "distance": 0.29288434113801837
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/275/eventmobler",
+      "title": "eventmöbler",
+      "distance": 0.2874056764340104
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/884/belysning",
+      "title": "belysning",
+      "distance": 0.28593229397314446
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/405/ritningsskap",
+      "title": "ritningsskåp",
+      "distance": 0.28182978402090636
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/425/restaurangporslin",
+      "title": "porslin & uppläggning",
+      "distance": 0.28069277903346135
+    },
+    {
+      "href": "https://azdesign.se/sv/inredningshjalp",
+      "title": "inredningshjälp",
+      "distance": 0.2788980939891987
+    }
+  ],
+  "linksData": [
+    {
+      "href": "https://azdesign.se/sv/om-az-design",
+      "title": "om az design",
+      "distance": 0.5085580218960064
+    },
+    {
+      "href": "https://azdesign.se/sv/projekt-offert",
+      "title": "projekt & offert",
+      "distance": 0.36677662272438516
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/779/ergonomi",
+      "title": "ergonomi",
+      "distance": 0.3619712732253507
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/282/scen",
+      "title": "scen",
+      "distance": 0.33260880295263295
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/424/restaurangglas",
+      "title": "glas",
+      "distance": 0.32424406458852806
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/291/eventbord",
+      "title": "eventbord",
+      "distance": 0.3221177256576397
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/605/blender",
+      "title": "blender",
+      "distance": 0.3140947310509895
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/576/textilier",
+      "title": "textilier",
+      "distance": 0.30004516826733935
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/288/cafebord",
+      "title": "cafebord",
+      "distance": 0.29403278034716107
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/31/bord",
+      "title": "bord",
+      "distance": 0.29288434113801837
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/275/eventmobler",
+      "title": "eventmöbler",
+      "distance": 0.2874056764340104
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/884/belysning",
+      "title": "belysning",
+      "distance": 0.28593229397314446
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/405/ritningsskap",
+      "title": "ritningsskåp",
+      "distance": 0.28182978402090636
+    },
+    {
+      "href": "https://azdesign.se/sv/articles/425/restaurangporslin",
+      "title": "porslin & uppläggning",
+      "distance": 0.28069277903346135
+    },
+    {
+      "href": "https://azdesign.se/sv/inredningshjalp",
+      "title": "inredningshjälp",
+      "distance": 0.2788980939891987
+    }
+  ]
+}

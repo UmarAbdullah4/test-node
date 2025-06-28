@@ -1,0 +1,845 @@
+{
+  "root": "https://ikea.com/us/en/",
+  "length": {
+    "links": 88,
+    "aliveTop": 45,
+    "cosineResults": 15,
+    "parents": 15,
+    "uniqAcc": 14,
+    "linksData": 14
+  },
+  "links": [
+    {
+      "href": "https://ikea.com/us/en/profile/login",
+      "title": "hej!"
+    },
+    {
+      "href": "https://ikea.com/us/en/favorites",
+      "title": "favorites"
+    },
+    {
+      "href": "https://ikea.com/us/en/shoppingcart",
+      "title": "shopping bag"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/storage-organization-st001",
+      "title": "storage & organization"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/sofas-armchairs-700640",
+      "title": "sofas & armchairs"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/outdoor-od001",
+      "title": "outdoor"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/beds-mattresses-bm001",
+      "title": "beds & mattresses"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/lighting-li001",
+      "title": "lighting"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/home-textiles-tl001",
+      "title": "home textiles"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/kitchen-appliances-ka001",
+      "title": "kitchen, appliances & supplies"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/tables-desks-fu004",
+      "title": "desk & desk chairs"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/tables-chairs-fu002",
+      "title": "tables & chairs"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/home-decor-de001",
+      "title": "home decor & accessories"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/cookware-tableware-kt001",
+      "title": "kitchenware & tableware"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/baby-kids-bc001",
+      "title": "baby & kids"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/bathroom-ba001",
+      "title": "bathroom: furniture, supplies & more"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/flooring-rm001",
+      "title": "flooring, rugs & mats"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/storage-containers-st007",
+      "title": "storage containers, organizers & baskets"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/plants-planters-pp001",
+      "title": "plants & planters"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/laundry-cleaning-lc001",
+      "title": "laundry & cleaning"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/home-electronics-he001",
+      "title": "home electronics"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/pet-accessories-pt001",
+      "title": "pet accessories"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/home-improvement-hi001",
+      "title": "home improvement"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/smart-home-hs001",
+      "title": "smart home"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/ikea-food-restaurant-fb001",
+      "title": "ikea food & swedish restaurant"
+    },
+    {
+      "href": "https://ikea.com/us/en/offers",
+      "title": "see all in deals"
+    },
+    {
+      "href": "https://ikea.com/us/en/new",
+      "title": "new & trending"
+    },
+    {
+      "href": "https://ikea.com/us/en/rooms/bedroom",
+      "title": "bedroom"
+    },
+    {
+      "href": "https://ikea.com/us/en/rooms/living-room",
+      "title": "living room"
+    },
+    {
+      "href": "https://ikea.com/us/en/rooms/kitchen",
+      "title": "kitchen & appliances"
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/starting-college",
+      "title": "see all in college essentials"
+    },
+    {
+      "href": "https://ikea.com/us/en/rooms/outdoor",
+      "title": "outdoor"
+    },
+    {
+      "href": "https://ikea.com/us/en/rooms/home-office",
+      "title": "home office"
+    },
+    {
+      "href": "https://ikea.com/us/en/rooms/dining",
+      "title": "dining"
+    },
+    {
+      "href": "https://ikea.com/us/en/rooms/childrens-room",
+      "title": "kids room"
+    },
+    {
+      "href": "https://ikea.com/us/en/rooms/bathroom",
+      "title": "bathroom"
+    },
+    {
+      "href": "https://ikea.com/us/en/rooms/laundry",
+      "title": "laundry"
+    },
+    {
+      "href": "https://ikea.com/us/en/rooms/gaming-room",
+      "title": "gaming room"
+    },
+    {
+      "href": "https://ikea.com/us/en/rooms/hallway",
+      "title": "hallway"
+    },
+    {
+      "href": "https://ikea.com/us/en/rooms/garage",
+      "title": "garage"
+    },
+    {
+      "href": "https://ikea.com/us/en/ikea-business",
+      "title": "shop by industry"
+    },
+    {
+      "href": "https://ikea.com/us/en/rooms",
+      "title": "all rooms"
+    },
+    {
+      "href": "https://ikea.com/us/en/offers/limited-time-offers",
+      "title": "save up to 50% at the ikea summer sale*"
+    },
+    {
+      "href": "https://ikea.com/us/en/offers/family-offers",
+      "title": "ikea family offers"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/lowest-price",
+      "title": "our lowest prices"
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/appliance-deals-and-offers-pub075ee210",
+      "title": "appliances deals & offers"
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/affordable-home-essentials-pubfbd3fdc0",
+      "title": "home essentials under $10"
+    },
+    {
+      "href": "https://ikea.com/us/en/circular/second-hand",
+      "title": "as-is online"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/lower-price",
+      "title": "new lower price"
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/starting-college/college-student-discount-pub60c5c8a0",
+      "title": "verified students get 15% off"
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/starting-college/college-dorm-furniture-pub95615ee0",
+      "title": "college dorm furniture"
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/starting-college/college-storage-organization-pubddad5dc0",
+      "title": "college storage & dorm room organization"
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/starting-college/college-dorm-bedding-pub39ec1700",
+      "title": "dorm bedding & pillows"
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/starting-college/college-kitchen-essentials-pub893c4d50",
+      "title": "dorm & college kitchen essentials"
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/starting-college/college-laundry-bathroom-essentials-pub02794a10",
+      "title": "dorm laundry & bathroom essentials"
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/shop-marketplace-pub0a505b20",
+      "title": "see all in home accessories"
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/shop-marketplace-categories-pubff037650",
+      "title": "shop by category"
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/shop-marketplace-colors-pub8a0f7c40",
+      "title": "shop by color"
+    },
+    {
+      "href": "https://ikea.com/us/en/ideas/styles",
+      "title": "shop interior design styles"
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/shop-marketplace-featured-pub2f4f97ef",
+      "title": "featured shops"
+    },
+    {
+      "href": "https://ikea.com/us/en/ideas",
+      "title": "ideas hub"
+    },
+    {
+      "href": "https://ikea.com/us/en/ideas/gift-ideas",
+      "title": "gift ideas"
+    },
+    {
+      "href": "https://ikea.com/us/en/live-shopping",
+      "title": "ikea live shopping"
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/summer-home-ideas-pubde314250",
+      "title": "explore the summer shop"
+    },
+    {
+      "href": "https://ikea.com/us/en/ideas/everyday-rituals",
+      "title": "everyday rituals"
+    },
+    {
+      "href": "https://ikea.com/us/en/ideas/storage-story",
+      "title": "store who you are"
+    },
+    {
+      "href": "https://ikea.com/us/en/planners",
+      "title": "planning tools"
+    },
+    {
+      "href": "https://ikea.com/us/en/home-design",
+      "title": "ikea kreativ home design"
+    },
+    {
+      "href": "https://ikea.com/us/en/customer-service/services/online-and-in-store-planning-services-pub709b4660",
+      "title": "online and in-store planning services"
+    },
+    {
+      "href": "https://ikea.com/us/en/customer-service/services/interior-design-services-for-every-budget-pub21dbc3d0",
+      "title": "interior design service"
+    },
+    {
+      "href": "https://ikea.com/us/en/ikea-business/network",
+      "title": "ikea business network"
+    },
+    {
+      "href": "https://ikea.com/us/en/appointment/business",
+      "title": "book planning appointment"
+    },
+    {
+      "href": "https://ikea.com/us/en/ikea-business/gallery",
+      "title": "inspiration"
+    },
+    {
+      "href": "https://ikea.com/us/en/ikea-business/payment-options-pub99b5be00",
+      "title": "ways to pay"
+    },
+    {
+      "href": "https://ikea.com/us/en/customer-service/support/a/4dktDGpox9f7QTexV96UDQ",
+      "title": "contact us"
+    },
+    {
+      "href": "https://ikea.com/us/en/business-profile/register-network",
+      "title": "join the ikea business network for free!"
+    },
+    {
+      "href": "https://ikea.com/us/en/customer-service/services",
+      "title": "see all in services & support"
+    },
+    {
+      "href": "https://ikea.com/us/en/customer-service/services/delivery",
+      "title": "shipping & delivery"
+    },
+    {
+      "href": "https://ikea.com/us/en/customer-service/services/pickup-locations-pub71efcf80",
+      "title": "pickup locations"
+    },
+    {
+      "href": "https://ikea.com/us/en/customer-service/services/assembly",
+      "title": "assembly by taskrabbit"
+    },
+    {
+      "href": "https://ikea.com/us/en/gift-registry",
+      "title": "gift registry"
+    },
+    {
+      "href": "https://ikea.com/us/en/customer-service/services/kitchen-services-pub8f131f81",
+      "title": "kitchen services"
+    },
+    {
+      "href": "https://ikea.com/us/en/circular/buy-back",
+      "title": "buy back & resell"
+    },
+    {
+      "href": "https://ikea.com/us/en/customer-service/services/finance-options/ikea-credit-cards-pub9b4272b0",
+      "title": "ikea credit cards"
+    },
+    {
+      "href": "https://ikea.com/us/en/customer-service",
+      "title": "customer service"
+    },
+    {
+      "href": "https://ikea.com/us/en/customer-service/track-manage-order",
+      "title": "track order"
+    },
+    {
+      "href": "https://ikea.com/us/en/ikea-family",
+      "title": "ikea family"
+    },
+    {
+      "href": "https://ikea.com/us/en/stores",
+      "title": "ikea locations"
+    }
+  ],
+  "aliveTop": [
+    {
+      "href": "https://ikea.com/us/en/cat/storage-organization-st001",
+      "title": "storage & organization"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/sofas-armchairs-700640",
+      "title": "sofas & armchairs"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/outdoor-od001",
+      "title": "outdoor"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/beds-mattresses-bm001",
+      "title": "beds & mattresses"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/lighting-li001",
+      "title": "lighting"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/home-textiles-tl001",
+      "title": "home textiles"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/kitchen-appliances-ka001",
+      "title": "kitchen, appliances & supplies"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/tables-desks-fu004",
+      "title": "desk & desk chairs"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/tables-chairs-fu002",
+      "title": "tables & chairs"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/home-decor-de001",
+      "title": "home decor & accessories"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/cookware-tableware-kt001",
+      "title": "kitchenware & tableware"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/baby-kids-bc001",
+      "title": "baby & kids"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/bathroom-ba001",
+      "title": "bathroom: furniture, supplies & more"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/flooring-rm001",
+      "title": "flooring, rugs & mats"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/storage-containers-st007",
+      "title": "storage containers, organizers & baskets"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/plants-planters-pp001",
+      "title": "plants & planters"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/laundry-cleaning-lc001",
+      "title": "laundry & cleaning"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/home-electronics-he001",
+      "title": "home electronics"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/pet-accessories-pt001",
+      "title": "pet accessories"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/home-improvement-hi001",
+      "title": "home improvement"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/smart-home-hs001",
+      "title": "smart home"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/ikea-food-restaurant-fb001",
+      "title": "ikea food & swedish restaurant"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/lowest-price",
+      "title": "our lowest prices"
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/appliance-deals-and-offers-pub075ee210",
+      "title": "appliances deals & offers"
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/affordable-home-essentials-pubfbd3fdc0",
+      "title": "home essentials under $10"
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/lower-price",
+      "title": "new lower price"
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/starting-college/college-student-discount-pub60c5c8a0",
+      "title": "verified students get 15% off"
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/starting-college/college-dorm-furniture-pub95615ee0",
+      "title": "college dorm furniture"
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/starting-college/college-storage-organization-pubddad5dc0",
+      "title": "college storage & dorm room organization"
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/starting-college/college-dorm-bedding-pub39ec1700",
+      "title": "dorm bedding & pillows"
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/starting-college/college-kitchen-essentials-pub893c4d50",
+      "title": "dorm & college kitchen essentials"
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/starting-college/college-laundry-bathroom-essentials-pub02794a10",
+      "title": "dorm laundry & bathroom essentials"
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/shop-marketplace-pub0a505b20",
+      "title": "see all in home accessories"
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/shop-marketplace-categories-pubff037650",
+      "title": "shop by category"
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/shop-marketplace-colors-pub8a0f7c40",
+      "title": "shop by color"
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/shop-marketplace-featured-pub2f4f97ef",
+      "title": "featured shops"
+    },
+    {
+      "href": "https://ikea.com/us/en/ideas",
+      "title": "ideas hub"
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/summer-home-ideas-pubde314250",
+      "title": "explore the summer shop"
+    },
+    {
+      "href": "https://ikea.com/us/en/customer-service/services/online-and-in-store-planning-services-pub709b4660",
+      "title": "online and in-store planning services"
+    },
+    {
+      "href": "https://ikea.com/us/en/customer-service/services/interior-design-services-for-every-budget-pub21dbc3d0",
+      "title": "interior design service"
+    },
+    {
+      "href": "https://ikea.com/us/en/ikea-business/payment-options-pub99b5be00",
+      "title": "ways to pay"
+    },
+    {
+      "href": "https://ikea.com/us/en/business-profile/register-network",
+      "title": "join the ikea business network for free!"
+    },
+    {
+      "href": "https://ikea.com/us/en/customer-service/services/pickup-locations-pub71efcf80",
+      "title": "pickup locations"
+    },
+    {
+      "href": "https://ikea.com/us/en/customer-service/services/kitchen-services-pub8f131f81",
+      "title": "kitchen services"
+    },
+    {
+      "href": "https://ikea.com/us/en/customer-service/services/finance-options/ikea-credit-cards-pub9b4272b0",
+      "title": "ikea credit cards"
+    }
+  ],
+  "cosineResults": [
+    {
+      "title": "home textiles",
+      "href": "https://ikea.com/us/en/cat/home-textiles-tl001",
+      "distance": 0.592591633340109
+    },
+    {
+      "title": "home decor & accessories",
+      "href": "https://ikea.com/us/en/cat/home-decor-de001",
+      "distance": 0.5807889644440146
+    },
+    {
+      "title": "home essentials under $10",
+      "href": "https://ikea.com/us/en/campaigns/affordable-home-essentials-pubfbd3fdc0",
+      "distance": 0.5000008855147186
+    },
+    {
+      "title": "see all in home accessories",
+      "href": "https://ikea.com/us/en/campaigns/shop-marketplace-pub0a505b20",
+      "distance": 0.49147969216455434
+    },
+    {
+      "title": "home improvement",
+      "href": "https://ikea.com/us/en/cat/home-improvement-hi001",
+      "distance": 0.488509535692009
+    },
+    {
+      "title": "home electronics",
+      "href": "https://ikea.com/us/en/cat/home-electronics-he001",
+      "distance": 0.47597630094005816
+    },
+    {
+      "title": "bathroom: furniture, supplies & more",
+      "href": "https://ikea.com/us/en/cat/bathroom-ba001",
+      "distance": 0.4729872272898261
+    },
+    {
+      "title": "featured shops",
+      "href": "https://ikea.com/us/en/campaigns/shop-marketplace-featured-pub2f4f97ef",
+      "distance": 0.45494656229101754
+    },
+    {
+      "title": "kitchen, appliances & supplies",
+      "href": "https://ikea.com/us/en/cat/kitchen-appliances-ka001",
+      "distance": 0.4477046230877778
+    },
+    {
+      "title": "storage & organization",
+      "href": "https://ikea.com/us/en/cat/storage-organization-st001",
+      "distance": 0.43882273335879535
+    },
+    {
+      "title": "kitchenware & tableware",
+      "href": "https://ikea.com/us/en/cat/cookware-tableware-kt001",
+      "distance": 0.43780643427734267
+    },
+    {
+      "title": "dorm bedding & pillows",
+      "href": "https://ikea.com/us/en/campaigns/starting-college/college-dorm-bedding-pub39ec1700",
+      "distance": 0.4358684427813892
+    },
+    {
+      "title": "flooring, rugs & mats",
+      "href": "https://ikea.com/us/en/cat/flooring-rm001",
+      "distance": 0.4269797783267005
+    },
+    {
+      "title": "pet accessories",
+      "href": "https://ikea.com/us/en/cat/pet-accessories-pt001",
+      "distance": 0.4244558236634264
+    },
+    {
+      "title": "college dorm furniture",
+      "href": "https://ikea.com/us/en/campaigns/starting-college/college-dorm-furniture-pub95615ee0",
+      "distance": 0.423268223867124
+    }
+  ],
+  "parents": [
+    {
+      "href": "https://ikea.com/us/en/cat/home-textiles-tl001",
+      "title": "home textiles tl001",
+      "distance": 0.592591633340109
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/home-decor-de001",
+      "title": "home decor de001",
+      "distance": 0.5807889644440146
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/affordable-home-essentials-pubfbd3fdc0",
+      "title": "affordable home essentials pubfbd3fdc0",
+      "distance": 0.5000008855147186
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/shop-marketplace-pub0a505b20",
+      "title": "shop marketplace pub0a505b20",
+      "distance": 0.49147969216455434
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/home-improvement-hi001",
+      "title": "home improvement hi001",
+      "distance": 0.488509535692009
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/home-electronics-he001",
+      "title": "home electronics he001",
+      "distance": 0.47597630094005816
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/bathroom-ba001",
+      "title": "bathroom ba001",
+      "distance": 0.4729872272898261
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/shop-marketplace-featured-pub2f4f97ef",
+      "title": "shop marketplace featured pub2f4f97ef",
+      "distance": 0.45494656229101754
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/kitchen-appliances-ka001",
+      "title": "kitchen appliances ka001",
+      "distance": 0.4477046230877778
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/storage-organization-st001",
+      "title": "storage organization st001",
+      "distance": 0.43882273335879535
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/cookware-tableware-kt001",
+      "title": "cookware tableware kt001",
+      "distance": 0.43780643427734267
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/starting-college",
+      "title": "starting college",
+      "distance": 0.4358684427813892
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/flooring-rm001",
+      "title": "flooring rm001",
+      "distance": 0.4269797783267005
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/pet-accessories-pt001",
+      "title": "pet accessories pt001",
+      "distance": 0.4244558236634264
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/starting-college",
+      "title": "starting college",
+      "distance": 0.423268223867124
+    }
+  ],
+  "uniqAcc": [
+    {
+      "href": "https://ikea.com/us/en/cat/home-textiles-tl001",
+      "title": "home textiles tl001",
+      "distance": 0.592591633340109
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/home-decor-de001",
+      "title": "home decor de001",
+      "distance": 0.5807889644440146
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/affordable-home-essentials-pubfbd3fdc0",
+      "title": "affordable home essentials pubfbd3fdc0",
+      "distance": 0.5000008855147186
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/shop-marketplace-pub0a505b20",
+      "title": "shop marketplace pub0a505b20",
+      "distance": 0.49147969216455434
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/home-improvement-hi001",
+      "title": "home improvement hi001",
+      "distance": 0.488509535692009
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/home-electronics-he001",
+      "title": "home electronics he001",
+      "distance": 0.47597630094005816
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/bathroom-ba001",
+      "title": "bathroom ba001",
+      "distance": 0.4729872272898261
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/shop-marketplace-featured-pub2f4f97ef",
+      "title": "shop marketplace featured pub2f4f97ef",
+      "distance": 0.45494656229101754
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/kitchen-appliances-ka001",
+      "title": "kitchen appliances ka001",
+      "distance": 0.4477046230877778
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/storage-organization-st001",
+      "title": "storage organization st001",
+      "distance": 0.43882273335879535
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/cookware-tableware-kt001",
+      "title": "cookware tableware kt001",
+      "distance": 0.43780643427734267
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/starting-college",
+      "title": "starting college",
+      "distance": 0.423268223867124
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/flooring-rm001",
+      "title": "flooring rm001",
+      "distance": 0.4269797783267005
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/pet-accessories-pt001",
+      "title": "pet accessories pt001",
+      "distance": 0.4244558236634264
+    }
+  ],
+  "linksData": [
+    {
+      "href": "https://ikea.com/us/en/cat/home-textiles-tl001",
+      "title": "home textiles tl001",
+      "distance": 0.592591633340109
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/home-decor-de001",
+      "title": "home decor de001",
+      "distance": 0.5807889644440146
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/affordable-home-essentials-pubfbd3fdc0",
+      "title": "affordable home essentials pubfbd3fdc0",
+      "distance": 0.5000008855147186
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/shop-marketplace-pub0a505b20",
+      "title": "shop marketplace pub0a505b20",
+      "distance": 0.49147969216455434
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/home-improvement-hi001",
+      "title": "home improvement hi001",
+      "distance": 0.488509535692009
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/home-electronics-he001",
+      "title": "home electronics he001",
+      "distance": 0.47597630094005816
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/bathroom-ba001",
+      "title": "bathroom ba001",
+      "distance": 0.4729872272898261
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/shop-marketplace-featured-pub2f4f97ef",
+      "title": "shop marketplace featured pub2f4f97ef",
+      "distance": 0.45494656229101754
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/kitchen-appliances-ka001",
+      "title": "kitchen appliances ka001",
+      "distance": 0.4477046230877778
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/storage-organization-st001",
+      "title": "storage organization st001",
+      "distance": 0.43882273335879535
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/cookware-tableware-kt001",
+      "title": "cookware tableware kt001",
+      "distance": 0.43780643427734267
+    },
+    {
+      "href": "https://ikea.com/us/en/campaigns/starting-college",
+      "title": "starting college",
+      "distance": 0.423268223867124
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/flooring-rm001",
+      "title": "flooring rm001",
+      "distance": 0.4269797783267005
+    },
+    {
+      "href": "https://ikea.com/us/en/cat/pet-accessories-pt001",
+      "title": "pet accessories pt001",
+      "distance": 0.4244558236634264
+    }
+  ]
+}

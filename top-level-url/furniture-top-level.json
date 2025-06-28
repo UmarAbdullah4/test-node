@@ -1,0 +1,219 @@
+{
+  "root": "https://proport.se/",
+  "length": {
+    "links": 7,
+    "aliveTop": 7,
+    "cosineResults": 7,
+    "parents": 7,
+    "uniqAcc": 7,
+    "linksData": 7
+  },
+  "links": [
+    {
+      "href": "https://proport.se/proportmodellen",
+      "title": "proportmodellen"
+    },
+    {
+      "href": "https://proport.se/investorrelations",
+      "title": "investor relations"
+    },
+    {
+      "href": "https://proport.se/pressmeddelanden-rapporter",
+      "title": "pressmeddelanden & rapporter"
+    },
+    {
+      "href": "https://proport.se/styrelse-och-ledning",
+      "title": "styrelse & ledning"
+    },
+    {
+      "href": "https://proport.se/bolagsstyrning",
+      "title": "bolagsstyrning"
+    },
+    {
+      "href": "https://proport.se/cookiepolicy",
+      "title": "cookie policy"
+    },
+    {
+      "href": "https://proport.se/behandling-av-personuppgifter",
+      "title": "integritetspolicy"
+    }
+  ],
+  "aliveTop": [
+    {
+      "href": "https://proport.se/proportmodellen",
+      "title": "proportmodellen"
+    },
+    {
+      "href": "https://proport.se/investorrelations",
+      "title": "investor relations"
+    },
+    {
+      "href": "https://proport.se/pressmeddelanden-rapporter",
+      "title": "pressmeddelanden & rapporter"
+    },
+    {
+      "href": "https://proport.se/styrelse-och-ledning",
+      "title": "styrelse & ledning"
+    },
+    {
+      "href": "https://proport.se/bolagsstyrning",
+      "title": "bolagsstyrning"
+    },
+    {
+      "href": "https://proport.se/cookiepolicy",
+      "title": "cookie policy"
+    },
+    {
+      "href": "https://proport.se/behandling-av-personuppgifter",
+      "title": "integritetspolicy"
+    }
+  ],
+  "cosineResults": [
+    {
+      "title": "styrelse & ledning",
+      "href": "https://proport.se/styrelse-och-ledning",
+      "distance": 0.21689817883593537
+    },
+    {
+      "title": "cookie policy",
+      "href": "https://proport.se/cookiepolicy",
+      "distance": 0.21222586914037642
+    },
+    {
+      "title": "proportmodellen",
+      "href": "https://proport.se/proportmodellen",
+      "distance": 0.20076964557336133
+    },
+    {
+      "title": "investor relations",
+      "href": "https://proport.se/investorrelations",
+      "distance": 0.168149719585675
+    },
+    {
+      "title": "pressmeddelanden & rapporter",
+      "href": "https://proport.se/pressmeddelanden-rapporter",
+      "distance": 0.16313792127417834
+    },
+    {
+      "title": "bolagsstyrning",
+      "href": "https://proport.se/bolagsstyrning",
+      "distance": 0.1428214728367162
+    },
+    {
+      "title": "integritetspolicy",
+      "href": "https://proport.se/behandling-av-personuppgifter",
+      "distance": 0.12359853099958273
+    }
+  ],
+  "parents": [
+    {
+      "href": "https://proport.se/styrelse-och-ledning",
+      "title": "styrelse & ledning",
+      "distance": 0.21689817883593537
+    },
+    {
+      "href": "https://proport.se/cookiepolicy",
+      "title": "cookie policy",
+      "distance": 0.21222586914037642
+    },
+    {
+      "href": "https://proport.se/proportmodellen",
+      "title": "proportmodellen",
+      "distance": 0.20076964557336133
+    },
+    {
+      "href": "https://proport.se/investorrelations",
+      "title": "investor relations",
+      "distance": 0.168149719585675
+    },
+    {
+      "href": "https://proport.se/pressmeddelanden-rapporter",
+      "title": "pressmeddelanden & rapporter",
+      "distance": 0.16313792127417834
+    },
+    {
+      "href": "https://proport.se/bolagsstyrning",
+      "title": "bolagsstyrning",
+      "distance": 0.1428214728367162
+    },
+    {
+      "href": "https://proport.se/behandling-av-personuppgifter",
+      "title": "integritetspolicy",
+      "distance": 0.12359853099958273
+    }
+  ],
+  "uniqAcc": [
+    {
+      "href": "https://proport.se/styrelse-och-ledning",
+      "title": "styrelse & ledning",
+      "distance": 0.21689817883593537
+    },
+    {
+      "href": "https://proport.se/cookiepolicy",
+      "title": "cookie policy",
+      "distance": 0.21222586914037642
+    },
+    {
+      "href": "https://proport.se/proportmodellen",
+      "title": "proportmodellen",
+      "distance": 0.20076964557336133
+    },
+    {
+      "href": "https://proport.se/investorrelations",
+      "title": "investor relations",
+      "distance": 0.168149719585675
+    },
+    {
+      "href": "https://proport.se/pressmeddelanden-rapporter",
+      "title": "pressmeddelanden & rapporter",
+      "distance": 0.16313792127417834
+    },
+    {
+      "href": "https://proport.se/bolagsstyrning",
+      "title": "bolagsstyrning",
+      "distance": 0.1428214728367162
+    },
+    {
+      "href": "https://proport.se/behandling-av-personuppgifter",
+      "title": "integritetspolicy",
+      "distance": 0.12359853099958273
+    }
+  ],
+  "linksData": [
+    {
+      "href": "https://proport.se/styrelse-och-ledning",
+      "title": "styrelse & ledning",
+      "distance": 0.21689817883593537
+    },
+    {
+      "href": "https://proport.se/cookiepolicy",
+      "title": "cookie policy",
+      "distance": 0.21222586914037642
+    },
+    {
+      "href": "https://proport.se/proportmodellen",
+      "title": "proportmodellen",
+      "distance": 0.20076964557336133
+    },
+    {
+      "href": "https://proport.se/investorrelations",
+      "title": "investor relations",
+      "distance": 0.168149719585675
+    },
+    {
+      "href": "https://proport.se/pressmeddelanden-rapporter",
+      "title": "pressmeddelanden & rapporter",
+      "distance": 0.16313792127417834
+    },
+    {
+      "href": "https://proport.se/bolagsstyrning",
+      "title": "bolagsstyrning",
+      "distance": 0.1428214728367162
+    },
+    {
+      "href": "https://proport.se/behandling-av-personuppgifter",
+      "title": "integritetspolicy",
+      "distance": 0.12359853099958273
+    }
+  ]
+}

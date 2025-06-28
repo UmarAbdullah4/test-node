@@ -1,0 +1,107 @@
+{
+  "root": "https://jonathanfogelberg.com/",
+  "length": {
+    "links": 3,
+    "aliveTop": 3,
+    "cosineResults": 3,
+    "parents": 3,
+    "uniqAcc": 3,
+    "linksData": 3
+  },
+  "links": [
+    {
+      "href": "https://jonathanfogelberg.com/coaching",
+      "title": "coaching"
+    },
+    {
+      "href": "https://jonathanfogelberg.com/media",
+      "title": "media"
+    },
+    {
+      "href": "https://jonathanfogelberg.com/contact",
+      "title": "contact"
+    }
+  ],
+  "aliveTop": [
+    {
+      "href": "https://jonathanfogelberg.com/coaching",
+      "title": "coaching"
+    },
+    {
+      "href": "https://jonathanfogelberg.com/media",
+      "title": "media"
+    },
+    {
+      "href": "https://jonathanfogelberg.com/contact",
+      "title": "contact"
+    }
+  ],
+  "cosineResults": [
+    {
+      "title": "coaching",
+      "href": "https://jonathanfogelberg.com/coaching",
+      "distance": 0.26334592911897664
+    },
+    {
+      "title": "media",
+      "href": "https://jonathanfogelberg.com/media",
+      "distance": 0.25767437481628364
+    },
+    {
+      "title": "contact",
+      "href": "https://jonathanfogelberg.com/contact",
+      "distance": 0.2252645942957572
+    }
+  ],
+  "parents": [
+    {
+      "href": "https://jonathanfogelberg.com/coaching",
+      "title": "coaching",
+      "distance": 0.26334592911897664
+    },
+    {
+      "href": "https://jonathanfogelberg.com/media",
+      "title": "media",
+      "distance": 0.25767437481628364
+    },
+    {
+      "href": "https://jonathanfogelberg.com/contact",
+      "title": "contact",
+      "distance": 0.2252645942957572
+    }
+  ],
+  "uniqAcc": [
+    {
+      "href": "https://jonathanfogelberg.com/coaching",
+      "title": "coaching",
+      "distance": 0.26334592911897664
+    },
+    {
+      "href": "https://jonathanfogelberg.com/media",
+      "title": "media",
+      "distance": 0.25767437481628364
+    },
+    {
+      "href": "https://jonathanfogelberg.com/contact",
+      "title": "contact",
+      "distance": 0.2252645942957572
+    }
+  ],
+  "linksData": [
+    {
+      "href": "https://jonathanfogelberg.com/coaching",
+      "title": "coaching",
+      "distance": 0.26334592911897664
+    },
+    {
+      "href": "https://jonathanfogelberg.com/media",
+      "title": "media",
+      "distance": 0.25767437481628364
+    },
+    {
+      "href": "https://jonathanfogelberg.com/contact",
+      "title": "contact",
+      "distance": 0.2252645942957572
+    }
+  ]
+}

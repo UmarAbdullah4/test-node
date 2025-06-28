@@ -1,0 +1,303 @@
+{
+  "root": "https://abswheels.se",
+  "length": {
+    "links": 22,
+    "aliveTop": 8,
+    "cosineResults": 8,
+    "parents": 8,
+    "uniqAcc": 8,
+    "linksData": 8
+  },
+  "links": [
+    {
+      "href": "https://abswheels.se/falgar",
+      "title": "f�lgar"
+    },
+    {
+      "href": "https://abswheels.se/sommardack",
+      "title": "sommard�ck"
+    },
+    {
+      "href": "https://abswheels.se/friktionsdack",
+      "title": "friktionsd�ck"
+    },
+    {
+      "href": "https://abswheels.se/dubbdack",
+      "title": "dubbd�ck"
+    },
+    {
+      "href": "https://abswheels.se/tilbehor",
+      "title": "tillbeh�r"
+    },
+    {
+      "href": "https://abswheels.se/byta-dack",
+      "title": "boka tid"
+    },
+    {
+      "href": "https://abswheels.se/varumarken",
+      "title": "varum�rken"
+    },
+    {
+      "href": "https://abswheels.se/kontakta",
+      "title": "kontakta oss"
+    },
+    {
+      "href": "https://abswheels.se/finance",
+      "title": "betal / finans"
+    },
+    {
+      "href": "https://abswheels.se/villkor",
+      "title": "villkor"
+    },
+    {
+      "href": "https://abswheels.se/falgprovaren",
+      "title": "f�lgprovare"
+    },
+    {
+      "href": "https://abswheels.se/sidkarta",
+      "title": "sidkarta"
+    },
+    {
+      "href": "https://abswheels.se/dackvaljare",
+      "title": "d�ckv�ljare"
+    },
+    {
+      "href": "https://abswheels.se/dackomvandlare",
+      "title": "d�ckomvandlare"
+    },
+    {
+      "href": "https://abswheels.se/press",
+      "title": "press"
+    },
+    {
+      "href": "https://abswheels.se/tpms",
+      "title": "tpms"
+    },
+    {
+      "href": "https://abswheels.se/offroad-dack",
+      "title": "offroad d�ck"
+    },
+    {
+      "href": "https://abswheels.se/dackskola",
+      "title": "d�ckskola"
+    },
+    {
+      "href": "https://abswheels.se/faqs",
+      "title": "faqs"
+    },
+    {
+      "href": "https://abswheels.se/information",
+      "title": "informationsbank av d�ck och f�lgar"
+    },
+    {
+      "href": "https://abswheels.se/abs360",
+      "title": "abs360"
+    },
+    {
+      "href": "https://abswheels.se/vinterdack",
+      "title": "vinted�ck"
+    }
+  ],
+  "aliveTop": [
+    {
+      "href": "https://abswheels.se/falgar",
+      "title": "f�lgar"
+    },
+    {
+      "href": "https://abswheels.se/sommardack",
+      "title": "sommard�ck"
+    },
+    {
+      "href": "https://abswheels.se/friktionsdack",
+      "title": "friktionsd�ck"
+    },
+    {
+      "href": "https://abswheels.se/dubbdack",
+      "title": "dubbd�ck"
+    },
+    {
+      "href": "https://abswheels.se/kontakta",
+      "title": "kontakta oss"
+    },
+    {
+      "href": "https://abswheels.se/finance",
+      "title": "betal / finans"
+    },
+    {
+      "href": "https://abswheels.se/dackvaljare",
+      "title": "d�ckv�ljare"
+    },
+    {
+      "href": "https://abswheels.se/dackomvandlare",
+      "title": "d�ckomvandlare"
+    }
+  ],
+  "cosineResults": [
+    {
+      "title": "friktionsd�ck",
+      "href": "https://abswheels.se/friktionsdack",
+      "distance": 0.385796730932602
+    },
+    {
+      "title": "sommard�ck",
+      "href": "https://abswheels.se/sommardack",
+      "distance": 0.3541616318345387
+    },
+    {
+      "title": "f�lgar",
+      "href": "https://abswheels.se/falgar",
+      "distance": 0.31569607489984725
+    },
+    {
+      "title": "d�ckv�ljare",
+      "href": "https://abswheels.se/dackvaljare",
+      "distance": 0.29551271150498626
+    },
+    {
+      "title": "d�ckomvandlare",
+      "href": "https://abswheels.se/dackomvandlare",
+      "distance": 0.24925340787142253
+    },
+    {
+      "title": "betal / finans",
+      "href": "https://abswheels.se/finance",
+      "distance": 0.2448209313360152
+    },
+    {
+      "title": "kontakta oss",
+      "href": "https://abswheels.se/kontakta",
+      "distance": 0.23528188828983498
+    },
+    {
+      "title": "dubbd�ck",
+      "href": "https://abswheels.se/dubbdack",
+      "distance": 0.2248233239757773
+    }
+  ],
+  "parents": [
+    {
+      "href": "https://abswheels.se/friktionsdack",
+      "title": "friktionsd�ck",
+      "distance": 0.385796730932602
+    },
+    {
+      "href": "https://abswheels.se/sommardack",
+      "title": "sommard�ck",
+      "distance": 0.3541616318345387
+    },
+    {
+      "href": "https://abswheels.se/falgar",
+      "title": "f�lgar",
+      "distance": 0.31569607489984725
+    },
+    {
+      "href": "https://abswheels.se/dackvaljare",
+      "title": "d�ckv�ljare",
+      "distance": 0.29551271150498626
+    },
+    {
+      "href": "https://abswheels.se/dackomvandlare",
+      "title": "d�ckomvandlare",
+      "distance": 0.24925340787142253
+    },
+    {
+      "href": "https://abswheels.se/finance",
+      "title": "betal / finans",
+      "distance": 0.2448209313360152
+    },
+    {
+      "href": "https://abswheels.se/kontakta",
+      "title": "kontakta oss",
+      "distance": 0.23528188828983498
+    },
+    {
+      "href": "https://abswheels.se/dubbdack",
+      "title": "dubbd�ck",
+      "distance": 0.2248233239757773
+    }
+  ],
+  "uniqAcc": [
+    {
+      "href": "https://abswheels.se/friktionsdack",
+      "title": "friktionsd�ck",
+      "distance": 0.385796730932602
+    },
+    {
+      "href": "https://abswheels.se/sommardack",
+      "title": "sommard�ck",
+      "distance": 0.3541616318345387
+    },
+    {
+      "href": "https://abswheels.se/falgar",
+      "title": "f�lgar",
+      "distance": 0.31569607489984725
+    },
+    {
+      "href": "https://abswheels.se/dackvaljare",
+      "title": "d�ckv�ljare",
+      "distance": 0.29551271150498626
+    },
+    {
+      "href": "https://abswheels.se/dackomvandlare",
+      "title": "d�ckomvandlare",
+      "distance": 0.24925340787142253
+    },
+    {
+      "href": "https://abswheels.se/finance",
+      "title": "betal / finans",
+      "distance": 0.2448209313360152
+    },
+    {
+      "href": "https://abswheels.se/kontakta",
+      "title": "kontakta oss",
+      "distance": 0.23528188828983498
+    },
+    {
+      "href": "https://abswheels.se/dubbdack",
+      "title": "dubbd�ck",
+      "distance": 0.2248233239757773
+    }
+  ],
+  "linksData": [
+    {
+      "href": "https://abswheels.se/friktionsdack",
+      "title": "friktionsd�ck",
+      "distance": 0.385796730932602
+    },
+    {
+      "href": "https://abswheels.se/sommardack",
+      "title": "sommard�ck",
+      "distance": 0.3541616318345387
+    },
+    {
+      "href": "https://abswheels.se/falgar",
+      "title": "f�lgar",
+      "distance": 0.31569607489984725
+    },
+    {
+      "href": "https://abswheels.se/dackvaljare",
+      "title": "d�ckv�ljare",
+      "distance": 0.29551271150498626
+    },
+    {
+      "href": "https://abswheels.se/dackomvandlare",
+      "title": "d�ckomvandlare",
+      "distance": 0.24925340787142253
+    },
+    {
+      "href": "https://abswheels.se/finance",
+      "title": "betal / finans",
+      "distance": 0.2448209313360152
+    },
+    {
+      "href": "https://abswheels.se/kontakta",
+      "title": "kontakta oss",
+      "distance": 0.23528188828983498
+    },
+    {
+      "href": "https://abswheels.se/dubbdack",
+      "title": "dubbd�ck",
+      "distance": 0.2248233239757773
+    }
+  ]
+}

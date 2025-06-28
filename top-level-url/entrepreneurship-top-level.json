@@ -1,0 +1,17 @@
+{
+  "root": "https://indiehackers.com/",
+  "length": {
+    "links": 0,
+    "aliveTop": 0,
+    "cosineResults": 0,
+    "parents": 0,
+    "uniqAcc": 0,
+    "linksData": 0
+  },
+  "links": [],
+  "aliveTop": [],
+  "cosineResults": [],
+  "parents": [],
+  "uniqAcc": [],
+  "linksData": []
+}

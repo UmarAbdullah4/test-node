@@ -1,0 +1,219 @@
+{
+  "root": "https://ticketmaster.se/",
+  "length": {
+    "links": 7,
+    "aliveTop": 7,
+    "cosineResults": 7,
+    "parents": 7,
+    "uniqAcc": 7,
+    "linksData": 7
+  },
+  "links": [
+    {
+      "href": "https://ticketmaster.se/feature/presentkort",
+      "title": "presentkort"
+    },
+    {
+      "href": "https://ticketmaster.se/category/musik-biljetter/10001",
+      "title": "musik"
+    },
+    {
+      "href": "https://ticketmaster.se/category/teater-underhallning-biljetter/10002",
+      "title": "teater & underhållning"
+    },
+    {
+      "href": "https://ticketmaster.se/category/sport-biljetter/10004",
+      "title": "sport"
+    },
+    {
+      "href": "https://ticketmaster.se/category/familj-biljetter/10003",
+      "title": "familj"
+    },
+    {
+      "href": "https://ticketmaster.se/category/festivaler-biljetter/10101",
+      "title": "festivaler"
+    },
+    {
+      "href": "http://ticketmaster.se/category/massor-utstallningar-biljetter/10008",
+      "title": "mässor & utställningar"
+    }
+  ],
+  "aliveTop": [
+    {
+      "href": "https://ticketmaster.se/feature/presentkort",
+      "title": "presentkort"
+    },
+    {
+      "href": "https://ticketmaster.se/category/musik-biljetter/10001",
+      "title": "musik"
+    },
+    {
+      "href": "https://ticketmaster.se/category/teater-underhallning-biljetter/10002",
+      "title": "teater & underhållning"
+    },
+    {
+      "href": "https://ticketmaster.se/category/sport-biljetter/10004",
+      "title": "sport"
+    },
+    {
+      "href": "https://ticketmaster.se/category/familj-biljetter/10003",
+      "title": "familj"
+    },
+    {
+      "href": "https://ticketmaster.se/category/festivaler-biljetter/10101",
+      "title": "festivaler"
+    },
+    {
+      "href": "http://ticketmaster.se/category/massor-utstallningar-biljetter/10008",
+      "title": "mässor & utställningar"
+    }
+  ],
+  "cosineResults": [
+    {
+      "title": "sport",
+      "href": "https://ticketmaster.se/category/sport-biljetter/10004",
+      "distance": 0.44879537269520736
+    },
+    {
+      "title": "musik",
+      "href": "https://ticketmaster.se/category/musik-biljetter/10001",
+      "distance": 0.2846626506667785
+    },
+    {
+      "title": "teater & underhållning",
+      "href": "https://ticketmaster.se/category/teater-underhallning-biljetter/10002",
+      "distance": 0.27501888457628765
+    },
+    {
+      "title": "festivaler",
+      "href": "https://ticketmaster.se/category/festivaler-biljetter/10101",
+      "distance": 0.19504270792051503
+    },
+    {
+      "title": "familj",
+      "href": "https://ticketmaster.se/category/familj-biljetter/10003",
+      "distance": 0.17710780385976635
+    },
+    {
+      "title": "mässor & utställningar",
+      "href": "http://ticketmaster.se/category/massor-utstallningar-biljetter/10008",
+      "distance": 0.1738782787594443
+    },
+    {
+      "title": "presentkort",
+      "href": "https://ticketmaster.se/feature/presentkort",
+      "distance": 0.07674237817885095
+    }
+  ],
+  "parents": [
+    {
+      "href": "https://ticketmaster.se/category/sport-biljetter/10004",
+      "title": "sport",
+      "distance": 0.44879537269520736
+    },
+    {
+      "href": "https://ticketmaster.se/category/musik-biljetter/10001",
+      "title": "musik",
+      "distance": 0.2846626506667785
+    },
+    {
+      "href": "https://ticketmaster.se/category/teater-underhallning-biljetter/10002",
+      "title": "teater & underhållning",
+      "distance": 0.27501888457628765
+    },
+    {
+      "href": "https://ticketmaster.se/category/festivaler-biljetter/10101",
+      "title": "festivaler",
+      "distance": 0.19504270792051503
+    },
+    {
+      "href": "https://ticketmaster.se/category/familj-biljetter/10003",
+      "title": "familj",
+      "distance": 0.17710780385976635
+    },
+    {
+      "href": "http://ticketmaster.se/category/massor-utstallningar-biljetter/10008",
+      "title": "mässor & utställningar",
+      "distance": 0.1738782787594443
+    },
+    {
+      "href": "https://ticketmaster.se/feature/presentkort",
+      "title": "presentkort",
+      "distance": 0.07674237817885095
+    }
+  ],
+  "uniqAcc": [
+    {
+      "href": "https://ticketmaster.se/category/sport-biljetter/10004",
+      "title": "sport",
+      "distance": 0.44879537269520736
+    },
+    {
+      "href": "https://ticketmaster.se/category/musik-biljetter/10001",
+      "title": "musik",
+      "distance": 0.2846626506667785
+    },
+    {
+      "href": "https://ticketmaster.se/category/teater-underhallning-biljetter/10002",
+      "title": "teater & underhållning",
+      "distance": 0.27501888457628765
+    },
+    {
+      "href": "https://ticketmaster.se/category/festivaler-biljetter/10101",
+      "title": "festivaler",
+      "distance": 0.19504270792051503
+    },
+    {
+      "href": "https://ticketmaster.se/category/familj-biljetter/10003",
+      "title": "familj",
+      "distance": 0.17710780385976635
+    },
+    {
+      "href": "http://ticketmaster.se/category/massor-utstallningar-biljetter/10008",
+      "title": "mässor & utställningar",
+      "distance": 0.1738782787594443
+    },
+    {
+      "href": "https://ticketmaster.se/feature/presentkort",
+      "title": "presentkort",
+      "distance": 0.07674237817885095
+    }
+  ],
+  "linksData": [
+    {
+      "href": "https://ticketmaster.se/category/sport-biljetter/10004",
+      "title": "sport",
+      "distance": 0.44879537269520736
+    },
+    {
+      "href": "https://ticketmaster.se/category/musik-biljetter/10001",
+      "title": "musik",
+      "distance": 0.2846626506667785
+    },
+    {
+      "href": "https://ticketmaster.se/category/teater-underhallning-biljetter/10002",
+      "title": "teater & underhållning",
+      "distance": 0.27501888457628765
+    },
+    {
+      "href": "https://ticketmaster.se/category/festivaler-biljetter/10101",
+      "title": "festivaler",
+      "distance": 0.19504270792051503
+    },
+    {
+      "href": "https://ticketmaster.se/category/familj-biljetter/10003",
+      "title": "familj",
+      "distance": 0.17710780385976635
+    },
+    {
+      "href": "http://ticketmaster.se/category/massor-utstallningar-biljetter/10008",
+      "title": "mässor & utställningar",
+      "distance": 0.1738782787594443
+    },
+    {
+      "href": "https://ticketmaster.se/feature/presentkort",
+      "title": "presentkort",
+      "distance": 0.07674237817885095
+    }
+  ]
+}
