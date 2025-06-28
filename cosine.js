@@ -76,8 +76,8 @@ const similar = async (keyword, allUrls, max) => {
 
   const results = resultOne.map(([doc, distance]) => {
     return {
-      text: doc.pageContent,
-      metadata: doc.metadata,
+      title: doc.pageContent,
+      href: doc.metadata.href,
       distance: distance,
     };
   });
@@ -113,3 +113,41 @@ const similar = async (keyword, allUrls, max) => {
 };
 
 module.exports = { similar };
+
+// const { MemoryVectorStore } = require("langchain/vectorstores/memory");
+// const { OpenAIEmbeddings } = require("@langchain/openai");
+
+// async function buildVectorStore(items, embeddings) {
+//   const texts = items.map(({ title }) => title);
+//   const metadatas = items.map(({ href }) => ({ href }));
+//   return MemoryVectorStore.fromTexts(texts, metadatas, embeddings);
+// }
+
+// async function similar(keyword, allUrls, opts = {}) {
+//   const { topK = 5, minScore = 0.8 } = opts;
+//   const embeddings = new OpenAIEmbeddings({
+//     apiKey: process.env.API_KEY_OPENAI,
+//     modelName: "text-embedding-3-large",
+//   });
+
+//   const vectorStore = await buildVectorStore(allUrls, embeddings);
+
+//   const queryEmbedding = await embeddings.embedQuery(keyword);
+//   const raw = await vectorStore.similaritySearchVectorWithScore(
+//     queryEmbedding,
+//     topK * 2
+//   );
+
+//   const strictHits = raw
+//     // .filter(([_, score]) => score >= minScore)
+//     // .slice(0, topK) // keep the best K
+//     .map(([doc, score]) => ({
+//       title: doc.pageContent,
+//       href: doc.metadata.href,
+//       score,
+//     }));
+
+//   return strictHits;
+// }
+
+// module.exports = { similar };

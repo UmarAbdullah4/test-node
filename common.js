@@ -1,8 +1,8 @@
 const fs = require("fs");
 const path = require("path");
 
-function saveJson(data, filename = "output.json") {
-  const filePath = path.join(__dirname, filename);
+function saveJson(data, filename = "output.json", folder = "") {
+  const filePath = path.join(__dirname, folder, filename);
   const jsonString = JSON.stringify(data, null, 2);
 
   fs.writeFile(filePath, jsonString, (err) => {

@@ -1,8 +1,381 @@
 {
-  "root": "https://elgiganten.se",
-  "kept": 0,
-  "verifiedTop": 0,
-  "links": [],
-  "aliveTop": [],
-  "cosineResults": []
+  "root": "https://ticketmaster.se/",
+  "kept": 13,
+  "verifiedTop": 13,
+  "links": [
+    {
+      "href": "https://ticketmaster.se/feature/presentkort",
+      "title": "presentkort"
+    },
+    {
+      "href": "https://ticketmaster.se/category/musik-biljetter/10001",
+      "title": "rock & pop"
+    },
+    {
+      "href": "https://ticketmaster.se/category/teater-underhallning-biljetter/10002",
+      "title": "teater & underhållning"
+    },
+    {
+      "href": "https://ticketmaster.se/category/sport-biljetter/10004",
+      "title": "sport"
+    },
+    {
+      "href": "https://ticketmaster.se/category/familj-biljetter/10003",
+      "title": "familj"
+    },
+    {
+      "href": "https://ticketmaster.se/category/festivaler-biljetter/10101",
+      "title": "festivaler"
+    },
+    {
+      "href": "http://ticketmaster.se/category/massor-utstallningar-biljetter/10008",
+      "title": "mässor & utställningar"
+    },
+    {
+      "href": "https://ticketmaster.se/musik/latinsk-musik/10116/events",
+      "title": "latinsk musik"
+    },
+    {
+      "href": "https://ticketmaster.se/familj/familjecirkus/1115/events",
+      "title": "familjecirkus"
+    },
+    {
+      "href": "https://ticketmaster.se/musik/ovrig-musik/52/events",
+      "title": "övrig musik"
+    },
+    {
+      "href": "https://ticketmaster.se/musik/rock-pop/1/events",
+      "title": "rock/pop"
+    },
+    {
+      "href": "https://ticketmaster.se/sport/hastsport/1104/events",
+      "title": "hästsport"
+    },
+    {
+      "href": "https://ticketmaster.se/familj/utstallning-massor/54/events",
+      "title": "utställning/mässor"
+    }
+  ],
+  "aliveTop": [
+    {
+      "href": "https://ticketmaster.se/feature/presentkort",
+      "title": "presentkort"
+    },
+    {
+      "href": "https://ticketmaster.se/category/musik-biljetter/10001",
+      "title": "rock & pop"
+    },
+    {
+      "href": "https://ticketmaster.se/category/teater-underhallning-biljetter/10002",
+      "title": "teater & underhållning"
+    },
+    {
+      "href": "https://ticketmaster.se/category/sport-biljetter/10004",
+      "title": "sport"
+    },
+    {
+      "href": "https://ticketmaster.se/category/familj-biljetter/10003",
+      "title": "familj"
+    },
+    {
+      "href": "https://ticketmaster.se/category/festivaler-biljetter/10101",
+      "title": "festivaler"
+    },
+    {
+      "href": "http://ticketmaster.se/category/massor-utstallningar-biljetter/10008",
+      "title": "mässor & utställningar"
+    },
+    {
+      "href": "https://ticketmaster.se/musik/latinsk-musik/10116/events",
+      "title": "latinsk musik"
+    },
+    {
+      "href": "https://ticketmaster.se/familj/familjecirkus/1115/events",
+      "title": "familjecirkus"
+    },
+    {
+      "href": "https://ticketmaster.se/musik/ovrig-musik/52/events",
+      "title": "övrig musik"
+    },
+    {
+      "href": "https://ticketmaster.se/musik/rock-pop/1/events",
+      "title": "rock/pop"
+    },
+    {
+      "href": "https://ticketmaster.se/sport/hastsport/1104/events",
+      "title": "hästsport"
+    },
+    {
+      "href": "https://ticketmaster.se/familj/utstallning-massor/54/events",
+      "title": "utställning/mässor"
+    }
+  ],
+  "cosineResults": [
+    {
+      "title": "sport",
+      "href": "https://ticketmaster.se/category/sport-biljetter/10004",
+      "distance": 0.4487456743225765
+    },
+    {
+      "title": "hästsport",
+      "href": "https://ticketmaster.se/sport/hastsport/1104/events",
+      "distance": 0.30443141207351465
+    },
+    {
+      "title": "teater & underhållning",
+      "href": "https://ticketmaster.se/category/teater-underhallning-biljetter/10002",
+      "distance": 0.27499554813580057
+    },
+    {
+      "title": "rock & pop",
+      "href": "https://ticketmaster.se/category/musik-biljetter/10001",
+      "distance": 0.26897565294379
+    },
+    {
+      "title": "rock/pop",
+      "href": "https://ticketmaster.se/musik/rock-pop/1/events",
+      "distance": 0.2635949620658913
+    },
+    {
+      "title": "familjecirkus",
+      "href": "https://ticketmaster.se/familj/familjecirkus/1115/events",
+      "distance": 0.2330893283228213
+    },
+    {
+      "title": "festivaler",
+      "href": "https://ticketmaster.se/category/festivaler-biljetter/10101",
+      "distance": 0.19503126513137203
+    },
+    {
+      "title": "utställning/mässor",
+      "href": "https://ticketmaster.se/familj/utstallning-massor/54/events",
+      "distance": 0.17752347936636884
+    },
+    {
+      "title": "familj",
+      "href": "https://ticketmaster.se/category/familj-biljetter/10003",
+      "distance": 0.17710780385976635
+    },
+    {
+      "title": "mässor & utställningar",
+      "href": "http://ticketmaster.se/category/massor-utstallningar-biljetter/10008",
+      "distance": 0.1738782787594443
+    },
+    {
+      "title": "övrig musik",
+      "href": "https://ticketmaster.se/musik/ovrig-musik/52/events",
+      "distance": 0.16757222273824612
+    },
+    {
+      "title": "latinsk musik",
+      "href": "https://ticketmaster.se/musik/latinsk-musik/10116/events",
+      "distance": 0.1567066574812013
+    },
+    {
+      "title": "presentkort",
+      "href": "https://ticketmaster.se/feature/presentkort",
+      "distance": 0.07667561893861137
+    }
+  ],
+  "parents": [
+    {
+      "href": "https://ticketmaster.se/category/sport-biljetter/10004",
+      "title": "sport",
+      "distance": 0.4487456743225765
+    },
+    {
+      "href": "https://ticketmaster.se/sport/hastsport/1104/events",
+      "title": "hästsport",
+      "distance": 0.30443141207351465
+    },
+    {
+      "href": "https://ticketmaster.se/category/teater-underhallning-biljetter/10002",
+      "title": "teater & underhållning",
+      "distance": 0.27499554813580057
+    },
+    {
+      "href": "https://ticketmaster.se/category/musik-biljetter/10001",
+      "title": "rock & pop",
+      "distance": 0.26897565294379
+    },
+    {
+      "href": "https://ticketmaster.se/musik/rock-pop/1/events",
+      "title": "rock/pop",
+      "distance": 0.2635949620658913
+    },
+    {
+      "href": "https://ticketmaster.se/familj/familjecirkus/1115/events",
+      "title": "familjecirkus",
+      "distance": 0.2330893283228213
+    },
+    {
+      "href": "https://ticketmaster.se/category/festivaler-biljetter/10101",
+      "title": "festivaler",
+      "distance": 0.19503126513137203
+    },
+    {
+      "href": "https://ticketmaster.se/familj/utstallning-massor/54/events",
+      "title": "utställning/mässor",
+      "distance": 0.17752347936636884
+    },
+    {
+      "href": "https://ticketmaster.se/category/familj-biljetter/10003",
+      "title": "familj",
+      "distance": 0.17710780385976635
+    },
+    {
+      "href": "http://ticketmaster.se/category/massor-utstallningar-biljetter/10008",
+      "title": "mässor & utställningar",
+      "distance": 0.1738782787594443
+    },
+    {
+      "href": "https://ticketmaster.se/musik/ovrig-musik/52/events",
+      "title": "övrig musik",
+      "distance": 0.16757222273824612
+    },
+    {
+      "href": "https://ticketmaster.se/musik/latinsk-musik/10116/events",
+      "title": "latinsk musik",
+      "distance": 0.1567066574812013
+    },
+    {
+      "href": "https://ticketmaster.se/feature/presentkort",
+      "title": "presentkort",
+      "distance": 0.07667561893861137
+    }
+  ],
+  "uniqAcc": [
+    {
+      "href": "https://ticketmaster.se/category/sport-biljetter/10004",
+      "title": "sport",
+      "distance": 0.4487456743225765
+    },
+    {
+      "href": "https://ticketmaster.se/sport/hastsport/1104/events",
+      "title": "hästsport",
+      "distance": 0.30443141207351465
+    },
+    {
+      "href": "https://ticketmaster.se/category/teater-underhallning-biljetter/10002",
+      "title": "teater & underhållning",
+      "distance": 0.27499554813580057
+    },
+    {
+      "href": "https://ticketmaster.se/category/musik-biljetter/10001",
+      "title": "rock & pop",
+      "distance": 0.26897565294379
+    },
+    {
+      "href": "https://ticketmaster.se/musik/rock-pop/1/events",
+      "title": "rock/pop",
+      "distance": 0.2635949620658913
+    },
+    {
+      "href": "https://ticketmaster.se/familj/familjecirkus/1115/events",
+      "title": "familjecirkus",
+      "distance": 0.2330893283228213
+    },
+    {
+      "href": "https://ticketmaster.se/category/festivaler-biljetter/10101",
+      "title": "festivaler",
+      "distance": 0.19503126513137203
+    },
+    {
+      "href": "https://ticketmaster.se/familj/utstallning-massor/54/events",
+      "title": "utställning/mässor",
+      "distance": 0.17752347936636884
+    },
+    {
+      "href": "https://ticketmaster.se/category/familj-biljetter/10003",
+      "title": "familj",
+      "distance": 0.17710780385976635
+    },
+    {
+      "href": "http://ticketmaster.se/category/massor-utstallningar-biljetter/10008",
+      "title": "mässor & utställningar",
+      "distance": 0.1738782787594443
+    },
+    {
+      "href": "https://ticketmaster.se/musik/ovrig-musik/52/events",
+      "title": "övrig musik",
+      "distance": 0.16757222273824612
+    },
+    {
+      "href": "https://ticketmaster.se/musik/latinsk-musik/10116/events",
+      "title": "latinsk musik",
+      "distance": 0.1567066574812013
+    },
+    {
+      "href": "https://ticketmaster.se/feature/presentkort",
+      "title": "presentkort",
+      "distance": 0.07667561893861137
+    }
+  ],
+  "linksData": [
+    {
+      "href": "https://ticketmaster.se/category/sport-biljetter/10004",
+      "title": "sport",
+      "distance": 0.4487456743225765
+    },
+    {
+      "href": "https://ticketmaster.se/sport/hastsport/1104/events",
+      "title": "hästsport",
+      "distance": 0.30443141207351465
+    },
+    {
+      "href": "https://ticketmaster.se/category/teater-underhallning-biljetter/10002",
+      "title": "teater & underhållning",
+      "distance": 0.27499554813580057
+    },
+    {
+      "href": "https://ticketmaster.se/category/musik-biljetter/10001",
+      "title": "rock & pop",
+      "distance": 0.26897565294379
+    },
+    {
+      "href": "https://ticketmaster.se/musik/rock-pop/1/events",
+      "title": "rock/pop",
+      "distance": 0.2635949620658913
+    },
+    {
+      "href": "https://ticketmaster.se/familj/familjecirkus/1115/events",
+      "title": "familjecirkus",
+      "distance": 0.2330893283228213
+    },
+    {
+      "href": "https://ticketmaster.se/category/festivaler-biljetter/10101",
+      "title": "festivaler",
+      "distance": 0.19503126513137203
+    },
+    {
+      "href": "https://ticketmaster.se/familj/utstallning-massor/54/events",
+      "title": "utställning/mässor",
+      "distance": 0.17752347936636884
+    },
+    {
+      "href": "https://ticketmaster.se/category/familj-biljetter/10003",
+      "title": "familj",
+      "distance": 0.17710780385976635
+    },
+    {
+      "href": "http://ticketmaster.se/category/massor-utstallningar-biljetter/10008",
+      "title": "mässor & utställningar",
+      "distance": 0.1738782787594443
+    },
+    {
+      "href": "https://ticketmaster.se/musik/ovrig-musik/52/events",
+      "title": "övrig musik",
+      "distance": 0.16757222273824612
+    },
+    {
+      "href": "https://ticketmaster.se/musik/latinsk-musik/10116/events",
+      "title": "latinsk musik",
+      "distance": 0.1567066574812013
+    },
+    {
+      "href": "https://ticketmaster.se/feature/presentkort",
+      "title": "presentkort",
+      "distance": 0.07667561893861137
+    }
+  ]
 }

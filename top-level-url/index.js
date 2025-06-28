@@ -363,25 +363,13 @@
 const {
   RecursiveUrlLoader,
 } = require("@langchain/community/document_loaders/web/recursive_url");
-const { saveJson } = require("../common");
+const { saveJson, readJson } = require("../common");
 const cheerio = require("cheerio");
 const { URL } = require("url");
 const { similar } = require("../cosine");
 require("dotenv").config({ path: "../.env" });
-
-// const rootUrl = "https://www.nike.com/";
-// const rootUrl = "https://www.uniqlo.com/us/en/";
-// const rootUrl = "https://indiehackers.com/";
-// const rootUrl = "https://eu.louisvuitton.com/eng-e1/homepage";
-// const rootUrl = "https://abswheels.se";
-// const rootUrl = "https://apotea.se";
-const rootUrl = "https://elgiganten.se";
-// const rootUrl = "https://proport.se/";
-// const rootUrl = "https://www.ikea.com/us/en/";
-// const rootUrl = "https://skimming.ai";
-// const rootUrl = "https://www.azdesign.se/";
-
-const keyword = "Kompletta hjul";
+const fetch = require("node-fetch");
+const { load } = require("cheerio");
 
 function stripWww(hostname) {
   return hostname
@@ -405,10 +393,55 @@ function normalizeUrl(href, base) {
   }
 }
 
-async function isUrlAlive(url) {
+const SOFT_404_PATTERNS = [
+  /(^|\b)(404|4 0 4|page\s+not\s+found|sidan\s+hittades\s+inte|not\s+found|no\ssuch\sproduct|we\'re\ssorry)(\b|$)/i,
+];
+
+async function isUrlDeepAlive(url, { timeout = 8000 } = {}) {
   try {
-    const res = await fetch(url, { method: "HEAD", timeout: 5000 });
+    const head = await fetch(url, {
+      method: "HEAD",
+      redirect: "manual",
+      timeout,
+    });
+    if (head.status >= 400 && head.status !== 405) return false;
+  } catch {}
+
+  try {
+    const res = await fetch(url, { timeout, redirect: "follow" });
+    if (res.status >= 400) return false;
+    if (!/^text\/html/i.test(res.headers.get("content-type") || ""))
+      return true;
+
+    const html = await res.text();
+    if (html.length < 300) return false;
+    const $ = load(html);
+    const title = $("title").text();
+    const h1 = $("h1").first().text();
+    const robots = $('meta[name="robots"]').attr("content") || "";
+    const haystack = [title, h1, robots].join(" ").replace(/\s+/g, " ");
+    if (SOFT_404_PATTERNS.some((re) => re.test(haystack))) return false;
+    return true;
+  } catch {
+    return false;
+  }
+}
+
+async function isUrlAlive(url, { timeout = 5000 } = {}) {
+  try {
+    const res = await fetch(url, { method: "HEAD", timeout });
     console.log({ status: res.status, url });
+    // const body = await res.text();
+    // if (
+    //   body.includes("404") ||
+    //   body.includes("not found") ||
+    //   body.includes("Page Not Found") ||
+    //   body.includes("This page does not exist") ||
+    //   body.includes("error 404")
+    // ) {
+    //   return false;
+    // }
+
     if (res.status === 404 || res.status === 410) return false;
     return res.ok || (res.status >= 300 && res.status < 400);
   } catch (err) {
@@ -416,149 +449,200 @@ async function isUrlAlive(url) {
   }
 }
 
-const rootNorm = stripWww(rootUrl.replace(/\/+$/, ""));
-
-const TUNE = {
-  // --- 1. DOM depth tuning ----------------------------------------
-  domSampleSel: `
-    nav a, header a, [role="navigation"] a, [role="menubar"] a,
-    *[class*="nav" i] a, *[class*="menu" i] a,
-    *[id*="nav" i] a,  *[id*="menu" i] a
-  `,
-  keepPct: 0.9, // capture this fraction of anchors
-  domDepthCap: 8, // never allow > 8 (safety)
-
-  // --- 2. Hop-depth tuning ----------------------------------------
-  hopMaxCap: 3, // never crawl further than this
-  hopStopGain: 0.15, // stop when newLinks / prevLinks < 15 %
-  hopLinkFloor: 10, // but always crawl until we have ≥ 10 links
-};
-
-async function tuneSite(rootUrl) {
-  const rootHtml = await (await fetch(rootUrl)).text();
-  const $ = cheerio.load(rootHtml);
-
-  /* ---------- 1. DOM-depth distribution ---------- */
-  const depthHist = {};
-  $(TUNE.domSampleSel).each((_, a) => {
-    let d = 0,
-      cur = $(a);
-    while (
-      cur.length &&
-      !cur.is(
-        'nav, header, [role="navigation"], [role="menubar"], *[class*="nav" i], *[class*="menu" i], *[id*="nav" i], *[id*="menu" i]'
-      )
-    ) {
-      cur = cur.parent();
-      d++;
-    }
-    depthHist[d] = (depthHist[d] || 0) + 1;
-  });
-
-  const totalAnchors = Object.values(depthHist).reduce((s, n) => s + n, 0);
-  let cum = 0,
-    maxDomDepth = 0;
-  for (let d = 0; d <= TUNE.domDepthCap; d++) {
-    cum += depthHist[d] || 0;
-    if (cum / totalAnchors >= TUNE.keepPct) {
-      maxDomDepth = d;
-      break;
-    }
-  }
-
-  /* ---------- 2. Hop-depth estimation ---------- */
-  const seen = new Set([rootUrl]);
-  let layer = new Set([rootUrl]);
-  let nextHopDepth = 0;
-
-  while (nextHopDepth < TUNE.hopMaxCap) {
-    const newLayer = new Set();
-
-    // fetch all pages in current layer (HEAD only – cheap)
-    await Promise.all(
-      [...layer].map(async (url) => {
-        try {
-          const html = await (await fetch(url)).text();
-          const $$ = cheerio.load(html);
-          $$("a[href]").each((_, a) => {
-            try {
-              const abs = new URL($$(a).attr("href"), url).href;
-              if (!seen.has(abs) && abs.startsWith(rootUrl)) {
-                seen.add(abs);
-                newLayer.add(abs);
-              }
-            } catch {}
-          });
-        } catch {}
-      })
-    );
-
-    const gain = newLayer.size / (layer.size || 1);
-    if (seen.size >= TUNE.hopLinkFloor && gain < TUNE.hopStopGain) break;
-
-    layer = newLayer;
-    if (!layer.size) break;
-    nextHopDepth += 1;
-  }
-
-  return { maxDomDepth, maxHopDepth: nextHopDepth };
-}
+const test = [
+  {
+    rootUrl: "https://ticketmaster.se/",
+    keyword: "wrestling",
+    opt: {
+      MAX_DOM_DEPTH: 4,
+      maxDepth: 1,
+      MAX_TREE_DEPTH: 3,
+      MAX_PARENT_DEPTH: 2,
+    },
+  },
+  {
+    rootUrl: "https://nike.com/",
+    keyword: "sportswear",
+    opt: {
+      MAX_DOM_DEPTH: 4,
+      maxDepth: 1,
+      MAX_TREE_DEPTH: 3,
+      MAX_PARENT_DEPTH: 2,
+    },
+  },
+  {
+    rootUrl: "https://uniqlo.com/us/en/",
+    keyword: "clothing",
+    opt: {
+      MAX_DOM_DEPTH: 4,
+      maxDepth: 1,
+      MAX_TREE_DEPTH: 3,
+      MAX_PARENT_DEPTH: 2,
+    },
+  },
+  {
+    rootUrl: "https://indiehackers.com/",
+    keyword: "entrepreneurship",
+    opt: {
+      MAX_DOM_DEPTH: 4,
+      maxDepth: 1,
+      MAX_TREE_DEPTH: 3,
+      MAX_PARENT_DEPTH: 2,
+    },
+  },
+  {
+    rootUrl: "https://eu.louisvuitton.com/eng-e1/homepage",
+    keyword: "luxury",
+    opt: {
+      MAX_DOM_DEPTH: 4,
+      maxDepth: 1,
+      MAX_TREE_DEPTH: 3,
+      MAX_PARENT_DEPTH: 2,
+    },
+  },
+  {
+    rootUrl: "https://abswheels.se",
+    keyword: "wheels",
+    opt: {
+      MAX_DOM_DEPTH: 4,
+      maxDepth: 1,
+      MAX_TREE_DEPTH: 3,
+      MAX_PARENT_DEPTH: 2,
+    },
+  },
+  {
+    rootUrl: "https://apotea.se",
+    keyword: "pharmacy",
+    opt: {
+      MAX_DOM_DEPTH: 4,
+      maxDepth: 1,
+      MAX_TREE_DEPTH: 3,
+      MAX_PARENT_DEPTH: 2,
+    },
+  },
+  {
+    rootUrl: "https://elgiganten.se",
+    keyword: "electronics",
+    opt: {
+      MAX_DOM_DEPTH: 4,
+      maxDepth: 1,
+      MAX_TREE_DEPTH: 3,
+      MAX_PARENT_DEPTH: 2,
+    },
+  },
+  {
+    rootUrl: "https://proport.se/",
+    keyword: "furniture",
+    opt: {
+      MAX_DOM_DEPTH: 4,
+      maxDepth: 1,
+      MAX_TREE_DEPTH: 3,
+      MAX_PARENT_DEPTH: 2,
+    },
+  },
+  {
+    rootUrl: "https://ikea.com/us/en/",
+    keyword: "home goods",
+    opt: {
+      MAX_DOM_DEPTH: 4,
+      maxDepth: 1,
+      MAX_TREE_DEPTH: 3,
+      MAX_PARENT_DEPTH: 2,
+    },
+  },
+  {
+    rootUrl: "https://skimming.ai",
+    keyword: "AI technology",
+    opt: {
+      MAX_DOM_DEPTH: 4,
+      maxDepth: 1,
+      MAX_TREE_DEPTH: 3,
+      MAX_PARENT_DEPTH: 2,
+    },
+  },
+  {
+    rootUrl: "https://azdesign.se/",
+    keyword: "design",
+    opt: {
+      MAX_DOM_DEPTH: 4,
+      maxDepth: 1,
+      MAX_TREE_DEPTH: 3,
+      MAX_PARENT_DEPTH: 2,
+    },
+  },
+  {
+    rootUrl: "https://jula.se/",
+    keyword: "hardware",
+    opt: {
+      MAX_DOM_DEPTH: 4,
+      maxDepth: 1,
+      MAX_TREE_DEPTH: 3,
+      MAX_PARENT_DEPTH: 2,
+    },
+  },
+  {
+    rootUrl: "https://nordicnest.se/",
+    keyword: "fälgar",
+    opt: {
+      MAX_DOM_DEPTH: 4,
+      maxDepth: 1,
+      MAX_TREE_DEPTH: 3,
+      MAX_PARENT_DEPTH: 2,
+    },
+  },
+  {
+    rootUrl: "https://aurisestetic.se/",
+    keyword: "fälgar",
+    opt: {
+      MAX_DOM_DEPTH: 4,
+      maxDepth: 1,
+      MAX_TREE_DEPTH: 3,
+      MAX_PARENT_DEPTH: 2,
+    },
+  },
+  {
+    rootUrl: "https://jonathanfogelberg.com/",
+    keyword: "kondition",
+    opt: {
+      MAX_DOM_DEPTH: 4,
+      maxDepth: 1,
+      MAX_TREE_DEPTH: 3,
+      MAX_PARENT_DEPTH: 2,
+    },
+  },
+];
 
 (async () => {
-  // const { maxDomDepth: MAX_DOM_DEPTH, maxHopDepth: maxDepth } = await tuneSite(
-  //   rootUrl
-  // );
+  async function getTopURLS(
+    rootUrl,
+    keyword,
+    { MAX_DOM_DEPTH, maxDepth, MAX_TREE_DEPTH, MAX_PARENT_DEPTH }
+  ) {
+    const rootNorm = normalizeUrl(rootUrl);
+    console.log({
+      MAX_DOM_DEPTH,
+      maxDepth,
+      MAX_TREE_DEPTH,
+      MAX_PARENT_DEPTH,
+      rootNorm,
+    });
+    const docs = await new RecursiveUrlLoader(rootUrl, { maxDepth }).load();
+    console.log({ docs: docs.length, rootNorm });
+    const linkBag = [];
+    for (const doc of docs) {
+      const html = doc.pageContent || "";
+      const baseUrl = stripWww(
+        doc.metadata?.source || doc.metadata?.url || rootUrl
+      );
+      const $ = cheerio.load(html);
 
-  // const prompt = `You are an expert information-architect and SEO crawler-tuner.
-
-  //     Root domain: ${rootUrl}
-
-  //     Given a root domain, you must decide two integers:
-
-  //     • maxDepth      – fewest link-hops needed to discover ALL major
-  //                       navigation sections. 0 = root only.
-  //     • maxDomDepth  – deepest DOM nesting level that still captures ≥ 90 %
-  //                       of navigation anchors when selecting with the CSS
-  //                      pattern provided by the user.
-
-  //     Rules:
-  //     1. Return the *smallest* numbers that satisfy the 90 % coverage rule.
-  //     2. Hard limits: 0 ≤ maxDepth ≤ 5, 0 ≤ maxDomDepth ≤ 8.
-  //     3. Respond **only** by calling the function set_crawl_params – no prose.
-  //     4. Think step-by-step *internally* but never reveal the chain of thought.`;
-
-  // const completion = await client.chat.completions.create({
-  //   model: "gpt-4o-search-preview",
-  //   messages: [
-  //     {
-  //       role: "user",
-  //       content: prompt,
-  //     },
-  //   ],
-  // });
-
-  // console.log(completion.choices[0].message.content);
-
-  const MAX_DOM_DEPTH = 4;
-  const maxDepth = 1;
-
-  const docs = await new RecursiveUrlLoader(rootUrl, { maxDepth }).load();
-  console.log({ docs: docs.length });
-  const linkBag = [];
-  for (const doc of docs) {
-    const html = doc.pageContent || "";
-    const baseUrl = stripWww(
-      doc.metadata?.source || doc.metadata?.url || rootUrl
-    );
-    const $ = cheerio.load(html);
-
-    const selectors = ` nav a, header a,
+      const selectors = ` nav a, header a,
       [role="navigation"] a, [role="menubar"] a,
       *[class*="nav" i] a, *[class*="menu" i] a,
       *[class*="top-bar" i] a, *[class*="appbar" i] a,
       *[id*="nav" i] a, *[id*="menu" i] a, *[id*="header" i] a`;
 
-    const NAV_ROOTS = `  nav,
+      const NAV_ROOTS = `  nav,
   header,
   [role="navigation"],
   [role="menubar"],
@@ -569,88 +653,238 @@ async function tuneSite(rootUrl) {
   *[id*="nav" i],
   *[id*="menu" i],
   *[id*="header" i]`
-      .trim()
-      .replace(/\s+/g, " ");
+        .trim()
+        .replace(/\s+/g, " ");
 
-    $(selectors).each((_, el) => {
-      let href = $(el).attr("href")?.trim();
-      if (!href) return;
+      $(selectors).each((_, el) => {
+        let href = $(el).attr("href")?.trim();
+        if (!href) return;
 
-      let depth = 0;
-      let cur = $(el);
+        let depth = 0;
+        let cur = $(el);
 
-      while (cur.length && !cur.is(NAV_ROOTS)) {
-        cur = cur.parent();
-        depth++;
-      }
-      if (depth > MAX_DOM_DEPTH) return;
+        while (cur.length && !cur.is(NAV_ROOTS)) {
+          cur = cur.parent();
+          depth++;
+        }
+        if (depth > MAX_DOM_DEPTH) return;
 
-      if (/^(#|mailto:|tel:|\?|\/\?)/.test(href)) return;
+        if (/^(#|mailto:|tel:|\?|\/\?)/.test(href)) return;
 
-      try {
-        const abs = normalizeUrl(href, baseUrl);
-        if (abs === rootNorm) return;
+        try {
+          const abs = normalizeUrl(href, baseUrl);
+          if (abs === rootNorm) return;
 
-        const u = new URL(abs);
-        if (!/^https?:$/.test(u.protocol) || u.search || u.hash) return;
-        const targetHost = stripWww(u?.hostname);
-        const rootHost = stripWww(new URL(rootUrl)?.hostname);
+          const u = new URL(abs);
+          if (!/^https?:$/.test(u.protocol) || u.search || u.hash) return;
+          const targetHost = stripWww(u?.hostname);
+          const rootHost = stripWww(new URL(rootUrl)?.hostname);
 
-        if (targetHost !== rootHost) return;
+          if (targetHost !== rootHost) return;
 
-        const text = $(el).text().trim().toLowerCase();
-        if (
-          !text ||
-          typeof text !== "string" ||
-          text.length < 2 ||
-          text.length > 80 ||
-          /<\/?[a-z][\s\S]*>/i.test(text) ||
-          /^[^\w\d]+$/.test(text) ||
-          /\\[nrt]/.test(text) ||
-          /{{.*?}}/.test(text) ||
-          /[a-zA-Z]{2,}\s{2,}[a-zA-Z]{2,}/.test(text)
-        )
-          return;
+          const text = $(el).text().trim().toLowerCase();
+          if (
+            !text ||
+            typeof text !== "string" ||
+            text.length < 2 ||
+            text.length > 80 ||
+            /<\/?[a-z][\s\S]*>/i.test(text) ||
+            /^[^\w\d]+$/.test(text) ||
+            /\\[nrt]/.test(text) ||
+            /{{.*?}}/.test(text) ||
+            /[a-zA-Z]{2,}\s{2,}[a-zA-Z]{2,}/.test(text)
+          )
+            return;
 
-        linkBag.push({ href: abs, title: text });
-      } catch {}
-    });
-  }
-
-  const uniq = Array.from(new Map(linkBag.map((o) => [o.href, o])).values());
-
-  const hrefSet = new Set(uniq.map((l) => l.href));
-
-  function keepIfNoParentExists(href) {
-    let cur = href.replace(/\/+$/, "");
-    while (cur.startsWith(rootNorm) && cur.length > rootNorm.length) {
-      cur = cur.slice(0, cur.lastIndexOf("/"));
-      if (hrefSet.has(cur)) return false;
+          linkBag.push({ href: abs, title: text });
+        } catch {}
+      });
     }
-    return true;
+
+    const uniq = Array.from(new Map(linkBag.map((o) => [o.href, o])).values());
+    // console.log({ uniq });
+    console.log({ uniq: uniq.length });
+    const hrefSet = new Set(uniq.map((l) => l.href));
+
+    function keepIfNoParentExists(href) {
+      const hrefNorm = href.replace(/\/+$/, "");
+
+      if (!hrefNorm.startsWith(rootNorm)) return true;
+
+      const segments = hrefNorm
+        .slice(rootNorm.length)
+        .replace(/^\/+/, "")
+        .split("/")
+        .filter(Boolean);
+
+      let depth = 1;
+
+      for (let i = 0; i < segments.length - 1; i++) {
+        const singleURL = `${rootNorm}/${segments[i]}`;
+        if (hrefSet.has(singleURL)) depth++;
+      }
+
+      return depth <= MAX_TREE_DEPTH;
+    }
+
+    const filtered = uniq.filter((l) => keepIfNoParentExists(l.href));
+    console.log({ filtered: filtered.length });
+    const verified = (
+      await Promise.all(
+        filtered?.map(async (link) => {
+          const alive = await isUrlAlive(link.href /* , { timeout: 5000 } */);
+          return alive ? link : null;
+        })
+      )
+    ).filter(Boolean);
+
+    const cosineRes = await similar(keyword, verified, 15);
+    // const cosineRes = readJson("similarCosine.json");
+
+    console.log({ cosineRes });
+    //==================================
+    const hrefSetC = new Set(cosineRes.map((l) => l.href));
+
+    let pseudoParent = null;
+    {
+      const relPaths = [];
+      for (const url of hrefSetC) {
+        if (!url.startsWith(rootNorm)) continue; // off-site
+        const rel = url
+          .slice(rootNorm.length) // trim rootNorm
+          .replace(/^\/+/, ""); // trim any leading “/”
+        if (rel) relPaths.push(rel.split("/")); // store segments
+      }
+
+      if (relPaths.length) {
+        let common = relPaths[0];
+        for (const segs of relPaths.slice(1)) {
+          let i = 0;
+          while (i < common.length && i < segs.length && common[i] === segs[i])
+            i++;
+          common = common.slice(0, i); // keep only the common part
+          if (!common.length) break; // bail early if nothing matches
+        }
+
+        if (common.length) {
+          const candidate = common.join("/"); // e.g. "sv/en" or "sv/en/ar"
+          if (!hrefSetC.has(`${rootNorm}/${candidate}`)) {
+            pseudoParent = candidate;
+          }
+        }
+      }
+    }
+    function getFirstThreeWords(str) {
+      const words = str.split(" ");
+      return words.slice(0, 3).join(" ");
+    }
+    function isOnlyNumbers(str) {
+      return /^[0-9]+$/.test(str);
+    }
+    console.log({ pseudoParent });
+    async function keepParents({ href, title, distance }) {
+      const trimTitle = getFirstThreeWords(title);
+      const hrefNorm = href.replace(/\/+$/, ""); // trim trailing “/”
+      if (!hrefNorm.startsWith(rootNorm))
+        return { href, title: trimTitle, distance }; // off-domain → keep
+
+      let segments = hrefNorm
+        .slice(rootNorm.length)
+        .replace(/^\/+/, "")
+        .split("/")
+        .filter(
+          (v) => !pseudoParent?.replace(/^\/+/, "")?.split("/")?.includes(v)
+        )
+        .filter(Boolean);
+      let depth = 0;
+      for (let i = 0; i <= segments.length; i++) {
+        const singleURL = `${rootNorm}${
+          pseudoParent ? `/${pseudoParent}` : ``
+        }/${segments.slice(0, i).join("/")}`;
+
+        const isalive = await isUrlDeepAlive(
+          singleURL /* , { timeout: 8000 } */
+        );
+        console.log({ isalive });
+        if (isalive) {
+          if (depth == MAX_PARENT_DEPTH) {
+            console.log({ singleURL, depth });
+            return {
+              href: singleURL,
+              title: isOnlyNumbers(segments[i - 1])
+                ? trimTitle
+                : segments[i - 1]?.replace(/-/g, " ") || trimTitle,
+              distance,
+            };
+          }
+          depth++;
+        }
+      }
+      if (depth > MAX_PARENT_DEPTH) {
+        return null;
+      }
+      return { href, title: trimTitle, distance };
+    }
+
+    const batchSize = 100;
+    let acc = [];
+
+    for (let i = 0; i < cosineRes.length; i += batchSize) {
+      const batch = cosineRes.slice(i, i + batchSize);
+      const batchResults = await Promise.all(
+        batch.map((link) => keepParents(link))
+      );
+      acc.push(...batchResults);
+    }
+
+    // const uniqAcc = Array.from(
+    //   acc?.filter((l) => l)
+    //     .sort((a, b) => b.distance - a.distance)
+    //     .reduce((map, item) => map.set(item.href, item), new Map())
+    //     .values()
+    // )
+
+    const uniqAcc = Array.from(
+      new Map(acc?.filter((l) => l).map((o) => [o.href, o])).values()
+    );
+
+    const hrefParent = new Set(uniqAcc.map((l) => l.href));
+    function keepTheParent(href) {
+      let cur = href.replace(/\/+$/, "");
+      while (cur.startsWith(rootNorm) && cur.length > rootNorm.length) {
+        cur = cur.slice(0, cur.lastIndexOf("/"));
+        if (hrefParent.has(cur)) return false;
+      }
+      return true;
+    }
+
+    const linksData = uniqAcc.filter((l) => keepTheParent(l.href));
+    saveJson(
+      {
+        root: rootUrl,
+        length: {
+          links: filtered?.length,
+          aliveTop: verified?.length,
+          cosineResults: cosineRes?.length,
+          parents: acc?.length,
+          uniqAcc: uniqAcc?.length,
+          linksData: linksData?.length,
+        },
+        links: filtered,
+        aliveTop: verified,
+        cosineResults: cosineRes,
+        parents: acc,
+        uniqAcc,
+        linksData,
+      },
+      `${keyword}-top-level.json`,
+      "top-level-url"
+    );
   }
 
-  const filtered = uniq.filter((l) => keepIfNoParentExists(l.href));
-  const verified = (
-    await Promise.all(
-      filtered?.slice(0, 100)?.map(async (link) => {
-        const alive = await isUrlAlive(link.href);
-        return alive ? link : null;
-      })
+  await Promise.all(
+    test?.map(
+      async (data) => await getTopURLS(data.rootUrl, data.keyword, data.opt)
     )
-  ).filter(Boolean);
-
-  const cosineRes = await similar(keyword, verified, 20);
-
-  saveJson(
-    {
-      root: rootUrl,
-      kept: filtered.length,
-      verifiedTop: verified.length,
-      links: filtered,
-      aliveTop: verified,
-      cosineResults: cosineRes,
-    },
-    "top-level.json"
   );
 })();
